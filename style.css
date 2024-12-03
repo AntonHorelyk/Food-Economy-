@@ -2,74 +2,39 @@
     margin: 0;
     background-color: rgb(218, 220, 219);
 }
+#name{
+width: 100%;
+height: 20%;
+display: flex;
+justify-content: center;
+}
+
 nav{
     width: 100%;
     height: 15%;
-    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: #ff9800;
+    padding: 10px;
+    font-size: 18px;
 }
 
 .nav {
-    position: fixed;
     width: 100vw;
     display: flex;
-    background-color: rgb(185, 187, 187);
-    justify-content: space-between;
+    background-color: #ff9800;;
+    justify-content: space-evenly;
     z-index: 10;
-    
 }
 
 .nav-button {
     margin-top: 3px;
-    margin-right: 5px;
+    gap: 10px;
 }
 
-
-.tabs {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    gap: 5px;
-    margin-top: 50px;
-}
-.tab input[type="radio"] {
-    display: none;
-}
-
-.tab-title {
-    display: inline-block;
-    background: rgb(91, 91, 91);
-    padding: 5px 10px;
-    font-family: 'Bradley Hand', 'Times New Roman', Times, serif;
-    border-bottom: none;
-}
-.tab-title:hover {
-    background: rgba(154, 154, 156, 0.8);
-    cursor: pointer;
-}
-
-.tab-content {
-    position: absolute;
-    padding: 10px;
-    left: 0;
-    width: calc(100% - 20px);
-    display: none;
-}
-
-.tab :checked+.tab-title {
-    position: relative;
-    background: rgb(92, 92, 92);
-    top: 1px;
-    z-index: 0;
-}
-
-.tab :checked~.tab-content {
-    display: block;
-}
-
-.container {
-    position: relative;
-    display: flex;
-    justify-content: center;
+.bigButton{
+width: 15em;
+height: 4em;
 }
 
 footer {

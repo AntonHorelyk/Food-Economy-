@@ -6,173 +6,41 @@
     <link rel="stylesheet" href="style.css">
     <title>Shopper</title>
 </head>
+
+
 <body>
+    <div id="name">
+        <H1>Shopper</H1>
+    </div>
+
+  
     <nav>
         <div class="nav">
-            <div id="Name">
-                <H1>Shopper</H1>
-            </div>
             <div class="nav-button">
-                <a href=index.html><button class="button">Home</button></a>
-                <a href=""><button class="button">Your Staff</button></a>
-                <a href=""><button class="button">Need this Staff</button></a>
-                <a href=""><button class="button">Last Time Staff</button></a>
-                <a href=""><button class="button">More about Us</button></a>
+                <a href=index.html><button class="button">Scan</button></a>
+                <a href=""><button class="button">New List</button></a>
+                <a href=""><button class="button bigButton"><h4>Hello Name</h4></button></a>
+                <a href=""><button class="button">Recipe</button></a>
+                <a href=""><button class="button">More </button></a>
             </div>
         </div>
     </nav>
 
-<main>
-    <div>
-
+    <main>
+       <h1></h1>
+    <div class="product-list">
+        <h2>מוצרים משופרסל</h2>
+        <ul id="shufersal-list"></ul>
     </div>
-    <div>
-
+    <div class="product-list">
+        <h2>מוצרים בסל האחרון</h2>
+        <ul id="last-cart-list"></ul>
     </div>
-</main>
-
-
-<main class="tabs">
-
-    <div class="tab">
-      <input type="radio" id="tab1" name="tab-group" checked>
-      <label for="tab1" class="tab-title">
-        <h2 class="naming">Need this staff</h2>
-      </label>
-      <section class="tab-content">
-        <hr>
-        <div class="container store">
-            <ul>
-                <li>Fruits
-                    <ol>
-                        <li>Apples</li>
-                        <li>Bananas</li>
-                        <li>Oranges</li>
-                    </ol>
-                </li>
-                <li>Vegetables
-                    <ol>
-                        <li>Carrots</li>
-                        <li>Tomatoes</li>
-                        <li>Broccoli</li>
-                    </ol>
-                </li>
-                <li>Dairy
-                    <ol>
-                        <li>Milk</li>
-                        <li>Cheese</li>
-                        <li>Yogurt</li>
-                    </ol>
-                </li>
-                <li>Bakery
-                    <ol>
-                        <li>Bread</li>
-                        <li>Croissants</li>
-                        <li>Muffins</li>
-                    </ol>
-                </li>
-            </ul>
-        </div>
-      </section>
+    <div class="product-list">
+        <h2>מוצרים חסרים בסל האחרון</h2>
+        <ul id="missing-products-list"></ul>
     </div>
-  
-    <div class="tab">
-      <input type="radio" id="tab2" name="tab-group">
-      <label for="tab2" class="tab-title">
-        <h2 class="naming">Last Time</h2>
-      </label>
-      <section class="tab-content">
-        <hr>
-        <div class="container">
-            <ul>
-                <li>Fruits
-                    <ol>
-                        <li>Apples</li>
-                        <li>Bananas</li>
-                        <li>Oranges</li>
-                    </ol>
-                </li>
-                <li>Vegetables
-                    <ol>
-                        <li>Carrots</li>
-                        <li>Tomatoes</li>
-                        <li>Broccoli</li>
-                    </ol>
-                </li>
-                <li>Dairy
-                    <ol>
-                        <li>Milk</li>
-                        <li>Cheese</li>
-                        <li>Yogurt</li>
-                    </ol>
-                </li>
-                <li>Bakery
-                    <ol>
-                        <li>Bread</li>
-                        <li>Croissants</li>
-                        <li>Muffins</li>
-                    </ol>
-                </li>
-            </ul>
-        </div>
-      </section>
-    </div>
-  
-    <div class="tab">
-      <input type="radio" id="tab3" name="tab-group">
-      <label for="tab3" class="tab-title">
-        <h2 class="naming">Your Staff</h2>
-      </label>
-
-      <section class="tab-content">
-        <hr>
-        <div class="container">
-           
-            <ul>
-                <li>Fruits
-                    <ol>
-                        <li>Apples</li>
-                        <li>Bananas</li>
-                        <li>Oranges</li>
-                    </ol>
-                </li>
-                <li>Vegetables
-                    <ol>
-                        <li>Carrots</li>
-                        <li>Tomatoes</li>
-                        <li>Broccoli</li>
-                    </ol>
-                </li>
-                <li>Dairy
-                    <ol>
-                        <li>Milk</li>
-                        <li>Cheese</li>
-                        <li>Yogurt</li>
-                    </ol>
-                </li>
-                <li>Bakery
-                    <ol>
-                        <li>Bread</li>
-                        <li>Croissants</li>
-                        <li>Muffins</li>
-                    </ol>
-                </li>
-            </ul>
-          <div class="overlay">
-            <div class="text"></div>
-          </div>
-        </div>
-       
-      </section>
-    </div>
-  </main>
-  
-   
-
-    
-    <div>
-
-    </div>
+    </main>
 
 
         <footer class="contact">
@@ -186,5 +54,6 @@
             </div>
 
         </footer>
+        <script src="script.js"></script>
 </body>
 </html>
