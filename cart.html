@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Shopper</title>
+    <title>Cart</title>
 </head>
 
 
 <body>
     <div id="name">
-        <H1>Shopper</H1>
+        <H1>Cart</H1>
     </div>
 
   
@@ -26,7 +26,21 @@
         </div>
     </nav>
 
-  
+    <main>
+       <h1></h1>
+    <div class="product-list">
+        <h2>מוצרים משופרסל</h2>
+        <ul id="shufersal-list"></ul>
+    </div>
+    <div class="product-list">
+        <h2>מוצרים בסל האחרון</h2>
+        <ul id="last-cart-list"></ul>
+    </div>
+    <div class="product-list">
+        <h2>מוצרים חסרים בסל האחרון</h2>
+        <ul id="missing-products-list"></ul>
+    </div>
+    </main>
 
 
         <footer class="contact">
@@ -40,6 +54,6 @@
             </div>
 
         </footer>
-        <script src="script.js"></script>
+        <script src="cart.js"></script>
 </body>
 </html>
