@@ -51,70 +51,71 @@ canvas.addEventListener("mouseup", (e) => {
   endY = e.offsetY;
 });
 
-// Crop the selected area
-document.getElementById("cropButton").addEventListener("click", () => {
-  const cropWidth = Math.abs(endX - startX);
-  const cropHeight = Math.abs(endY - startY);
-  const cropStartX = Math.min(startX, endX);
-  const cropStartY = Math.min(startY, endY);
+// Combined Crop and Process Functionality
+document
+  .getElementById("cropAndProcessButton")
+  .addEventListener("click", () => {
+    const cropWidth = Math.abs(endX - startX);
+    const cropHeight = Math.abs(endY - startY);
+    const cropStartX = Math.min(startX, endX);
+    const cropStartY = Math.min(startY, endY);
 
-  if (cropWidth > 0 && cropHeight > 0) {
-    croppedCanvas.width = cropWidth;
-    croppedCanvas.height = cropHeight;
-    croppedCtx.drawImage(
-      canvas,
-      cropStartX,
-      cropStartY,
-      cropWidth,
-      cropHeight,
-      0,
-      0,
-      cropWidth,
-      cropHeight
-    );
+    if (cropWidth > 0 && cropHeight > 0) {
+      // Crop the selected area
+      croppedCanvas.width = cropWidth;
+      croppedCanvas.height = cropHeight;
+      croppedCtx.drawImage(
+        canvas,
+        cropStartX,
+        cropStartY,
+        cropWidth,
+        cropHeight,
+        0,
+        0,
+        cropWidth,
+        cropHeight
+      );
 
-    alert("Cropped area ready for upload!");
-  } else {
-    alert("Invalid cropping area!");
-  }
-});
+      // Convert cropped area to Base64
+      const base64Image = croppedCanvas.toDataURL("image/png").split(",")[1];
+      const apiKey = "AIzaSyA0zBj3kXMpPR0uqwTtpwkEsdC_EKDjeP0";
+      const url = `https://vision.googleapis.com/v1/images:annotate?key=${apiKey}`;
 
-// Upload cropped area and process with Google Vision API
-document.getElementById("uploadButton").addEventListener("click", () => {
-  const base64Image = croppedCanvas.toDataURL("image/png").split(",")[1];
-  const apiKey = "AIzaSyA0zBj3kXMpPR0uqwTtpwkEsdC_EKDjeP0";
-  const url = `https://vision.googleapis.com/v1/images:annotate?key=${apiKey}`;
+      const requestBody = {
+        requests: [
+          {
+            image: { content: base64Image },
+            features: [{ type: "TEXT_DETECTION" }],
+          },
+        ],
+      };
 
-  const requestBody = {
-    requests: [
-      {
-        image: { content: base64Image },
-        features: [{ type: "TEXT_DETECTION" }],
-      },
-    ],
-  };
+      // Send the cropped area to Google Vision API
+      fetch(url, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(requestBody),
+      })
+        .then((response) => response.json())
+        .then((data) => {
+          const detectedText =
+            data.responses[0]?.fullTextAnnotation?.text || "No text found";
 
-  fetch(url, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify(requestBody),
-  })
-    .then((response) => response.json())
-    .then((data) => {
-      const detectedText =
-        data.responses[0]?.fullTextAnnotation?.text || "No text found";
-
-      // Display detected text in the editable textarea
-      const editableText = document.getElementById("editableText");
-      editableText.value = detectedText;
-      editableText.focus(); // Focus the textarea for user convenience
-    })
-    .catch((error) => {
-      console.error("Error:", error);
-    });
-});
+          // Display detected text in the editable textarea
+          const editableText = document.getElementById("editableText");
+          editableText.value = detectedText;
+          editableText.focus(); // Focus the textarea for user convenience
+          alertify.success("הקבלה הומרה בהצלחה");
+        })
+        .catch((error) => {
+          console.error("Error:", error);
+        });
+    } else {
+      alertify.error("נסו שוב");
+    }
+  });
 
 // Reset the canvas
 document.getElementById("resetButton").addEventListener("click", () => {
@@ -126,6 +127,12 @@ document.getElementById("resetButton").addEventListener("click", () => {
 // Save the manually edited text
 document.getElementById("saveButton").addEventListener("click", () => {
   const editedText = document.getElementById("editableText").value;
-  console.log("Edited text:", editedText);
-  alert("Text saved successfully!");
+  const uploadedListPrompt = `זו רשימת הקניות שלי${editedText}, תן לי 3 מתכונים מבוססים על הרשימה`;
+  const uploadedList = editedText;
+
+  localStorage.setItem("uploadedListPrompt", uploadedListPrompt);
+  localStorage.setItem("uploadedList", uploadedList);
+  console.log("uploadedListPrompt", uploadedListPrompt);
+  console.log("uploadedList", uploadedList);
+  alertify.success("!הקבלה נשמרה בהצלחה");
 });
