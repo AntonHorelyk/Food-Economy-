@@ -36,7 +36,7 @@
     transition: all 0.3s ease-in-out;
     position: relative;
     overflow: hidden;
-}
+} 
 
 .styled-button::before {
     content: '';
