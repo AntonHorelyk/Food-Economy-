@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>צרו קשר</title>
+    <link rel="stylesheet" href="/features/features.css" />
+    <link rel="stylesheet" href="contactUs.css " />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
+      integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <div class="main">
+      <header>
+        <h1>:צרו קשר</h1>
+      </header>
+      <div>
+        <form action="https://formspree.io/f/meoqnpaw" method="post" id="form">
+          <label for="name"> :שם מלא</label>
+          <input
+            type="text"
+            id="name"
+            placeholder="כתבו את שמכם"
+            required
+            name="name"
+          />
+          <label for="mail">:מייל</label>
+          <input
+            type="email"
+            id="mail"
+            placeholder="כתבו את המייל שלכם"
+            required
+            name="email"
+          />
+          <label for="phone">:טלפון</label>
+          <input
+            type="tel"
+            id="phone"
+            placeholder="מספר הטלפון שלכם"
+            required
+            minlength="10"
+            maxlength="14"
+            name="Phone-Mumber"
+          />
+          <button class="styled-button">שלח</button>
+        </form>
+      </div>
+
+      <footer>
+        <i class="fa-brands fa-whatsapp fa-2xl" style="color: #ffffff"></i>
+        <i class="fa-brands fa-github fa-2xl" style="color: #ffffff"></i>
+        <i class="fa-solid fa-envelope fa-2xl" style="color: #ffffff"></i>
+      </footer>
+    </div>
+  </body>
+</html>
