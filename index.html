@@ -4,32 +4,76 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Shopper</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>פרודוקטור</title>
 </head>
 
 
 <body>
     <div id="name">
-        <H1>Shopper</H1>
+        <H1>פרודוקטור</H1>
     </div>
-
   
     <nav>
         <div class="nav">
             <div class="nav-button">
-                <a href=index.html><button class="button">Scan</button></a>
-                <a href=""><button class="button">New List</button></a>
-                <a href=""><button class="button bigButton"><h4>Hello, Name!</h4></button></a>
-                <a href=""><button class="button">Recipe</button></a>
-                <a href=""><button class="button">More </button></a>
+                <a href=index.html><button class="button">לסרוק</button></a>
+                <a href=""><button class="button">רשיומה חדשה</button></a>
+                <a href=""><button class="button bigButton"><h4>!שלום מותק</h4></button></a>
+                <a href=""><button class="button">מתקון</button></a>
+                <a href=""><button class="button">קצת על עצמינו</button></a>
             </div>
         </div>
     </nav>
+  
+    <div class="center">
+        <canvas id="myChart" style="width:50%;max-width:600px;height: 50%;max-height:700px;"></canvas>
+       <div id="bothListsDiv">
 
-    <div>
-        <img src="img/1718222494974.png" alt="food" id="firImg">
+        <main class="tabs">
+            <div class="tab">
+                <input type="radio" id="tab1" name="tab-group" checked>
+                <label for="tab1" class="tab-title">
+                    <h2 class="naming">מוצרים שלך</h2>
+                </label>
+                <section class="tab-content">
+                    <div class="container store">
+                        <ol id="myListPr">
+                            <li>תפוח</li>
+                            <li>עגס</li>
+                            <li>ביצים</li>
+                            <li>בשר</li>
+                            <li>דגים</li>
+                        </ol>
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="tab">
+                <input type="radio" id="tab2" name="tab-group">
+                <label for="tab2" class="tab-title">
+                    <h2 class="naming">תזמין אותי</h2>
+                </label>
+                <section class="tab-content">
+                    
+                    <div class="container">
+                        <ol id="myUploadedList">
+                            <li>אורז</li>
+                            <li>רוטב שזיפים</li>
+                            <li>נענה</li>
+                            <li>פטריות</li>
+                            <li>לחם</li>
+                        </ol>
+                    </div>
+                   
+                </section>
+    
+            </div>
+        </div>
+        
     </div>
 
+  
     <footer class="contact">
         <div>
             <h3 id="contact">Contact Us</h3>
