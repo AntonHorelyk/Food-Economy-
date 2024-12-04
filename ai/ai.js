@@ -9,6 +9,7 @@ let startX, startY, endX, endY;
 
 // Load image into canvas
 fileInput.addEventListener("change", (e) => {
+  console.log(e);
   const file = e.target.files[0];
   if (file) {
     const reader = new FileReader();
@@ -72,7 +73,6 @@ document.getElementById("cropButton").addEventListener("click", () => {
       cropHeight
     );
 
-    console.log("Crop successful!");
     alert("Cropped area ready for upload!");
   } else {
     alert("Invalid cropping area!");
@@ -103,9 +103,13 @@ document.getElementById("uploadButton").addEventListener("click", () => {
   })
     .then((response) => response.json())
     .then((data) => {
-      const text =
+      const detectedText =
         data.responses[0]?.fullTextAnnotation?.text || "No text found";
-      document.getElementById("textOutput").innerText = text;
+
+      // Display detected text in the editable textarea
+      const editableText = document.getElementById("editableText");
+      editableText.value = detectedText;
+      editableText.focus(); // Focus the textarea for user convenience
     })
     .catch((error) => {
       console.error("Error:", error);
@@ -117,4 +121,11 @@ document.getElementById("resetButton").addEventListener("click", () => {
   ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
   croppedCanvas.width = 0;
   croppedCanvas.height = 0;
+});
+
+// Save the manually edited text
+document.getElementById("saveButton").addEventListener("click", () => {
+  const editedText = document.getElementById("editableText").value;
+  console.log("Edited text:", editedText);
+  alert("Text saved successfully!");
 });

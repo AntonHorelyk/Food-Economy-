@@ -1,13 +1,41 @@
-#canvasContainer {
-    position: relative;
-    display: inline-block;
-  }
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
 
-  canvas {
-    border: 1px solid #ccc;
-    cursor: crosshair;
-  }
+h1 {
+  color: #333;
+}
 
-  .controls {
-    margin-top: 10px;
-  }
+canvas {
+  border: 1px solid #ccc;
+  margin: 20px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: crosshair;
+}
+
+textarea {
+  display: block;
+  margin: 20px auto;
+  width: 80%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+}
+
+input[type="file"] {
+  margin: 10px 0;
+}

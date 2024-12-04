@@ -3,24 +3,36 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Crop and Upload</title>
+    <title>Image Crop and Text Detection</title>
     <link rel="stylesheet" href="ai.css" />
-    <style></style>
   </head>
   <body>
+    <h1>Image Crop and Text Detection</h1>
+
+    <!-- File Input -->
     <input type="file" id="imageInput" accept="image/*" />
-    <div id="canvasContainer">
-      <canvas id="imageCanvas"></canvas>
-    </div>
-    <div class="controls">
-      <button id="cropButton">Crop</button>
-      <button id="uploadButton">Upload Cropped Area</button>
+
+    <!-- Canvas for Image and Cropping -->
+    <canvas id="imageCanvas"></canvas>
+
+    <!-- Buttons -->
+    <div>
+      <button id="cropButton">Crop Image</button>
+      <button id="uploadButton">Detect Text</button>
       <button id="resetButton">Reset</button>
     </div>
-    <div id="output">
-      <h3>Extracted Text:</h3>
-      <p id="textOutput"></p>
-    </div>
+
+    <!-- Editable Text Area -->
+    <h2>Detected Text</h2>
+    <textarea
+      id="editableText"
+      rows="10"
+      cols="50"
+      placeholder="Detected text will appear here..."
+    ></textarea>
+
+    <!-- Save Button -->
+    <button id="saveButton">Save Edited Text</button>
 
     <script src="ai.js"></script>
   </body>
