@@ -37,6 +37,11 @@ width: 15em;
 height: 4em;
 }
 
+#firImg{
+width: auto;
+height: 50vh;
+}
+
 footer {
     display: flex;
     justify-content: center;
