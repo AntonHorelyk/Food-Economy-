@@ -1,0 +1,13 @@
+#canvasContainer {
+    position: relative;
+    display: inline-block;
+  }
+
+  canvas {
+    border: 1px solid #ccc;
+    cursor: crosshair;
+  }
+
+  .controls {
+    margin-top: 10px;
+  }
