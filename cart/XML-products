@@ -10,11 +10,11 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>1230000147576</ItemCode>
       <ItemType>1</ItemType>0
-      <ItemName>נאגטס ביונד מיט 200 גרם</ItemName>
+      <ItemName>נאגטס ביונד מיט</ItemName>
       <ManufacturerName>טיקנה ג'י.אמ.בי.אייג' אנ</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>נאגטס ביונד מיט</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -29,7 +29,7 @@
       <ItemCode>25700005698</ItemCode>
       <ItemType>1</ItemType>
       <ItemName>זיפלוק שקיות אחסון 24 יח</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>US</ManufactureCountry>
       <ManufacturerItemDescription>שקיות אחסון</ManufacturerItemDescription>
       <UnitQty>יחידה</UnitQty>
@@ -46,11 +46,11 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>3500610150524</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שאטו הו פוטו ס.בלאן750מל</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>שאטו הו פוטו ס.בלאן</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>שאטו סובינ.בלאן</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -64,8 +64,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>3574661485218</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>או בה פרוקומפורט נורמל32</ItemName>
-      <ManufacturerName>ש. שסטוביץ בע"\מ</ManufacturerName>
+      <ItemName>או בה פרוקומפורט נורמל</ItemName>
+      <ManufacturerName>ש. שסטוביץ בע"מ</ManufacturerName>
       <ManufactureCountry>GR</ManufactureCountry>
       <ManufacturerItemDescription>או בה פרוקומפורט</ManufacturerItemDescription>
       <UnitQty>יחידה</UnitQty>
@@ -82,11 +82,11 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>3600541956223</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ACTIVE PUREג'ל ניקוי150מ</ItemName>
+      <ItemName>ACTIVE PURE ג'ל ניקוי</ItemName>
       <ManufacturerName>קרלסרו, גרמניה</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>ג'ל ניקוי עמוק</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -118,11 +118,11 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>3600542541602</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גרנייה סרום ויטמין סי30מ</ItemName>
+      <ItemName>גרנייה סרום ויטמין סי</ItemName>
       <ManufacturerName>KARLSRUHE</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>גרנייה סרום ויטמ</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>30.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -136,11 +136,11 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>3760151010439</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אצבעות בסקוויט ציפוי שוק</ItemName>
+      <ItemName>אצבעות בסקוויט ציפוי שוקולד</ItemName>
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>אצבעות בסקוויט</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -154,11 +154,11 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>4002448017684</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סיליט באנג ספריי 750 מ"ל</ItemName>
+      <ItemName>סיליט באנג ספריי</ItemName>
       <ManufacturerName>רקיט בנקיזר</ManufacturerName>
       <ManufactureCountry>PL</ManufactureCountry>
       <ManufacturerItemDescription>סיליט באנג ספריי</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -176,7 +176,7 @@
       <ManufacturerName>ריגלי</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
       <ManufacturerItemDescription>אורביט בקבוק</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>84.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -190,11 +190,11 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4009900513791</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סקיטלס פירות חמוצים 152ג</ItemName>
+      <ItemName>סקיטלס פירות חמוצים</ItemName>
       <ManufacturerName>מרס ריגלי</ManufacturerName>
       <ManufactureCountry>CZ</ManufactureCountry>
       <ManufacturerItemDescription>סקיטלס פירות חמו</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>152.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -208,11 +208,11 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>4022025002100</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>בלו ויין מבעבע רוזה750מל</ItemName>
+      <ItemName>בלו ויין מבעבע רוזה</ItemName>
       <ManufacturerName>היי סישל סוהן טראבן</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>בלו ויין מבעבע</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -226,11 +226,11 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>4056800912483</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>וולה פלקס מוס לשיער 200</ItemName>
+      <ItemName>וולה פלקס מוס לשיער</ItemName>
       <ManufacturerName>אינטרספריי</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>וולה פלקס מוס</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -244,11 +244,11 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>4064666232379</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>וולה פלקס ספריי לשיער גמ</ItemName>
+      <ItemName>וולה פלקס ספריי לשיער</ItemName>
       <ManufacturerName>THEORAT INTERSPRAY</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>וולהפלקס ספריי א</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -262,7 +262,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4605246003523</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>תה שחור גולדן צילוני25ש</ItemName>
+      <ItemName>תה שחור גולדן צילוני</ItemName>
       <ManufacturerName>גרינפילד</ManufacturerName>
       <ManufactureCountry>RU</ManufactureCountry>
       <ManufacturerItemDescription>תה שחור צילוני</ManufacturerItemDescription>
@@ -298,11 +298,11 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4770166223242</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גלידת קרמל&amp;ביסקוDADU 250</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>גלידת קרמל ביסקוויט</ItemName>
+      <ManufacturerName>DADU</ManufacturerName>
       <ManufactureCountry>LT</ManufactureCountry>
       <ManufacturerItemDescription>גלידת קרמל ביסקו</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -317,10 +317,10 @@
       <ItemCode>4810168000066</ItemCode>
       <ItemType>1</ItemType>
       <ItemName>הרינג מלוח מצונן+תבלין</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>BY</ManufactureCountry>
       <ManufacturerItemDescription>הרינג מלוח מצונן</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -335,10 +335,10 @@
       <ItemCode>4810168024512</ItemCode>
       <ItemType>1</ItemType>
       <ItemName>הרינג מלוח מצונן+תבלין</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>BY</ManufactureCountry>
       <ManufacturerItemDescription>הרינג מלוח מצונן</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>260.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -352,11 +352,11 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4810168064204</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סלט איקרה לבנה 180 גרם</ItemName>
+      <ItemName>סלט איקרה לבנה</ItemName>
       <ManufacturerName>סנטה ברמור</ManufacturerName>
       <ManufactureCountry>BY</ManufactureCountry>
       <ManufacturerItemDescription>סלט איקרה לבנה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>180.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -370,11 +370,11 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4820077161956</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גלידת מקרון פיסטוק 240 ג</ItemName>
+      <ItemName>גלידת מקרון פיסטוק</ItemName>
       <ManufacturerName>ללס "טירס ט.מ מוסאיק"</ManufacturerName>
       <ManufactureCountry>UA</ManufactureCountry>
       <ManufacturerItemDescription>גלידת מקרון פיסט</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>240.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -388,11 +388,11 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>5014271002675</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מעדן תפוח וקינמון 284 גר</ItemName>
+      <ItemName>מעדן תפוח וקינמון</ItemName>
       <ManufacturerName>סנדלפור</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>מעדן תפוח קינמון</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>284.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -406,11 +406,11 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5014271004259</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מעדן פרי תות שדה 170 גרם</ItemName>
+      <ItemName>מעדן פרי תות שדה</ItemName>
       <ManufacturerName>סאן דלפור - שמבור</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>מעדן פרי תות שדה 170 גרם</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>170.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -424,11 +424,11 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5014271004266</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מעדן פרי דובדב.שחור170גר</ItemName>
+      <ItemName>מעדן פרי דובדב.שחור</ItemName>
       <ManufacturerName>סאן דלפור - שמבור</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>מעדן דובדבן שחור</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>170.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -442,11 +442,11 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5014271004273</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מעדן פרי ארבעה פירות170ג</ItemName>
+      <ItemName>מעדן פרי ארבעה פירות</ItemName>
       <ManufacturerName>סאן דלפור - שמבור</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>מעדן ארבעה פירות</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>170.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -460,11 +460,11 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5014271004280</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מעדן פרי משמש 170 גרם</ItemName>
+      <ItemName>מעדן פרי משמש</ItemName>
       <ManufacturerName>סאן דלפור - שמבור</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>מעדן פרי משמש</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>170.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -496,11 +496,11 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>50398904</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קרם חמצן6% בקבוק 60 מ"ל</ItemName>
+      <ItemName>קרם חמצן6% בקבוק</ItemName>
       <ManufacturerName>גדעון קוסמטיקס</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קרם חמצן 6%</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>60.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -550,11 +550,11 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>5292874002333</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ממרח שום ועשבי תיבול 200</ItemName>
+      <ItemName>ממרח שום ועשבי תיבול</ItemName>
       <ManufacturerName>גרין ויה</ManufacturerName>
       <ManufactureCountry>GR</ManufactureCountry>
       <ManufacturerItemDescription>ממרח שום ועשבי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -568,11 +568,11 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>5391523057936</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סימילאק גולד שלב 2 700 ג</ItemName>
+      <ItemName>סימילאק גולד שלב 2</ItemName>
       <ManufacturerName>ABBOT</ManufacturerName>
       <ManufactureCountry>IE</ManufactureCountry>
       <ManufacturerItemDescription>סימילאק גולד</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -590,7 +590,7 @@
       <ManufacturerName>ARLA\n</ManufacturerName>
       <ManufactureCountry>DK</ManufactureCountry>
       <ManufacturerItemDescription>משקה סטארבקס</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -608,7 +608,7 @@
       <ManufacturerName>ארלה פודס אמבה</ManufacturerName>
       <ManufactureCountry>DK</ManufactureCountry>
       <ManufacturerItemDescription>חמאת לורפק</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -626,7 +626,7 @@
       <ManufacturerName>יוניליוור  אנגליה</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
       <ManufacturerItemDescription>דאו אינוויזיבל ד</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>50.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -644,7 +644,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>US</ManufactureCountry>
       <ManufacturerItemDescription>דגני פרוטי פבלס</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>311.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -662,7 +662,7 @@
       <ManufacturerName>ג'אסט בורן</ManufacturerName>
       <ManufactureCountry>US</ManufactureCountry>
       <ManufacturerItemDescription>סכריות ג'לי טרופ</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>120.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -680,7 +680,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>פנטזי אדפ לאישה</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -698,7 +698,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
       <ManufacturerItemDescription>שום יבוא</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>190.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -752,7 +752,7 @@
       <ManufacturerName>מאפית ברמן</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחם אחיד</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -770,7 +770,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>בוטן קלוף ענק</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -788,7 +788,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמנת לבישול 15%</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -806,7 +806,7 @@
       <ManufacturerName>CP</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מארז פומלית</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -824,7 +824,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מארז פלפל כתום</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -842,7 +842,7 @@
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>בורקיטס חלבי</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -860,7 +860,7 @@
       <ManufacturerName>יוניליוור ישראל מזון בע"</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מרק עוף אמיתי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -878,7 +878,7 @@
       <ManufacturerName>נטו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גבינת מון בלאן</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>120.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -896,7 +896,7 @@
       <ManufacturerName>טמפו משקאות בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ג'אמפ מנגו</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>1.50</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -914,7 +914,7 @@
       <ManufacturerName>סנו מפעלי ברונוס בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סנו מסיר אבן</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -932,7 +932,7 @@
       <ManufacturerName>יחיעם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סלמי סרוולט</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -950,7 +950,7 @@
       <ManufacturerName>השחר העולה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>צימקאו לאפיה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -968,7 +968,7 @@
       <ManufacturerName>כצט</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פמינה חמוציות</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>220.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -986,7 +986,7 @@
       <ManufacturerName>י.את.א.ברמן בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיתות ברמן 5 יח</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1004,7 +1004,7 @@
       <ManufacturerName>עוף עוז</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שווארמה הודו טרי</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1022,7 +1022,7 @@
       <ManufacturerName>עוף עוז</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שוק הודו נקבה</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1040,7 +1040,7 @@
       <ManufacturerName>עוף עוז</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כרעיים עוף טרי</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1058,7 +1058,7 @@
       <ManufacturerName>תנובה</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
       <ManufacturerItemDescription>נגטס פילה אמנון</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>450.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1076,7 +1076,7 @@
       <ManufacturerName>מי עדן</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מי עדן פקק ספורט</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -1094,7 +1094,7 @@
       <ManufacturerName>קולגייט-פלמוליב</ManufacturerName>
       <ManufactureCountry>PL</ManufactureCountry>
       <ManufacturerItemDescription>שטיפה מרידול</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -1112,7 +1112,7 @@
       <ManufacturerName />
       <ManufactureCountry />
       <ManufacturerItemDescription>משקה מצונן 500מל</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -1130,7 +1130,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>דלורית אורגנית</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1148,7 +1148,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כרוב לבן אורגני</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1166,7 +1166,7 @@
       <ManufacturerName>שונות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כנף עוףגריל קג</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1184,7 +1184,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פלפל כתום אורגני</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1202,7 +1202,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תפוז</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1220,7 +1220,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תפוז ברשת למיץ</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1238,7 +1238,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לימון</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1256,7 +1256,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תפוז</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1274,7 +1274,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קלמנטינה</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1292,7 +1292,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קלמנטינה</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1310,7 +1310,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מלון ג'סטין</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1328,7 +1328,7 @@
       <ManufacturerName>יבולי בר אורגני</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>רימון אורגני</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1346,7 +1346,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לימון</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1364,7 +1364,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עגבנ.שרי אורגני</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1382,7 +1382,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תות שדה ארוז</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1400,7 +1400,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פלפל רומירו</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1418,7 +1418,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עגבניה לובלו</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>460.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1436,7 +1436,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תות שדה ארוז</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1454,7 +1454,7 @@
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תות שדה ארוז</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1472,7 +1472,7 @@
       <ManufacturerName>שונות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חזה עוף טרי</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1490,7 +1490,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ג'עלה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>550.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1544,7 +1544,7 @@
       <ManufacturerName>CO SEAFOOD HONGBEST</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
       <ManufacturerItemDescription>פילה זהבון</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>1000.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1562,7 +1562,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מיני רוגלך</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1580,7 +1580,7 @@
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סנו די רול און</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>50.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -1598,7 +1598,7 @@
       <ManufacturerName>שטראוס פריטו ליי בע"\מ )</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>צ'יטוס פיצה PUFF</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>60.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1616,7 +1616,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיסטוק אפגני</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1634,7 +1634,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>בוטנים מצופים</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1652,7 +1652,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פקאן קשיו בטעמים</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1670,7 +1670,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תמר סופר גמבו</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1688,7 +1688,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אננס טבעי</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1706,7 +1706,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מנגו מיובש</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1724,7 +1724,7 @@
       <ManufacturerName>משק צוריאל תבור</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גבינת טבורוג 5% משקל</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1742,7 +1742,7 @@
       <ManufacturerName>סוילה אס.אר.אל</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פיצה איטלקית דקה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>320.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1760,7 +1760,7 @@
       <ManufacturerName>מכוורת יד מרדכי שטראוס ב</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>דבש טהור</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>1.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1778,7 +1778,7 @@
       <ManufacturerName>מיה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סוכר וניל</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1796,7 +1796,7 @@
       <ManufacturerName>נביעות טבע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>נביעות ספורט 6יח</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>3.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -1814,7 +1814,7 @@
       <ManufacturerName>מחלבת המושבה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גבינה בולגרית</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1832,7 +1832,7 @@
       <ManufacturerName>צנעני</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מלוואח צנעני</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>900.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1850,7 +1850,7 @@
       <ManufacturerName>תבליני טעם וריח</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פלפל לבן</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>40.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1868,7 +1868,7 @@
       <ManufacturerName>בלדי</ManufacturerName>
       <ManufactureCountry>BR</ManufactureCountry>
       <ManufacturerItemDescription>פילה מדומהמס6'חל</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1886,7 +1886,7 @@
       <ManufacturerName>דלידג - נטו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פילה נסיכת נילוס</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1904,7 +1904,7 @@
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מי פה תיאדנט</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -1922,7 +1922,7 @@
       <ManufacturerName>קומפלקס כימיקלים בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מסיר שומנים</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>1.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -1940,7 +1940,7 @@
       <ManufacturerName>נטו</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
       <ManufacturerItemDescription>פילה סול קפוא</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>1000.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -1958,7 +1958,7 @@
       <ManufacturerName>מינרבה</ManufacturerName>
       <ManufactureCountry>BR</ManufactureCountry>
       <ManufacturerItemDescription>גידים חלק קפוא</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1976,7 +1976,7 @@
       <ManufacturerName>PAMPEANAS</ManufacturerName>
       <ManufactureCountry>AR</ManufactureCountry>
       <ManufacturerItemDescription>פילה בקר טרי מוכ</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -1994,7 +1994,7 @@
       <ManufacturerName>משק ויילר</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>טופו משק גאיה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>300.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2012,7 +2012,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחם מחמצת שיפון</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2030,7 +2030,7 @@
       <ManufacturerName>תנובה בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>יופלה דיאט</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2048,7 +2048,7 @@
       <ManufacturerName>תנובה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיראוס בולגרית</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -2066,7 +2066,7 @@
       <ManufacturerName>יקב דלתון בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קברנה דלתון</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -2084,7 +2084,7 @@
       <ManufacturerName>טחנת קמח יפו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קמח כוסמין מלא</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>1.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -2102,7 +2102,7 @@
       <ManufacturerName />
       <ManufactureCountry>LK</ManufactureCountry>
       <ManufacturerItemDescription>וויסקי בלנטיין</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -2138,7 +2138,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גבינת עזים 5% טל</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2156,7 +2156,7 @@
       <ManufacturerName>קרליין</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קרם לחות לתלתלים</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -2174,7 +2174,7 @@
       <ManufacturerName>נטו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פסטו קלאסי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>220.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2192,7 +2192,7 @@
       <ManufacturerName>מכוורת יד מרדכי שטראוס ב</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמן זית קלאסי</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -2228,7 +2228,7 @@
       <ManufacturerName>עדן</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חלבה פיסטוק עדן</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -2246,7 +2246,7 @@
       <ManufacturerName>זוגלובק</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חזה הודו ברביקיו</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>330.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2264,7 +2264,7 @@
       <ManufacturerName>טמפו משקאות בע''מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>בירה גולדסטאר</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -2282,7 +2282,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>יין רקנאטי מרלו</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -2300,7 +2300,7 @@
       <ManufacturerName>שטראוס פריטו ליי בע"\מ )</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תפוצ'יפס קראנצ'</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2318,7 +2318,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>קוביות לקדירה</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -2336,7 +2336,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פלפל רמירו אדום</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -2354,7 +2354,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>AR</ManufactureCountry>
       <ManufacturerItemDescription>פילה בקר טרי</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -2372,7 +2372,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>AR</ManufactureCountry>
       <ManufacturerItemDescription>פילה בקר טרי</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -2390,7 +2390,7 @@
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חמישיית מאפין</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>5.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2408,7 +2408,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חמישיית מאפין</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2426,7 +2426,7 @@
       <ManufacturerName>מאפ גדרון</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיתה אסלית</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2444,7 +2444,7 @@
       <ManufacturerName>מחלבות רמת הגולן</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>בולגרית 5% משקל</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -2462,7 +2462,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>דבש פרחי בר</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>1.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -2480,7 +2480,7 @@
       <ManufacturerName>תבליני ביטון יוחאי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ממרח שיפקה כבוש</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2498,7 +2498,7 @@
       <ManufacturerName>דין שיווק</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שזיף ללא גלעין</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2534,7 +2534,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מירינדה</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -2552,7 +2552,7 @@
       <ManufacturerName>ג.מ טעם הארץ בע"\ם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מי ורדים</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -2570,7 +2570,7 @@
       <ManufacturerName>רושדי תעשיות מזון בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חלבה ללת"ס</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>350.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2588,7 +2588,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ממרח שקד לבן</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2606,7 +2606,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מחית פיסטוק</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>120.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2624,7 +2624,7 @@
       <ManufacturerName>חטיפים מן הטבע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פירורי לחם</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2660,7 +2660,7 @@
       <ManufacturerName>מאפיית שלמה א. אנג'\ל בע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אנג'ל -100קל</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2714,7 +2714,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תות שדה אורגני</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2822,7 +2822,7 @@
       <ManufacturerName>סנו מפעלי ברונוס בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מקסימה מרכך</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>1.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -2840,7 +2840,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>רוטב פסטה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>240.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2858,7 +2858,7 @@
       <ManufacturerName>דני וגלית בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עוגיות שוקולד צ'</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>230.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2876,7 +2876,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עוגיות כוסמין</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>230.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2894,7 +2894,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עוגיות אוכמניות</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>230.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2912,7 +2912,7 @@
       <ManufacturerName>בלדי</ManufacturerName>
       <ManufactureCountry>BR</ManufactureCountry>
       <ManufacturerItemDescription>לשון בקר מוכשר</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>0.00</Quantity>
       <bIsWeighted>1</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -2930,7 +2930,7 @@
       <ManufacturerName>סנו מפעלי ברונוס בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סנו נירוסטה</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -2948,7 +2948,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קרקרים פשתן צילי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>125.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2966,7 +2966,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קרקרים+פשתן</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>125.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -2984,7 +2984,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>בוטן קלוי ענק</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3002,7 +3002,7 @@
       <ManufacturerName>יקב דלתון בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כנען אדום גליל</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3020,7 +3020,7 @@
       <ManufacturerName>מאפיית שלמה א. אנג;#039&amp;</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחם מלא</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3038,7 +3038,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>PK</ManufactureCountry>
       <ManufacturerItemDescription>מלח גס שחור</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3056,7 +3056,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>PK</ManufactureCountry>
       <ManufacturerItemDescription>מלח דק שחור</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3074,7 +3074,7 @@
       <ManufacturerName>אקסטרודו בצ'יצה</ManufacturerName>
       <ManufactureCountry>CZ</ManufactureCountry>
       <ManufacturerItemDescription>פת פריכה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3092,7 +3092,7 @@
       <ManufacturerName>ממלכת החלבה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>טחינה אבן ריחיים</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3110,7 +3110,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סרום קיק לחיזוק</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3128,7 +3128,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמפו קיק</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>450.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3146,7 +3146,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מרכך קיק</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>450.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3164,7 +3164,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מסיכת קיק</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3200,7 +3200,7 @@
       <ManufacturerName>לאמרי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ברנפלקס אורגני</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>375.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3218,7 +3218,7 @@
       <ManufacturerName>סאסא קוסמטיקס אגש"\ח בע\</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמ'קרטין ללא מלח</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3236,7 +3236,7 @@
       <ManufacturerName>סאסא קוסמטיקס אגש"\ח בע\</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מר'קרטין ללא מלח</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3254,7 +3254,7 @@
       <ManufacturerName>אפקטבעי בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גרנולה אגוזים</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>300.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3272,7 +3272,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פתיתים תמי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>300.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3290,7 +3290,7 @@
       <ManufacturerName>מאפיית שלמה א. אנג;#039&amp;</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחם סגנון אמריקה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3308,7 +3308,7 @@
       <ManufacturerName>מאפיית שלמה א.אנג'ל בע"\</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיתות כוסמין</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3326,7 +3326,7 @@
       <ManufacturerName>מאפיית שלמה א. אנג'\ל בע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אנג'ל  כוסמין</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3344,7 +3344,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עוגיות כוסמין</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>230.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3362,7 +3362,7 @@
       <ManufacturerName>תמרה ארטיק בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גלידה אייס קפה</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>475.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3380,7 +3380,7 @@
       <ManufacturerName>פאזלני אקספורטס</ManufacturerName>
       <ManufactureCountry>IN</ManufactureCountry>
       <ManufacturerItemDescription>ארוחת קארי תפוחי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>300.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3398,7 +3398,7 @@
       <ManufacturerName>יקבי כרמל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מונלייט לבן</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3416,7 +3416,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>צ'\אי קרמל מלוח</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>50.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3434,7 +3434,7 @@
       <ManufacturerName>מאפיית שלמה א. אנג;#039&amp;</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחם אחיד פרוס</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>900.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3452,7 +3452,7 @@
       <ManufacturerName>מאפיית שלמה א. אנגל בע"\</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חלה קלועה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>650.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3470,7 +3470,7 @@
       <ManufacturerName>מאפיית שלמה א. אנג;#039&amp;</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחמניות אמריקה 6</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>540.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3488,7 +3488,7 @@
       <ManufacturerName>מאפיית שלמה א. אנג'\ל בע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיתה פיתה 8 יח</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>800.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3506,7 +3506,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כמוצרלה קשיו</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3524,7 +3524,7 @@
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>רביולי גבינות</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3560,7 +3560,7 @@
       <ManufacturerName>אשבל בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סודה לשתיה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>600.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3578,7 +3578,7 @@
       <ManufacturerName>סאסאטק אגש"\ח בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מסיר כתמים TNX</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3596,7 +3596,7 @@
       <ManufacturerName>יפאורה תבורי בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מים בטעם ענבי</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>1.50</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -3614,7 +3614,7 @@
       <ManufacturerName>תעשיות פילטונה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ממרח טונה 2 יח</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>320.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3632,7 +3632,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>LV</ManufactureCountry>
       <ManufacturerItemDescription>נתחי טונה מעושנת</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>160.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3650,7 +3650,7 @@
       <ManufacturerName>ויסוצקי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חליטת קמומיל</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>50.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3668,7 +3668,7 @@
       <ManufacturerName>ויסוצקי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תה שחור עם הל</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>62.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3686,7 +3686,7 @@
       <ManufacturerName>ויסוצקי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>רוטב לשקשוקה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>420.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3704,7 +3704,7 @@
       <ManufacturerName>יקבי כרמל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מונלייט קברנה</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3722,7 +3722,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אמברלו - מטריות</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>70.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3740,7 +3740,7 @@
       <ManufacturerName>TIANBAOLONG ZHANGZHOU</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
       <ManufacturerItemDescription>תירס מתוק</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>340.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3758,7 +3758,7 @@
       <ManufacturerName>סאסאטק אגש"\ח בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>נוזל כלים tnx</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3776,7 +3776,7 @@
       <ManufacturerName>מיוצר ע"\י קוד יצרן EDNK</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סחלב</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3794,7 +3794,7 @@
       <ManufacturerName>סאסאטק אגש"\ח בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ג'ל כביסה מרוכז</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>3.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -3848,7 +3848,7 @@
       <ManufacturerName>סאסאטק אגש"\ח בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>נוזל כלים24%תפוח</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3866,7 +3866,7 @@
       <ManufacturerName>זוהר דליה, קיבוץ דליה, 1</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תרסיס למייבש</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3884,7 +3884,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מאגדת חמישיה שלג</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3902,7 +3902,7 @@
       <ManufacturerName>רקיט בנקיזר</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
       <ManufacturerItemDescription>אירוויק מילוי</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3938,7 +3938,7 @@
       <ManufacturerName>טרה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>יוגורט מולר מיקס</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>170.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -3956,7 +3956,7 @@
       <ManufacturerName>מחלבת יטבתה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמנת לבישול 9%</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -3974,7 +3974,7 @@
       <ManufacturerName>גלידות נסטלה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לה קרמריה</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>1.40</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -3992,7 +3992,7 @@
       <ManufacturerName>שטראוס קפה בי.וי.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שוקולית 400 גרם</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4010,7 +4010,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אוקסיג'ן בייבי</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>3.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -4028,7 +4028,7 @@
       <ManufacturerName>סנו מפעלי ברונוס בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>נוזל הברקה למדיח</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4046,7 +4046,7 @@
       <ManufacturerName>פי.פי.איג' ארטלקס</ManufacturerName>
       <ManufactureCountry>PL</ManufactureCountry>
       <ManufacturerItemDescription>איטריות דקות</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4064,7 +4064,7 @@
       <ManufacturerName>סנו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>דאודורנט קרמה</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4082,7 +4082,7 @@
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מסכה נטורל פורמו</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>350.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4100,7 +4100,7 @@
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמפו נטורל פורמו</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4118,7 +4118,7 @@
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תחליב רחצה קרמה</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4136,7 +4136,7 @@
       <ManufacturerName>TOMIL</ManufacturerName>
       <ManufactureCountry>CZ</ManufactureCountry>
       <ManufacturerItemDescription>סבון אסלה לבנדר</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>105.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4154,7 +4154,7 @@
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כיף מרכך שיער</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4172,7 +4172,7 @@
       <ManufacturerName>אלה תמרים</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תמר מג'הול</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>1000.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4190,7 +4190,7 @@
       <ManufacturerName>גן שמואל-תעשיות בריאות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פסטרמה פרוסות טב</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>160.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4208,7 +4208,7 @@
       <ManufacturerName>קרלסברג קרואטיה , יבואן:</ManufacturerName>
       <ManufactureCountry>HR</ManufactureCountry>
       <ManufacturerItemDescription>סומרסבי 4 יח'</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>1.32</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -4226,7 +4226,7 @@
       <ManufacturerName>תנובה בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מעדן סויה ביו</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4244,7 +4244,7 @@
       <ManufacturerName>אסקום קונפקשיין</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>צנצנת קוביות תות</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>58.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4280,7 +4280,7 @@
       <ManufacturerName>פרח תעשיות מזון בע"מ.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פריכיות פיטנס</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>120.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4298,7 +4298,7 @@
       <ManufacturerName>אימפריאל</ManufacturerName>
       <ManufactureCountry>PT</ManufactureCountry>
       <ManufacturerItemDescription>שוקולד מריר</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4316,7 +4316,7 @@
       <ManufacturerName>יוניון רטצ'אבורי</ManufacturerName>
       <ManufactureCountry>TH</ManufactureCountry>
       <ManufacturerItemDescription>אטריות אורז דקות</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4334,7 +4334,7 @@
       <ManufacturerName>מיישקו</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
       <ManufacturerItemDescription>סוכריות מאסט</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>80.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4352,7 +4352,7 @@
       <ManufacturerName>שטראוס בריאות בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סקי תות 125 גרם</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>125.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4370,7 +4370,7 @@
       <ManufacturerName>יוניליוור ישראל טיפוח אי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמפו פינוק ילדים</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4388,7 +4388,7 @@
       <ManufacturerName>יוניליוור ישראל טיפוח אי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מרכך פינוק ילדים</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4406,7 +4406,7 @@
       <ManufacturerName>יוניליוור ישראל טיפוח אי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אל סבון לילדים</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4424,7 +4424,7 @@
       <ManufacturerName>רפאלס בריא וטעים בע"\מ,</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גרנולה פרוטאין</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>300.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4442,7 +4442,7 @@
       <ManufacturerName>אסם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>רוטב קיסר לסלט</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>295.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4460,7 +4460,7 @@
       <ManufacturerName>טרה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גבינה לבנה 5%</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4478,7 +4478,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>NL</ManufactureCountry>
       <ManufacturerItemDescription>ממרח ספייסי לחיץ</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>446.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4532,7 +4532,7 @@
       <ManufacturerName>ניולט פוד ס.פ.א</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פסטה ריציאולי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4550,7 +4550,7 @@
       <ManufacturerName>יוניליוור ישראלn\טיפוח א</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אל סבון לתינוק</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>900.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4568,7 +4568,7 @@
       <ManufacturerName>קוסטר אירוסול</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
       <ManufacturerItemDescription>דאב אינויזיבל דר</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -4586,7 +4586,7 @@
       <ManufacturerName>יוניליוור ישראל מזון בע"</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>רוטב לסלט שום</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>295.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4604,7 +4604,7 @@
       <ManufacturerName>תנובה בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כדורי לאבנה בשמן</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>300.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4622,7 +4622,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פיצה מרגריטה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>485.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4640,7 +4640,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פיצה מרגריטה ITA</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4658,7 +4658,7 @@
       <ManufacturerName>AVRORA</ManufacturerName>
       <ManufactureCountry>AZ</ManufactureCountry>
       <ManufacturerItemDescription>ספגטי "מונופוד"</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4676,7 +4676,7 @@
       <ManufacturerName>דין שיווק</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אורז בסמטי</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>1.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -4694,7 +4694,7 @@
       <ManufacturerName>כרמית תעשיות ממתקים בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פריכיות שוקולד ח</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>60.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4712,7 +4712,7 @@
       <ManufacturerName>שטראוס גרופ בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שוקולד חלב קרם א</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4730,7 +4730,7 @@
       <ManufacturerName>אסקום קונפקשיין</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>מסטיק בטעם קולה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>60.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4748,7 +4748,7 @@
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אצבעות פילאס פיצה 600 גר</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>600.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4766,7 +4766,7 @@
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אצבעות פילאס גבינה 600ג</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>600.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4784,7 +4784,7 @@
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אצבעות פילאס תפ"א 600ג</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>600.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4802,7 +4802,7 @@
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אצבעות פילאס פטריות 600ג</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>600.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4820,7 +4820,7 @@
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גחנון בייקרי 650 גרם</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>650.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4838,7 +4838,7 @@
       <ManufacturerName>מעדני יחיעם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סלמי קוניאק</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>300.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4856,7 +4856,7 @@
       <ManufacturerName>טחנות ישראליות בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קמח חיטה מלא</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>1.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -4874,7 +4874,7 @@
       <ManufacturerName>קבוצת יבנה מוצרי מזון</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חרוזי זיתים</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>560.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4946,7 +4946,7 @@
       <ManufacturerName>שטראוס גרופ בע"\מ</ManufacturerName>
       <ManufactureCountry>BE</ManufactureCountry>
       <ManufacturerItemDescription>שעועית ירוקה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>800.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -4964,7 +4964,7 @@
       <ManufacturerName>פרסקו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עלי רוקט150ג'</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5000,7 +5000,7 @@
       <ManufacturerName>דליקה איי.ג'י</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>שוקולד חלב 6 יח</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>6.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5018,7 +5018,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כורכום טחון</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5036,7 +5036,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תערובת תיבול</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5054,7 +5054,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פלפל לבן</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>40.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5072,7 +5072,7 @@
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אורז חום עגול</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5126,7 +5126,7 @@
       <ManufacturerName>יבולי בר אורגני</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פלפל אורגני</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5198,7 +5198,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עלי בייבי 120גרם</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>120.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5216,7 +5216,7 @@
       <ManufacturerName>פרסקו חצבה 2006 בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עלי תרד בייבי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5270,7 +5270,7 @@
       <ManufacturerName>א.משי תעשיות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמפו לשיער יבשBE</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -5288,7 +5288,7 @@
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>קפסולות לונגו</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>50.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5306,7 +5306,7 @@
       <ManufacturerName>גבינות משק יעקבס</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גב.שמנת שום שמיר</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5324,7 +5324,7 @@
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>קפסולות נ.קופאין</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>50.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5342,7 +5342,7 @@
       <ManufacturerName>קסוס דה סאלבדור</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
       <ManufacturerItemDescription>גבינת מנצ'גו</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5360,7 +5360,7 @@
       <ManufacturerName>דורות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מגשית פטרוזיליה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>70.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5378,7 +5378,7 @@
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>קפסולות dark</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>50.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5504,7 +5504,7 @@
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>קפסולות מס 15</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>50.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5522,7 +5522,7 @@
       <ManufacturerName>מרינה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ברוקולי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>350.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5540,7 +5540,7 @@
       <ManufacturerName>הנרי ויליך</ManufacturerName>
       <ManufactureCountry>NL</ManufactureCountry>
       <ManufacturerItemDescription>גאודה פסטו ירוק</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5576,7 +5576,7 @@
       <ManufacturerName>אפקטבעי בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חטיף שבולת שועל</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>210.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5594,7 +5594,7 @@
       <ManufacturerName>מיה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תמצית וניל לאפיה</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>30.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -5612,7 +5612,7 @@
       <ManufacturerName>אפקטבעי בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גרנולה זרעי פשתן</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>300.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5630,7 +5630,7 @@
       <ManufacturerName>מאפיית אורן משי בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיתו  אסליות 5יח</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5648,7 +5648,7 @@
       <ManufacturerName>נטורל קייקס בע"\מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קורנפלקס בציפוי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>65.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5666,7 +5666,7 @@
       <ManufacturerName>טאהא קימיה</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
       <ManufacturerItemDescription>סבון נוזלי</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -5684,7 +5684,7 @@
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>שוקולד לבן</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5702,7 +5702,7 @@
       <ManufacturerName>הררית</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עמבה שופרסל</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5720,7 +5720,7 @@
       <ManufacturerName>טופ שף</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>נאגטס חלבון אפונה מהצומח</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5738,7 +5738,7 @@
       <ManufacturerName>טופ שף</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שניצל דק סויה מהצומח</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5756,7 +5756,7 @@
       <ManufacturerName>לזרוני</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ביסקוויט ללת"ס</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5774,7 +5774,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פטה כבשים 20%</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5792,7 +5792,7 @@
       <ManufacturerName>SRL PIZZA MEGIC</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פיצה עם תירס</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>400.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5810,7 +5810,7 @@
       <ManufacturerName>FOOD FROZEN MONKHORN R.</ManufacturerName>
       <ManufactureCountry>TH</ManufactureCountry>
       <ManufacturerItemDescription>טונה במים</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>160.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5828,7 +5828,7 @@
       <ManufacturerName>אפיפית נצרת תעשיות ביסקו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קרקר דק רוזמרין</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>140.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5846,7 +5846,7 @@
       <ManufacturerName>נסטלה פורינה</ManufacturerName>
       <ManufactureCountry>HU</ManufactureCountry>
       <ManufacturerItemDescription>דוגלי בוגר עוף</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>3.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -5864,7 +5864,7 @@
       <ManufacturerName>נסטלה פורינה</ManufacturerName>
       <ManufactureCountry>HU</ManufactureCountry>
       <ManufacturerItemDescription>דוגלי בוגר בקר</ManufacturerItemDescription>
-      <UnitQty>קילוגרמים</UnitQty>
+      <UnitQty>קילו</UnitQty>
       <Quantity>3.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ק"ג</UnitOfMeasure>
@@ -5882,7 +5882,7 @@
       <ManufacturerName>CPU</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
       <ManufacturerItemDescription>מולטי צ'יריוס</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>600.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5900,7 +5900,7 @@
       <ManufacturerName>דליקה איי.ג'י</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>קפסולות קפה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>96.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5918,7 +5918,7 @@
       <ManufacturerName>מונדלייז</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>שוק.מילקה עדשים</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5936,7 +5936,7 @@
       <ManufacturerName>פררו</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>פררו רושה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>172.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5954,7 +5954,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ביסקוויט נוטלה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>41.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5972,7 +5972,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ממרח קקאו+אגוזים</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>900.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -5990,7 +5990,7 @@
       <ManufacturerName>פרוקטר אנד גמבל</ManufacturerName>
       <ManufactureCountry>RO</ManufactureCountry>
       <ManufacturerItemDescription>שמפו פנטן</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>660.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -6008,7 +6008,7 @@
       <ManufacturerName>דויד קמפרי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>אפרול 1 ליטר</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>1.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -6026,7 +6026,7 @@
       <ManufacturerName>בוסקה</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ורדי אפרסק</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -6044,7 +6044,7 @@
       <ManufacturerName>לינדט ושפרונגלי אס.פי.אי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>שוקולד לינדור</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>100.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -6062,7 +6062,7 @@
       <ManufacturerName>קנהמלה</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>כורכום אורגני</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>47.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -6080,7 +6080,7 @@
       <ManufacturerName>לה מוליזנה קמפובאסן</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ספגטי לה מוליזנה</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -6116,7 +6116,7 @@
       <ManufacturerName>מנז' אנד גאסר ס.פ.א</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ספגטי</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>500.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -6134,7 +6134,7 @@
       <ManufacturerName>מולינו אנדריאני</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פסטה עדשים</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -6152,7 +6152,7 @@
       <ManufacturerName />
       <ManufactureCountry>SE</ManufactureCountry>
       <ManufacturerItemDescription>וויסקי שיבס ריגאל 700מ"ל</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>700.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -6170,7 +6170,7 @@
       <ManufacturerName />
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>שמן חמניות 1ליטר</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>1.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -6188,7 +6188,7 @@
       <ManufacturerName>ריג'וני דה אסינו</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ממרח אגוזי לוז א</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>250.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -6224,7 +6224,7 @@
       <ManufacturerName>S.L MASACHS JOSEP</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
       <ManufacturerItemDescription>קאווה דליסיה</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -6242,7 +6242,7 @@
       <ManufacturerName>סי סי דאם, אס.אל, ברצלונ</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
       <ManufacturerItemDescription>אסטרייה דאם</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>330.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -6260,7 +6260,7 @@
       <ManufacturerName>איטנקורט</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>דגני בוקר קיטקט</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>330.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -6278,7 +6278,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>RS</ManufactureCountry>
       <ManufacturerItemDescription>פיינט אוראו</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>300.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>
@@ -6368,7 +6368,7 @@
       <ManufacturerName>---</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>אריאל ג'ל כביסה</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>1.95</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -6404,7 +6404,7 @@
       <ManufacturerName>יוניליוור אנגליה</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
       <ManufacturerItemDescription>אקס ספריי</ManufacturerItemDescription>
-      <UnitQty>מיליליטרים</UnitQty>
+      <UnitQty>מ"ל</UnitQty>
       <Quantity>150.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
@@ -6422,7 +6422,7 @@
       <ManufacturerName>טאפאדונגפורן קוקנט</ManufacturerName>
       <ManufactureCountry>TH</ManufactureCountry>
       <ManufacturerItemDescription>קרם קוקוס</ManufacturerItemDescription>
-      <UnitQty>ליטרים</UnitQty>
+      <UnitQty>ליטר</UnitQty>
       <Quantity>1.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>ליטר</UnitOfMeasure>
@@ -6458,7 +6458,7 @@
       <ManufacturerName>מצות אביב 2014 מאפה בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עוגיות ללת"ס</ManufacturerItemDescription>
-      <UnitQty>גרמים</UnitQty>
+      <UnitQty>גרם</UnitQty>
       <Quantity>200.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
       <UnitOfMeasure>100 גרם</UnitOfMeasure>

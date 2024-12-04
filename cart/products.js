@@ -10,9 +10,11 @@ fetch("XML-products")
                 ItemCode: item.querySelector("ItemCode")?.textContent || null,
                 ItemName: item.querySelector("ItemName")?.textContent || null,
                 ManufactureCountry: item.querySelector("ManufactureCountry")?.textContent || null,
+                ManufacturerName: item.querySelector("ManufacturerName")?.textContent || null,
                 Quantity: parseFloat(item.querySelector("Quantity")?.textContent) || 0,
                 UnitOfMeasure: item.querySelector("UnitOfMeasure")?.textContent || null,
                 ItemPrice: parseFloat(item.querySelector("ItemPrice")?.textContent) || 0,
+                UnitQty:(item.querySelector("UnitQty")?.textContent) || 0,
             };
         });
 
@@ -26,10 +28,11 @@ fetch("XML-products")
 
             productDiv.innerHTML = `
                 <h3>${product.ItemName}</h3>
-                <p>מדינה: ${product.ManufactureCountry}</p>
+                <p>ארץ ייצור: ${product.ManufactureCountry}</p>
+                <p>חברה: ${product.ManufacturerName}</p>
+                <p>יחידה: ${product.Quantity} ${product.UnitQty}</p>
                 <p>מחיר: ${product.ItemPrice} ש"ח</p>
-                <p>כמות במלאי: ${product.Quantity}</p>
-            `;
+                  `;
 
             const addToCartButton = document.createElement("button");
             addToCartButton.className = "add-to-cart";
@@ -39,16 +42,16 @@ fetch("XML-products")
             addToCartButton.addEventListener("click", () => {
                 const cart = JSON.parse(localStorage.getItem("cart")) || [];
                 const existingProduct = cart.find(item => item.ItemCode === product.ItemCode);
-            
+
                 if (existingProduct) {
                     existingProduct.quantity += 1;
                 } else {
                     product.quantity = 1;
                     cart.push(product);
                 }
-            
+
                 localStorage.setItem("cart", JSON.stringify(cart));
-                alert(`${product.ItemName} נוסף לסל!`);
+                alertify.success('! התווסף לסל');
             });
 
             container.appendChild(productDiv);
@@ -56,4 +59,5 @@ fetch("XML-products")
     })
     .catch(error => {
         console.error("Error fetching or parsing XML:", error);
+        alertify.error('! שגיאה');
     });
