@@ -1,0 +1,71 @@
+#tips {
+    background-color: rgba(79, 184, 79, 0.531);
+    border-radius: 20px;
+    text-align: center;
+}
+
+#tipDesc {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+/* General styles for the div */
+#features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+    padding: 20px;
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Button styles */
+.styled-button {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    padding: 15px 30px;
+    color: #fff;
+    background: linear-gradient(90deg, #fc4925, #f6a78fc4);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    overflow: hidden;
+}
+
+.styled-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.3);
+    transform: skewX(-45deg);
+    transition: left 0.5s ease-in-out;
+    z-index: 0;
+}
+
+.styled-button:hover::before {
+    left: 200%;
+}
+
+.styled-button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.styled-button:active {
+    transform: scale(1.05);
+    background: linear-gradient(90deg, #fc4925, #f6a78fc4);
+}
+
+.styled-button span {
+    position: relative;
+    z-index: 1;
+}
