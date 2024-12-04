@@ -28,18 +28,78 @@ nav{
 }
 
 .nav-button {
-    margin-top: 3px;
-    gap: 10px;
+    background-color: #ff9800;
+}
+
+.button{
+    border: 0;
+    background-color: #ff9800;
 }
 
 .bigButton{
-width: 15em;
-height: 4em;
+width: 12vw;
+height: 3vw;
 }
 
-#firImg{
-width: auto;
-height: 50vh;
+.center{
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 10px;
+    justify-items: center
+}
+.tabs {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.tab input[type="radio"] {
+    display: none;
+}
+
+.tab-title {
+    display: inline-block;
+    padding: 5px 10px;
+    font-family: 'Bradley Hand', 'Times New Roman', Times, serif;
+    border-bottom: none;
+}
+.tab-title:hover {
+    cursor: pointer;
+}
+
+.tab-content {
+    position: absolute;
+    padding: 10px;
+    left: 0;
+    width: calc(100% - 20px);
+    display: none;
+}
+
+.tab :checked+.tab-title {
+    position: relative;
+    top: 1px;
+    z-index: 0;
+}
+
+.tab :checked~.tab-content {
+    display: block;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+
+#myChart{
+    grid-area: 1/1/2/2;
+   
+}
+#myListPr{
+    grid-area: 1/2/2/3;
+
 }
 
 footer {
