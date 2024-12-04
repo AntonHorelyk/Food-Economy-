@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image Crop and Text Detection</title>
+    <link rel="stylesheet" href="ai.css" />
+    <script src="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/alertify.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/alertify.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/themes/default.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/themes/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <h1>קורא הקבלות</h1>
+    <p>המירו את התמונה לטקסט*</p>
+
+    <!-- File Input -->
+    <input type="file" id="imageInput" accept="image/*" />
+
+    <!-- Canvas for Image and Cropping -->
+    <canvas id="imageCanvas"></canvas>
+
+    <!-- Buttons -->
+    <div>
+      <button id="cropAndProcessButton">חתוך ושלח</button>
+      <button id="resetButton">חתוך מחדש</button>
+    </div>
+
+    <!-- Editable Text Area -->
+    <h2>:תכולת הקבלה שהתקבלה</h2>
+    <textarea
+      id="editableText"
+      rows="10"
+      cols="50"
+      placeholder="Detected text will appear here..."
+    ></textarea>
+
+    <!-- Save Button -->
+    <button id="saveButton">שמור את הקבלה הערוכה</button>
+
+    <script src="ai.js"></script>
+  </body>
+</html>
