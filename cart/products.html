@@ -1,18 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="products.css">
-    <title>Document</title>
+    <title>מתכון לחיסכון - מוצרים</title>
     <script src="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/alertify.min.js"></script>
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/alertify.min.css"/>
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/themes/default.min.css"/>
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/themes/bootstrap.min.css"/>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/alertify.min.css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/themes/default.min.css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/themes/bootstrap.min.css" />
 </head>
+
 <body>
     <button><a href="./cart.html">מעבר לסל</a></button>
+    <button><a href="../index.html">מעבר לדף הבית</a></button>
+
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="חפש מוצר..." />
+    </div>
+
     <div id="product-container"></div>
+    <div id="cart-container"></div>
+    <div id="total-price-container"></div>
+    <select id="source-select">
+        <option value="all">כל המוצרים</option>
+        <option value="shufersal">שופרסל</option>
+        <option value="carrefour">קרפור</option>
+    </select>
+    <input id="search-input" type="text" placeholder="חפש מוצר...">
+
+
+    <div id="product-container"></div>
+
     <script src="products.js"></script>
 </body>
+
 </html>

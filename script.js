@@ -1,4 +1,18 @@
+const myUploadedList = document.getElementById("myUploadedList")
+
 document.addEventListener('DOMContentLoaded', function() {
+    const getMyList= () => {
+        const cart = JSON.parse(localStorage.getItem("cart")) || [];
+        cart.forEach(item => {
+            console.log(item.ItemName)
+            const li = document.createElement("li");
+            li.textContent = item.ItemName;
+            myUploadedList.appendChild(li);
+        });
+    } 
+
+    getMyList();
+    
     const ctx = document.getElementById('myChart').getContext('2d');
 
     const data = {
