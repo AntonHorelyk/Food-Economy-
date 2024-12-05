@@ -34,44 +34,46 @@
     <h1 class="main-title">!שלום מותק</h1>
 
     <div class="center">
-        <canvas id="myChart" style="width:50%;max-width:600px;height:50%;max-height:700px;"></canvas>
-        <div id="bothListsDiv">
-            <main class="tabs">
-                <div class="tab">
-                    <input type="radio" id="tab1" name="tab-group" checked>
-                    <label for="tab1" class="tab-title">
-                        <h2 class="naming">מוצרים שלך</h2>
-                    </label>
-                    <section class="tab-content">
-                        <div class="container">
-                            <ol id="myListPr">
-                                <li>תפוח</li>
-                                <li>עגס</li>
-                                <li>ביצים</li>
-                                <li>בשר</li>
-                                <li>דגים</li>
-                            </ol>
-                        </div>
-                    </section>
-                </div>
-                <div class="tab">
-                    <input type="radio" id="tab2" name="tab-group">
-                    <label for="tab2" class="tab-title">
-                        <h2 class="naming">תזמין אותי</h2>
-                    </label>
-                    <section class="tab-content">
-                        <div class="container">
-                            <ol id="myUploadedList">
-                                <li>תפוח</li>
-                                <li>עגס</li>
-                                <li>ביצים</li>
-                                <li>בשר</li>
-                                <li>דגים</li>
-                            </ol>
-                        </div>
-                    </section>
-                </div>
-            </main>
+
+        <canvas id="myChart" style="width:50%;max-width:600px;height: 50%;max-height:700px;"></canvas>
+       <div id="bothListsDiv">
+
+        <main class="tabs">
+            <div class="tab">
+                <input type="radio" id="tab1" name="tab-group" checked>
+                <label for="tab1" class="tab-title">
+                    <h2 class="naming">מוצרים שלך</h2>
+                </label>
+                <section class="tab-content">
+                    <div class="container store">
+                        <ol id="myListPr">
+                            <li>תפוח</li>
+                            <li>עגס</li>
+                            <li>ביצים</li>
+                            <li>בשר</li>
+                            <li>דגים</li>
+                        </ol>
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="tab">
+                <input type="radio" id="tab2" name="tab-group">
+                <label for="tab2" class="tab-title">
+                    <h2 class="naming">תזמין אותי</h2>
+                </label>
+                <section class="tab-content">
+                    
+                    <div class="container">
+                        <ol id="myUploadedList">
+
+                        </ol>
+                    </div>
+                   
+                </section>
+    
+            </div>
+
         </div>
     </div>
 
@@ -84,7 +86,11 @@
         </div>
     </footer>
 
-    <script src="script.js"></script>
+
+
+<script src="script.js"></script>
+<script src="./cart/products.js"></script>
+
 </body>
 
 </html>

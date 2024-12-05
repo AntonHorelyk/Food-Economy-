@@ -1,3 +1,66 @@
+const API_OPENAI =
+    "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";
+
+const API_URL = "https://api.openai.com/v1/chat/completions";
+
+const resultText = document.getElementById("resultText");
+
+const generate = async (prompt, from) => {
+    console.log(prompt);
+    console.log(from);
+    try {
+        const response = await fetch(API_URL, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: `Bearer ${API_OPENAI} `,
+            },
+            body: JSON.stringify({
+                model: "gpt-3.5-turbo",
+                messages: [{ role: "user", content: prompt }],
+            }),
+        });
+
+        const data = await response.json();
+
+        if (from === "kindOfEvent") {
+            const answer = data.choices[0].message.content.trim();
+            Swal.fire({
+                title: 'הנה המתכונים לאירוע שלך',
+                confirmButtonText: 'סגור',
+                html: `${answer}`,
+                focusConfirm: false,
+            })
+        } else if (from === "iHurry") {
+            const answer = data.choices[0].message.content.trim();
+            Swal.fire({
+                title: 'הנה מתכון מהיר',
+                confirmButtonText: 'סגור',
+                html: `${answer}`,
+                focusConfirm: false,
+            })
+        } else if (from === "iHaveLeft") {
+            const answer = data.choices[0].message.content.trim();
+            Swal.fire({
+                title: 'הנה מתכון לשימוש חוזר',
+                confirmButtonText: 'סגור',
+                html: `${answer}`,
+                focusConfirm: false,
+            })
+        } else if (from === "convertAmount") {
+            const answer = data.choices[0].message.content.trim();
+            Swal.fire({
+                title: 'הנה כל יחידות המידה מומרות',
+                confirmButtonText: 'סגור',
+                html: `${answer}`,
+                focusConfirm: false,
+            })
+        }
+    } catch (error) {
+        console.log(`An error occurred. Please try again: ${error}`);
+    }
+};
+
 const tips = document.getElementById('tips');
 const foodSavingTips = [
     {
@@ -89,12 +152,12 @@ function getTips() {
     const title = document.createElement('h2');
     const paragraph = document.createElement('p');
     paragraph.id = 'tipDesc';
-    
+
     tips.innerHTML = '';
     headTitle.textContent = '!המלצה שלנו, חיסכון שלך'
     title.textContent = foodSavingTips[currentTipIndex].tip;
     paragraph.textContent = foodSavingTips[currentTipIndex].description;
-    
+
     tips.appendChild(headTitle);
     tips.appendChild(title);
     tips.appendChild(paragraph);
@@ -131,25 +194,23 @@ iHaveEvent.addEventListener("click", () => {
             const amountOfPeople = document.getElementById('amountOfPeople').value;
             const kindOfEventInput = document.getElementById('kindOfEventInput').value;
             const sensitivityInput = document.getElementById('sensitivityInput').value;
-            
+
             if (!amountOfPeople || !kindOfEventInput) {
                 Swal.showValidationMessage('Please enter both fields');
             }
-            
+
             return { amountOfPeople, kindOfEventInput, sensitivityInput };
         }
     }).then((result) => {
         if (result.isConfirmed) {
-            if(result.value.sensitivityInput){
-                const promptString = `יש לי אירוע ${result.value.kindOfEventInput} עם כמות אנשים של ${result.value.amountOfPeople} ויש רגישות ל${result.value.sensitivityInput} תן לי 2 רעיונות לארוחה מתאימה עם כמויות`
-                console.log(promptString);
-            }else{
-                const promptString = `יש לי אירוע ${result.value.kindOfEventInput} עם כמות אנשים של ${result.value.amountOfPeople} תן לי 2 רעיונות לארוחה מתאימה עם כמויות`
-                console.log(promptString);
+            if (result.value.sensitivityInput) {
+                const promptString = `יש לי אירוע ${result.value.kindOfEventInput} עם כמות אנשים של ${result.value.amountOfPeople} ויש אלרגיה ל${result.value.sensitivityInput} תן לי 2 רעיונות לארוחה מתאימה עם מתכונים וכמויות`
+                generate(promptString, 'kindOfEvent')
+            } else {
+                const promptString = `יש לי אירוע ${result.value.kindOfEventInput} עם כמות אנשים של ${result.value.amountOfPeople} תן לי 2 רעיונות לארוחה מתאימה עם מתכונים וכמויות`
+
+                generate(promptString, 'kindOfEvent')
             }
-            console.log(result.value.amountOfPeople);
-            console.log(result.value.kindOfEventInput);
-            console.log(result.value.sensitivityInput);
         }
     });
 });
@@ -173,24 +234,22 @@ iHurry.addEventListener("click", () => {
         preConfirm: () => {
             const iHurryInput = document.getElementById('iHurryInput').value;
             const sensitivityInput = document.getElementById('sensitivityInput').value;
-            
+
             if (!iHurryInput) {
                 Swal.showValidationMessage('Please enter the field');
             }
-            
+
             return { iHurryInput, sensitivityInput };
         }
     }).then((result) => {
         if (result.isConfirmed) {
-            if(result.value.sensitivityInput){
-                const promptString = `אני ממהר תן לי מתכון מהיר עם המצרכים: ${result.value.iHurryInput} וכמויות, יש לי רגישות ל${result.value.sensitivityInput} `
-                console.log(promptString);
-            }else{
-                const promptString = `אני ממהר תן לי מתכון מהיר עם המצרכים: ${result.value.iHurryInput} וכמויות`
-                console.log(promptString);
+            if (result.value.sensitivityInput) {
+                const promptString = `אני ממהר תן לי מתכון מהיר עד 15 דקות עם המצרכים: ${result.value.iHurryInput} וכמויות, יש לי אלרגיה ל${result.value.sensitivityInput} `
+                generate(promptString, 'iHurry')
+            } else {
+                const promptString = `אני ממהר תן לי מתכון מהיר עד 15 דקות עם המצרכים: ${result.value.iHurryInput} וכמויות`
+                generate(promptString, 'iHurry')
             }
-            console.log(result.value.iHurryInput);
-            console.log(result.value.sensitivityInput);
         }
     });
 });
@@ -214,24 +273,22 @@ iHaveLeft.addEventListener("click", () => {
         preConfirm: () => {
             const iHaveLeftInput = document.getElementById('iHaveLeftInput').value;
             const sensitivityInput = document.getElementById('sensitivityInput').value;
-            
+
             if (!iHaveLeftInput) {
                 Swal.showValidationMessage('Please enter the field');
             }
-            
+
             return { iHaveLeftInput, sensitivityInput };
         }
     }).then((result) => {
         if (result.isConfirmed) {
-            if(result.value.sensitivityInput){
-                const promptString = `נשאר לי ${result.value.iHaveLeftInput} תן לי 2 רעיונות למתכון, יש לי רגישות ל${result.value.sensitivityInput}`
-                console.log(promptString);
-            }else{
-                const promptString = `נשאר לי ${result.value.iHaveLeftInput} תן לי 2 רעיונות למתכון`
-                console.log(promptString);
+            if (result.value.sensitivityInput) {
+                const promptString = `נשאר לי מאתמול תבשיל ${result.value.iHaveLeftInput}תן לי 2 רעיונות למתכון, יש לי אלרגיה ל${result.value.sensitivityInput}`
+                generate(promptString, 'iHaveLeft')
+            } else {
+                const promptString = `נשאר לי מאתמול תבשיל ${result.value.iHaveLeftInput} תן לי 2 רעיונות למתכון`
+                generate(promptString, 'iHaveLeft')
             }
-            console.log(result.value.iHaveLeftInput);
-            console.log(result.value.sensitivityInput);
         }
     });
 });
@@ -251,17 +308,17 @@ convertAmount.addEventListener("click", () => {
         focusConfirm: false,
         preConfirm: () => {
             const convertAmountInput = document.getElementById('convertAmountInput').value;
-            
+
             if (!convertAmountInput) {
                 Swal.showValidationMessage('Please enter the field');
             }
-            
+
             return { convertAmountInput };
         }
     }).then((result) => {
         if (result.isConfirmed) {
             const promptString = `תמיר לי ${result.value.convertAmountInput} לכל יחידות המידה`
-            console.log(promptString);
+            generate(promptString, 'convertAmount')
         }
     });
 });
