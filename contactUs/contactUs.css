@@ -23,13 +23,14 @@ h1{
     margin: auto;
     position: relative;
     text-align: center;
+    color: white
     ;
 }
 
 form{
     background-color: orange;
     border-radius: 5%;
-    
+    position: relative;
     width: 50vw;
     margin: auto;
     height: 70vh;
@@ -47,3 +48,24 @@ footer{
     justify-content: space-around;
     align-items: center;
 }
+
+input::placeholder{
+direction: rtl;
+text-align: end;
+}
+
+textarea{
+    resize: none;
+}
+textarea::placeholder{
+    direction: rtl;
+    text-align: end;
+    }
+
+    label {
+        display: block; 
+        direction: rtl; 
+        text-align: right; 
+        margin-bottom: 5px; 
+        width: 100%;
+    }
