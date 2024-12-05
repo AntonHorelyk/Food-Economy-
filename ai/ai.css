@@ -1,4 +1,4 @@
-body {
+ body {
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 20px;
@@ -36,6 +36,101 @@ button:hover {
   background-color: #f0f0f0;
 }
 
-input[type="file"] {
+/* input[type="file"] {
   margin: 10px 0;
+} */ 
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: #fc4925;
+  font-size: 2.5rem;
+  margin-top: 20px;
+}
+
+p {
+  text-align: center;
+  color: #555;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+input[type="file"] {
+  display: block;
+  margin: 0 auto 20px;
+  padding: 10px;
+  border: 2px dashed #fc4925;
+  border-radius: 8px;
+  background-color: #fff;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+input[type="file"]:hover {
+  background-color: #ffe8e4;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto;
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+button {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #fc4925;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #e44120;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+button:active {
+  background-color: #c6391b;
+}
+
+div {
+  text-align: center;
+  margin-top: 20px;
+}
+
+textarea {
+  display: block;
+  margin: 20px auto;
+  width: 90%;
+  max-width: 600px;
+  height: 200px;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  text-align: right;
+}
+
+textarea:focus {
+  border-color: #fc4925;
+  box-shadow: 0 0 5px rgba(252, 73, 37, 0.5);
+  outline: none;
 }
