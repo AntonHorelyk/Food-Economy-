@@ -19,12 +19,16 @@ header{
 }
 
 h1{
-    display: inline-flex;
+    display: inline-block;
     margin: auto;
+    left: 3%;
     position: relative;
     text-align: center;
-    color: white
-    ;
+    color: white;
+    transition: ease-in-out 0.2s;
+}
+h1:hover{
+    transform: scale(1.1);
 }
 
 form{
@@ -48,24 +52,72 @@ footer{
     justify-content: space-around;
     align-items: center;
 }
+.icons{
+    transition: ease-in-out 0.2s;
+}
+.icons:hover{
+    transform: scale(1.2);
+}
 
 input::placeholder{
 direction: rtl;
 text-align: end;
 }
 
-textarea{
-    resize: none;
-}
 textarea::placeholder{
     direction: rtl;
     text-align: end;
     }
 
     label {
+        font-size: large;
+        font-weight: bold;
         display: block; 
         direction: rtl; 
         text-align: right; 
         margin-bottom: 5px; 
         width: 100%;
+    }
+
+    .back-to-home-contactUs{
+        position: relative;
+        right: 2%;
+        color: white;
+        outline: none;
+        text-decoration: none;
+        font-size: larger;
+        transition: ease-in-out 0.2s;
+
+    }
+    .back-to-home-contactUs:hover{
+        transform: scale(1.1);
+    }
+    input, textarea {
+        width: 100%; 
+        padding: 1vh; 
+        border: 2px solid #fc4925; 
+        border-radius: 8px; 
+        font-size: 1.2em; 
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
+        outline: none; 
+        transition: border-color 0.3s, box-shadow 0.3s; 
+    }
+    
+    input:focus, textarea:focus {
+        border-color: #ff7643; 
+        box-shadow: 0px 0px 8px rgba(255, 118, 67, 0.5); 
+    }
+    
+    textarea {
+        resize: none;
+        height: 150px; 
+    }
+    
+    input::placeholder, textarea::placeholder {
+        color: #888; 
+        font-style: italic; 
+    }
+    
+    input:hover, textarea:hover {
+        border-color: #ff7643; 
     }
