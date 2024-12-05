@@ -1,11 +1,13 @@
-fetch("XML-products")
-    .then(response => response.text())
-    .then(xmlString => {
+// פונקציה לטעינת XML עם async/await
+async function fetchXMLData(xmlSource, sourceName) {
+    try {
+        const response = await fetch(xmlSource);
+        const xmlString = await response.text();
         const xmlDocument = new DOMParser().parseFromString(xmlString, "text/xml");
-
         const items = xmlDocument.querySelectorAll("Item");
 
-        const jsonItems = Array.from(items).map(item => ({
+        return Array.from(items).map(item => ({
+            source: sourceName,
             ItemCode: item.querySelector("ItemCode")?.textContent || null,
             ItemName: item.querySelector("ItemName")?.textContent || null,
             ManufactureCountry: item.querySelector("ManufactureCountry")?.textContent || null,
@@ -15,70 +17,162 @@ fetch("XML-products")
             ItemPrice: parseFloat(item.querySelector("ItemPrice")?.textContent) || 0,
             UnitQty: item.querySelector("UnitQty")?.textContent || 0,
         }));
+    } catch (error) {
+        console.error("Error fetching XML data:", error);
+        return [];
+    }
+}
 
-        console.log("Converted JSON:", jsonItems);
+// פונקציה להוספת מוצר לסל
+function addProductToCart(product) {
+    const cart = JSON.parse(localStorage.getItem("cart")) || [];
+    const existingProductInCart = cart.find(item => item.ItemCode === product.ItemCode);
 
-        const container = document.getElementById("product-container");
+    if (existingProductInCart) {
+        existingProductInCart.quantity += 1;
+    } else {
+        product.quantity = 1;
+        cart.push(product);
+    }
 
-        jsonItems.forEach(product => {
-            const productDiv = document.createElement("div");
-            productDiv.className = "product";
+    localStorage.setItem("cart", JSON.stringify(cart));
+    alertify.success('! המוצר התווסף לסל');
+}
 
-            productDiv.innerHTML = `
-                <h3>${product.ItemName}</h3>
-                <p>ארץ ייצור: ${product.ManufactureCountry}</p>
-                <p>חברה: ${product.ManufacturerName}</p>
-                <p>יחידה: ${product.Quantity} ${product.UnitQty}</p>
-                <p>מחיר: ${product.ItemPrice} ש"ח</p>
+// פונקציה ליצירת אלמנט HTML עבור מוצר
+function createProductElement(product) {
+    const productDiv = document.createElement("div");
+    productDiv.className = "product";
+    productDiv.dataset.source = product.source;
+
+    productDiv.innerHTML = `
+        <h3>${product.ItemName}</h3>
+        <p>ארץ ייצור: ${product.ManufactureCountry}</p>
+        <p>חברה: ${product.ManufacturerName}</p>
+        <p>יחידה: ${product.Quantity} ${product.UnitQty}</p>
+        <p>מחיר: ${product.ItemPrice} ש"ח</p>
+    `;
+
+    const addToCartButton = document.createElement("button");
+    addToCartButton.className = "add-to-cart";
+    addToCartButton.textContent = "הוסף לסל";
+    addToCartButton.addEventListener("click", () => addProductToCart(product));
+
+    productDiv.appendChild(addToCartButton);
+    return productDiv;
+}
+
+// פונקציה להצגת מוצרים
+function displayProducts(products) {
+    const container = document.getElementById("product-container");
+    container.innerHTML = "";
+
+    products.forEach(product => {
+        const productDiv = createProductElement(product);
+        container.appendChild(productDiv);
+    });
+}
+
+// פונקציה לסינון מוצרים
+function setupFiltersAndSearch(allProducts) {
+    // סינון לפי מקור
+    document.getElementById("source-select").addEventListener("change", function () {
+        const selectedSource = this.value;
+        const filteredProducts = selectedSource === "all"
+            ? allProducts
+            : allProducts.filter(product => product.source === selectedSource);
+
+        displayProducts(filteredProducts);
+    });
+
+    // חיפוש מוצרים
+    document.getElementById("search-input").addEventListener("input", function () {
+        const searchTerm = this.value.toLowerCase();
+        const products = document.querySelectorAll(".product");
+
+        products.forEach(product => {
+            const productName = product.querySelector("h3").textContent.toLowerCase();
+            product.style.display = productName.includes(searchTerm) ? "block" : "none";
+        });
+    });
+}
+
+// פונקציה להצגת הסל
+function renderCart() {
+    const cart = JSON.parse(localStorage.getItem("cart")) || [];
+    const cartContainer = document.getElementById("cart-container");
+    const totalPriceContainer = document.getElementById("total-price-container");
+    let totalPrice = 0;
+    cartContainer.innerHTML = "";
+
+    if (cart.length > 0) {
+        cart.forEach((product, index) => {
+            const productDivCart = document.createElement("div");
+            productDivCart.className = "productInCart";
+
+            const totalPriceProduct = (product.ItemPrice * product.quantity).toFixed(2);
+            totalPrice += parseFloat(totalPriceProduct);
+
+            productDivCart.innerHTML = `
+                <h3>${product.ItemName || "No Name"}</h3>
+                <p><strong>מק"ט:</strong> ${product.ItemCode || "N/A"}</p>
+                <p><strong>ארץ ייצור:</strong> ${product.ManufactureCountry || "N/A"}</p>
+                <p><strong>מחיר ליחידה:</strong> ${product.ItemPrice.toFixed(2)} ₪</p>
+                <p><strong>מחיר כולל:</strong> ${totalPriceProduct} ₪</p>
+                <p><strong>כמות:</strong> ${product.quantity}</p>
+                <div class="buttonsCart">
+                    <button class="remove" data-index="${index}">הסר</button>
+                    <button class="decrease">-</button>
+                    <button class="increase">+</button>
+                </div>
             `;
 
-            const addToCartButton = document.createElement("button");
-            addToCartButton.className = "add-to-cart";
-            addToCartButton.textContent = "הוסף לסל";
-            productDiv.appendChild(addToCartButton);
+            cartContainer.appendChild(productDivCart);
 
-            addToCartButton.addEventListener("click", () => {
-                const cart = JSON.parse(localStorage.getItem("cart")) || [];
-                const myUploadedList = JSON.parse(localStorage.getItem("myUploadedList")) || [];
-
-                const existingProductInCart = cart.find(item => item.ItemCode === product.ItemCode);
-                if (existingProductInCart) {
-                    existingProductInCart.quantity += 1;
-                } else {
-                    product.quantity = 1;
-                    cart.push(product);
-                }
-
-                const existingProductInUploadedList = myUploadedList.find(item => item.ItemCode === product.ItemCode);
-                if (!existingProductInUploadedList) {
-                    myUploadedList.push(product);
-                }
-
+            productDivCart.querySelector(".remove").addEventListener("click", () => {
+                cart.splice(index, 1);
                 localStorage.setItem("cart", JSON.stringify(cart));
-                localStorage.setItem("myUploadedList", JSON.stringify(myUploadedList));
-
-                alertify.success('! המוצר התווסף לסל');
+                renderCart();
+                alertify.error('! הוסר');
             });
 
-            container.appendChild(productDiv);
-        });
-
-        document.getElementById("search-input").addEventListener("input", function () {
-            const searchTerm = this.value;
-            const products = document.querySelectorAll(".product");
-
-            products.forEach(product => {
-                const productName = product.querySelector("h3").textContent.toLowerCase();
-
-                if (productName.includes(searchTerm)) {
-                    product.style.display = "block";
-                } else {
-                    product.style.display = "none";
+            productDivCart.querySelector(".decrease").addEventListener("click", () => {
+                if (product.quantity > 1) {
+                    product.quantity -= 1;
+                    localStorage.setItem("cart", JSON.stringify(cart));
+                    renderCart();
                 }
             });
+
+            productDivCart.querySelector(".increase").addEventListener("click", () => {
+                product.quantity += 1;
+                localStorage.setItem("cart", JSON.stringify(cart));
+                renderCart();
+            });
         });
-    })
-    .catch(error => {
-        console.error("Error fetching or parsing XML:", error);
-        alertify.error('שגיאה בהוספה לסל');
-    });
+
+        totalPriceContainer.innerHTML = `<p>סה"כ לתשלום: ${totalPrice.toFixed(2)} ₪</p>`;
+
+    } else {
+        cartContainer.innerHTML = "<p>הסל ריק.</p>";
+        totalPriceContainer.innerHTML = "";
+    }
+}
+
+// טעינת הנתונים והפעלת המערכת
+document.addEventListener("DOMContentLoaded", async () => {
+    try {
+        const [shufersalData, carrefourData] = await Promise.all([
+            fetchXMLData("XML-shufersal", "shufersal"),
+            fetchXMLData("XML-carrefour", "carrefour"),
+        ]);
+
+        const allProducts = [...shufersalData, ...carrefourData];
+        displayProducts(allProducts);
+        setupFiltersAndSearch(allProducts);
+    } catch (error) {
+        console.error("שגיאה בטעינת נתוני מוצרים:", error);
+    }
+
+    renderCart();
+});
