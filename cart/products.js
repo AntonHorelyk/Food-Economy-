@@ -16,6 +16,7 @@ async function fetchXMLData(xmlSource, sourceName) {
             UnitOfMeasure: item.querySelector("UnitOfMeasure")?.textContent || null,
             ItemPrice: parseFloat(item.querySelector("ItemPrice")?.textContent) || 0,
             UnitQty: item.querySelector("UnitQty")?.textContent || 0,
+            itemType: item.querySelector("itemType")?.textContent || 0,
         }));
     } catch (error) {
         console.error("Error fetching XML data:", error);
@@ -50,12 +51,26 @@ function createProductElement(product) {
         <p>ארץ ייצור: ${product.ManufactureCountry}</p>
         <p>חברה: ${product.ManufacturerName}</p>
         <p>יחידה: ${product.Quantity} ${product.UnitQty}</p>
+        <p>רשת: ${product.itemType}</p>
         <p>מחיר: ${product.ItemPrice} ש"ח</p>
     `;
 
+    // יצירת כפתור בעיצוב מותאם
     const addToCartButton = document.createElement("button");
-    addToCartButton.className = "add-to-cart";
-    addToCartButton.textContent = "הוסף לסל";
+    addToCartButton.className = "btn-53";
+    addToCartButton.innerHTML = `
+        <div class="original" id="add-to-cart">הוסף לסל</div>
+        <div class="letters">
+            <span>!</span>
+            <span>ף</span>
+            <span>י</span>
+            <span>ס</span>
+            <span>ו</span>
+            <span>ת</span>
+        </div>
+    `;
+
+    // הוספת אירוע לחיצה
     addToCartButton.addEventListener("click", () => addProductToCart(product));
 
     productDiv.appendChild(addToCartButton);
@@ -86,7 +101,7 @@ function setupFiltersAndSearch(allProducts) {
     });
 
     // חיפוש מוצרים
-    document.getElementById("search-input").addEventListener("input", function () {
+    document.querySelector(".input-text").addEventListener("input", function () {
         const searchTerm = this.value.toLowerCase();
         const products = document.querySelectorAll(".product");
 

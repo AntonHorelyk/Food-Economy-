@@ -9,7 +9,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>1230000147576</ItemCode>
-      <ItemType>1</ItemType>0
+      <itemType>שופרסל</itemType>
       <ItemName>נאגטס ביונד מיט</ItemName>
       <ManufacturerName>טיקנה ג'י.אמ.בי.אייג' אנ</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -27,7 +27,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>25700005698</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>זיפלוק שקיות אחסון 24 יח</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>US</ManufactureCountry>
@@ -45,7 +45,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>3500610150524</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שאטו הו פוטו ס.בלאן</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -63,7 +63,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>3574661485218</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>או בה פרוקומפורט נורמל</ItemName>
       <ManufacturerName>ש. שסטוביץ בע"מ</ManufacturerName>
       <ManufactureCountry>GR</ManufactureCountry>
@@ -81,7 +81,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>3600541956223</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ACTIVE PURE ג'ל ניקוי</ItemName>
       <ManufacturerName>קרלסרו, גרמניה</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -99,7 +99,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>3600542367936</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מי פנים אלוורה</ItemName>
       <ManufacturerName>קוסמופול, פולין</ManufacturerName>
       <ManufactureCountry>PL</ManufactureCountry>
@@ -117,7 +117,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>3600542541602</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גרנייה סרום ויטמין סי</ItemName>
       <ManufacturerName>KARLSRUHE</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -135,7 +135,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>3760151010439</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אצבעות בסקוויט ציפוי שוקולד</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -153,7 +153,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>4002448017684</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סיליט באנג ספריי</ItemName>
       <ManufacturerName>רקיט בנקיזר</ManufacturerName>
       <ManufactureCountry>PL</ManufactureCountry>
@@ -171,7 +171,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>4009900509770</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מסטיק בקבוק M תות 84 גרם</ItemName>
       <ManufacturerName>ריגלי</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
@@ -189,7 +189,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4009900513791</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סקיטלס פירות חמוצים</ItemName>
       <ManufacturerName>מרס ריגלי</ManufacturerName>
       <ManufactureCountry>CZ</ManufactureCountry>
@@ -207,7 +207,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>4022025002100</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>בלו ויין מבעבע רוזה</ItemName>
       <ManufacturerName>היי סישל סוהן טראבן</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -225,7 +225,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>4056800912483</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>וולה פלקס מוס לשיער</ItemName>
       <ManufacturerName>אינטרספריי</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -243,7 +243,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>4064666232379</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>וולה פלקס ספריי לשיער</ItemName>
       <ManufacturerName>THEORAT INTERSPRAY</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -261,7 +261,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4605246003523</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תה שחור גולדן צילוני</ItemName>
       <ManufacturerName>גרינפילד</ManufacturerName>
       <ManufactureCountry>RU</ManufactureCountry>
@@ -279,7 +279,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4605246009969</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תה שחור אוכמניות25 שקיות</ItemName>
       <ManufacturerName>אורימי בעמ</ManufacturerName>
       <ManufactureCountry>RU</ManufactureCountry>
@@ -297,7 +297,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4770166223242</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גלידת קרמל ביסקוויט</ItemName>
       <ManufacturerName>DADU</ManufacturerName>
       <ManufactureCountry>LT</ManufactureCountry>
@@ -315,7 +315,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>4810168000066</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>הרינג מלוח מצונן+תבלין</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>BY</ManufactureCountry>
@@ -333,7 +333,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>4810168024512</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>הרינג מלוח מצונן+תבלין</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>BY</ManufactureCountry>
@@ -351,7 +351,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4810168064204</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סלט איקרה לבנה</ItemName>
       <ManufacturerName>סנטה ברמור</ManufacturerName>
       <ManufactureCountry>BY</ManufactureCountry>
@@ -369,7 +369,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>4820077161956</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גלידת מקרון פיסטוק</ItemName>
       <ManufacturerName>ללס "טירס ט.מ מוסאיק"</ManufacturerName>
       <ManufactureCountry>UA</ManufactureCountry>
@@ -387,7 +387,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>5014271002675</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מעדן תפוח וקינמון</ItemName>
       <ManufacturerName>סנדלפור</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -405,7 +405,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5014271004259</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מעדן פרי תות שדה</ItemName>
       <ManufacturerName>סאן דלפור - שמבור</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -423,7 +423,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5014271004266</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מעדן פרי דובדב.שחור</ItemName>
       <ManufacturerName>סאן דלפור - שמבור</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -441,7 +441,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5014271004273</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מעדן פרי ארבעה פירות</ItemName>
       <ManufacturerName>סאן דלפור - שמבור</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -459,7 +459,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5014271004280</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מעדן פרי משמש</ItemName>
       <ManufacturerName>סאן דלפור - שמבור</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -477,7 +477,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>5029053523446</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קוטקס תחבושות נייט 20 יח</ItemName>
       <ManufacturerName>חוגלה קימברלי</ManufacturerName>
       <ManufactureCountry>CZ</ManufactureCountry>
@@ -495,7 +495,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>50398904</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קרם חמצן6% בקבוק</ItemName>
       <ManufacturerName>גדעון קוסמטיקס</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -513,7 +513,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>5202300043168</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קולסטון 7/0 בלונד בינוני</ItemName>
       <ManufacturerName>HFC פרסטיג'</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -531,7 +531,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>5208049015343</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פאלמאל כחול ארוך טיוב</ItemName>
       <ManufacturerName>BAT</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
@@ -549,7 +549,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>5292874002333</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ממרח שום ועשבי תיבול</ItemName>
       <ManufacturerName>גרין ויה</ManufacturerName>
       <ManufactureCountry>GR</ManufactureCountry>
@@ -567,7 +567,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>5391523057936</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סימילאק גולד שלב 2</ItemName>
       <ManufacturerName>ABBOT</ManufacturerName>
       <ManufactureCountry>IE</ManufactureCountry>
@@ -585,7 +585,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5711953160387</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סטארבקס פרפוצ'ינ מוקה</ItemName>
       <ManufacturerName>ARLA\n</ManufacturerName>
       <ManufactureCountry>DK</ManufactureCountry>
@@ -603,7 +603,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5740900403864</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לורפק חמאה עם מלח</ItemName>
       <ManufacturerName>ארלה פודס אמבה</ManufacturerName>
       <ManufactureCountry>DK</ManufactureCountry>
@@ -621,7 +621,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>59083856</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דאו אינוויזיבל דריי</ItemName>
       <ManufacturerName>יוניליוור  אנגליה</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
@@ -639,7 +639,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>628154383659</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דגני פרוטי פבלס</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>US</ManufactureCountry>
@@ -657,7 +657,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>70970475351</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ס.ג'לי פירות טרופים</ItemName>
       <ManufacturerName>ג'אסט בורן</ManufacturerName>
       <ManufactureCountry>US</ManufactureCountry>
@@ -675,7 +675,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>724049694388</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>Fantasy אדפ לאשה</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -765,7 +765,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 09:40</PriceUpdateDate>
       <ItemCode>7290000022598</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>בוטן קלוף ענק במשקל</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -783,7 +783,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000056951</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שמנת לבישול 15%</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -855,7 +855,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000112619</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מרק עוף קנור</ItemName>
       <ManufacturerName>יוניליוור ישראל מזון בע"</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -873,7 +873,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000121093</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גב.מון בלן ט.שויצרי</ItemName>
       <ManufacturerName>נטו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -891,7 +891,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000136516</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ג'אמפ מנגו פסיפלורה</ItemName>
       <ManufacturerName>טמפו משקאות בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -909,7 +909,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000286297</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סנו אנטיקאלק מסיר אבן</ItemName>
       <ManufacturerName>סנו מפעלי ברונוס בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -927,7 +927,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000318677</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סלמי סרוולט</ItemName>
       <ManufacturerName>יחיעם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -945,7 +945,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000416076</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>צימקאו שוקולד לבישול</ItemName>
       <ManufacturerName>השחר העולה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -963,7 +963,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000442044</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פמינה חמוציות</ItemName>
       <ManufacturerName>כצט</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -981,7 +981,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000497204</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>5 פיתות בשקית</ItemName>
       <ManufacturerName>י.את.א.ברמן בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -999,7 +999,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000612867</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שווארמה נקבה טרי ארוז</ItemName>
       <ManufacturerName>עוף עוז</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1017,7 +1017,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000612881</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שוק הודו נקבה טרי ארוז</ItemName>
       <ManufacturerName>עוף עוז</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1035,7 +1035,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290000616803</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כרעים עוף טרי ארוז שלי</ItemName>
       <ManufacturerName>עוף עוז</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1053,7 +1053,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290000664019</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>נגטס פילה אמנון בטמפורה</ItemName>
       <ManufacturerName>תנובה</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
@@ -1071,7 +1071,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000688084</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מי עדן פקק ספורטאים</ItemName>
       <ManufacturerName>מי עדן</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1089,7 +1089,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000803180</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שטיפה דנטלית מרידול</ItemName>
       <ManufacturerName>קולגייט-פלמוליב</ManufacturerName>
       <ManufactureCountry>PL</ManufactureCountry>
@@ -1467,7 +1467,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290001158722</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חזה עוף טרי תפזורת עצמי</ItemName>
       <ManufacturerName>שונות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1485,7 +1485,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290001164419</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ג'עלה</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1503,7 +1503,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290001201589</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ביצים ארוזות L 12 יחידות</ItemName>
       <ManufacturerName>שופרסל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1521,7 +1521,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290001201596</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ביצים ארוזות M 12 יחידות</ItemName>
       <ManufacturerName>שופרסל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1539,7 +1539,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290001455791</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פילה זהבון ללא עור קפוא</ItemName>
       <ManufacturerName>CO SEAFOOD HONGBEST</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
@@ -1557,7 +1557,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290001696385</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מיני רוגלך  במשקל</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1575,7 +1575,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290001791776</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סנו די רול און אלוורה</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1593,7 +1593,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290001817377</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>צ'יטוס חטיף PUFFS פיצה</ItemName>
       <ManufacturerName>שטראוס פריטו ליי בע"מ )</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1611,7 +1611,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 09:40</PriceUpdateDate>
       <ItemCode>7290001979846</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פיסטוק אפגני קלוי במשקל</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1629,7 +1629,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 09:40</PriceUpdateDate>
       <ItemCode>7290001979853</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>בוטנים מצופים בטעמים</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1647,7 +1647,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 09:40</PriceUpdateDate>
       <ItemCode>7290001979860</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פקאן קשיו בטעמים במשקל</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1665,7 +1665,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 09:40</PriceUpdateDate>
       <ItemCode>7290001979877</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תמר סופר גמבו במשקל</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1683,7 +1683,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 09:40</PriceUpdateDate>
       <ItemCode>7290001979884</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אננס טבעי ללא סוכר מחיר</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1701,7 +1701,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 09:40</PriceUpdateDate>
       <ItemCode>7290001979891</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מנגו מיובש דל סוכר מחיר</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1719,7 +1719,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002107316</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גבינת טבורוג 5% משקל</ItemName>
       <ManufacturerName>משק צוריאל תבור</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1737,7 +1737,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290002129479</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פיצה איטלקית דקה</ItemName>
       <ManufacturerName>סוילה אס.אר.אל</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -1755,7 +1755,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002130581</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דבש בצנצנת יד מרדכי</ItemName>
       <ManufacturerName>מכוורת יד מרדכי שטראוס ב</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1773,7 +1773,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002319023</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סוכר וניל 10 יחידות</ItemName>
       <ManufacturerName>מיה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1791,7 +1791,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002331360</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>נביעות פקק טו גו 6 יחידות</ItemName>
       <ManufacturerName>נביעות טבע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1809,7 +1809,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002511243</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>בולגרית מסורתית 16%</ItemName>
       <ManufacturerName>מחלבת המושבה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1827,7 +1827,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002512004</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מלוואח צנעני</ItemName>
       <ManufacturerName>צנעני</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1845,7 +1845,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002517825</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פלפל לבן טחון</ItemName>
       <ManufacturerName>תבליני טעם וריח</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1863,7 +1863,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290002628187</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פילה מדומה מס 6'חלק קפוא</ItemName>
       <ManufacturerName>בלדי</ManufacturerName>
       <ManufactureCountry>BR</ManufactureCountry>
@@ -1881,7 +1881,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290002706915</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פילה נסיכת נילוס</ItemName>
       <ManufacturerName>דלידג - נטו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1899,7 +1899,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002768043</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מי פה תיאדנט+פלאוריד</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1917,7 +1917,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 16:40</PriceUpdateDate>
       <ItemCode>7290002814160</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מסיר שומנים סנט מוריץ</ItemName>
       <ManufacturerName>קומפלקס כימיקלים בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -1935,7 +1935,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290003069590</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פילה סול קפוא 1קג יח</ItemName>
       <ManufacturerName>נטו</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
@@ -1953,7 +1953,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 12:30</PriceUpdateDate>
       <ItemCode>7290003287017</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גידים בקר חלק קפוא</ItemName>
       <ManufacturerName>מינרבה</ManufacturerName>
       <ManufactureCountry>BR</ManufactureCountry>
@@ -1971,7 +1971,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 12:20</PriceUpdateDate>
       <ItemCode>7290003610143</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פילה בקר טרי</ItemName>
       <ManufacturerName>PAMPEANAS</ManufacturerName>
       <ManufactureCountry>AR</ManufactureCountry>
@@ -1989,7 +1989,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290003726141</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>טופו משק גאיה</ItemName>
       <ManufacturerName>משק ויילר</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2007,7 +2007,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290004023041</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לחם מחמצת שיפון</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2025,7 +2025,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290004126759</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>יופלה פירות יער 0%</ItemName>
       <ManufacturerName>תנובה בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2043,7 +2043,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290004135324</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>בולגרית מעודנת 5%</ItemName>
       <ManufacturerName>תנובה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2061,7 +2061,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290004494131</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דלתון גליל קברנה</ItemName>
       <ManufacturerName>יקב דלתון בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2079,7 +2079,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290004952136</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קמח כוסמין מלא אורגני</ItemName>
       <ManufacturerName>טחנת קמח יפו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2097,7 +2097,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290005020162</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>וויסקי בלנטיין</ItemName>
       <ManufacturerName />
       <ManufactureCountry>LK</ManufactureCountry>
@@ -2115,7 +2115,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290005082962</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פרצל</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2133,7 +2133,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290005416095</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גבינת עזים 5% טל</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2151,7 +2151,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290005418709</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קר.לחות נטורל קיבוע תלתל</ItemName>
       <ManufacturerName>קרליין</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2169,7 +2169,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290005938245</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פסטו קלאסי 220 גרם</ItemName>
       <ManufacturerName>נטו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2187,7 +2187,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290006374684</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שמן זית קלאסי</ItemName>
       <ManufacturerName>מכוורת יד מרדכי שטראוס ב</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2205,7 +2205,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290006451507</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לחם מחמצת כוסמין</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2223,7 +2223,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290006459473</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חלבה פיסטוק עדן במשקל</ItemName>
       <ManufacturerName>עדן</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2241,7 +2241,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290006742315</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חזה הודו ברביקיו</ItemName>
       <ManufacturerName>זוגלובק</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2259,7 +2259,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290006764157</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גולדסטאר ל.מסונן</ItemName>
       <ManufacturerName>טמפו משקאות בע''מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2277,7 +2277,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290008670029</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>יין רקנאטי מרלו</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2295,7 +2295,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290008747547</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תפוציפס קראנצ' ט.טבעי</ItemName>
       <ManufacturerName>שטראוס פריטו ליי בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2457,7 +2457,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290010032419</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דבש פרחי בר</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2475,7 +2475,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290010154050</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ממרח שיפקה כבוש חריף</ItemName>
       <ManufacturerName>תבליני ביטון יוחאי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2493,7 +2493,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290010163632</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שזיף ללא גלעין</ItemName>
       <ManufacturerName>דין שיווק</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2511,7 +2511,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 07:40</PriceUpdateDate>
       <ItemCode>7290010192052</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סלרי עלים יחידה</ItemName>
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2529,7 +2529,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290010237562</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מירינדה</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2547,7 +2547,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290010970766</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מי ורדים</ItemName>
       <ManufacturerName>ג.מ טעם הארץ בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2565,7 +2565,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290011378028</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חלבה וניל ללת"ס</ItemName>
       <ManufacturerName>רושדי תעשיות מזון בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2583,7 +2583,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290011498177</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ממרח שקד לבן מקולף</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2601,7 +2601,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290011498368</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חמאת פיסטוק</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2619,7 +2619,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290011830168</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פירורי לחם ארגנ.כסמין</ItemName>
       <ManufacturerName>חטיפים מן הטבע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2637,7 +2637,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290012864322</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עשב חיטה אורגני יחידה</ItemName>
       <ManufacturerName>נבטי העמק</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2655,7 +2655,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290013027399</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לחם מלא 100% שיפון-קל</ItemName>
       <ManufacturerName>מאפיית שלמה א. אנג'ל בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2673,7 +2673,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290013090157</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חסה אורגני יחידה</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2691,7 +2691,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7290013090225</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סלרי עלים אורגני יחידה</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2709,7 +2709,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290013090256</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תות שדה אורגני</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2727,7 +2727,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7290013090362</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עלי מנגולד אורגני יחידה</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2745,7 +2745,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7290013090379</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>בצל ירוק אורגני יחידה</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2763,7 +2763,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7290013090515</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פטרוזיליה אורגני</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2781,7 +2781,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7290013090522</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שמיר אורגני</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2799,7 +2799,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7290013090577</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מלפפון בייבי אורגני - יח</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2817,7 +2817,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290013269003</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מקסימה מרכך בייבי</ItemName>
       <ManufacturerName>סנו מפעלי ברונוס בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2835,7 +2835,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290013284310</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>רוטב פסטה</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2853,7 +2853,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290013453044</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עוגיות שוקולד צ'יפס</ItemName>
       <ManufacturerName>דני וגלית בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2871,7 +2871,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290013453136</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עוגיות כוסמין</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2889,7 +2889,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290013453679</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עוג.אוכמניות קמח שקד</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2907,7 +2907,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290013579775</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לשון בקר מוכשר</ItemName>
       <ManufacturerName>בלדי</ManufacturerName>
       <ManufactureCountry>BR</ManufactureCountry>
@@ -2925,7 +2925,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290013848017</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מנקה/מבריק נירוסטה</ItemName>
       <ManufacturerName>סנו מפעלי ברונוס בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2943,7 +2943,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290014321199</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קרקרים פשתן צילי</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2961,7 +2961,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290014321205</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קרקרים עם גרעיני פשתן</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2979,7 +2979,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290014472518</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>בוטן קלוי ענק אקסטרא</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -2997,7 +2997,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290014503137</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כנען אדום גליל</ItemName>
       <ManufacturerName>יקב דלתון בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3015,7 +3015,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290014940901</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לחם פשוט מלא</ItemName>
       <ManufacturerName>מאפיית שלמה א. אנג</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3033,7 +3033,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290014947856</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מלח גס שחור מההימלאיה</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>PK</ManufactureCountry>
@@ -3051,7 +3051,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290014947887</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מלח דק שחור מההימליה</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>PK</ManufactureCountry>
@@ -3069,7 +3069,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290015161862</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פת פריכה+ערמונים</ItemName>
       <ManufacturerName>אקסטרודו בצ'יצה</ManufacturerName>
       <ManufactureCountry>CZ</ManufactureCountry>
@@ -3087,7 +3087,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290015264174</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>טחינה אבן ריחיים</ItemName>
       <ManufacturerName>ממלכת החלבה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3105,7 +3105,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290016299168</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סרום קיק חיזוק שיער</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3123,7 +3123,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290016299618</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שמפו קיק ארגניה</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3141,7 +3141,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290016299755</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מרכך קיק ארגניה</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3159,7 +3159,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290016299885</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מסיכת קיק ארגניה</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3177,7 +3177,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290016823059</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>טימין סגירה חוזרת</ItemName>
       <ManufacturerName>מרינה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3195,7 +3195,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290017325927</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ברנפלקס אורגני הרדוף</ItemName>
       <ManufacturerName>לאמרי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -3213,7 +3213,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290017637655</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שמפו קרטין ללא מלחים</ItemName>
       <ManufacturerName>סאסא קוסמטיקס אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3231,7 +3231,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290017637761</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מרכך קרטין ללא מלחים</ItemName>
       <ManufacturerName>סאסא קוסמטיקס אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3249,7 +3249,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290017871936</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גרנולה אגוזים+גרעינים</ItemName>
       <ManufacturerName>אפקטבעי בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3267,7 +3267,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290017907253</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פתיתים תמי</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3285,7 +3285,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290017947105</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לחם בסגנון אמריקה</ItemName>
       <ManufacturerName>מאפיית שלמה א. אנג'ל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3303,7 +3303,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290017947464</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פיתות כוסמין 8יח</ItemName>
       <ManufacturerName>מאפיית שלמה א.אנג'ל בע"\</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3321,7 +3321,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290017947891</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לחם כוסמין+חיטה מלאה</ItemName>
       <ManufacturerName>מאפיית שלמה א. אנג'ל בע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3339,7 +3339,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290017962153</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עוגיות כוסמין שקדים</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3357,7 +3357,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018011737</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גלידה אייס קפה ובננה</ItemName>
       <ManufacturerName>תמרה ארטיק בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3375,7 +3375,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290018265277</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ארוחת קארי תפוחי אדמה</ItemName>
       <ManufacturerName>פאזלני אקספורטס</ManufacturerName>
       <ManufactureCountry>IN</ManufactureCountry>
@@ -3393,7 +3393,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018294895</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מונלייט לבן</ItemName>
       <ManufacturerName>יקבי כרמל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3411,7 +3411,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018440254</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>צ'אי קרמל מלוח</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3429,7 +3429,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018500361</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לחם אחיד פרוס 900 גרם</ItemName>
       <ManufacturerName>מאפיית שלמה א. אנג'ל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3447,7 +3447,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 22:40</PriceUpdateDate>
       <ItemCode>7290018500392</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חלה קלועה</ItemName>
       <ManufacturerName>מאפיית שלמה א. אנגל בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3465,7 +3465,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018500484</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לחמניות אמריקה</ItemName>
       <ManufacturerName>מאפיית שלמה א. אנג'ל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3483,7 +3483,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018540329</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פיתה יחידות 8</ItemName>
       <ManufacturerName>מאפיית שלמה א. אנג'ל בע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3501,7 +3501,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018593035</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כמוצרלה קשיו</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3519,7 +3519,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018593110</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>רביולי גבינות שקדים</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3537,7 +3537,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018732601</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מארז אבוקדו בשל יחידה</ItemName>
       <ManufacturerName>גרנות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3555,7 +3555,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018757505</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סודה שתיה ל.אלומיניום</ItemName>
       <ManufacturerName>אשבל בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3573,7 +3573,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019014645</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מסיר כתמים טנקס</ItemName>
       <ManufacturerName>סאסאטק אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3591,7 +3591,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019056249</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שוופס מים טעם ענבים</ItemName>
       <ManufacturerName>יפאורה תבורי בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3609,7 +3609,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019196280</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ממרח טונה 2 יח</ItemName>
       <ManufacturerName>תעשיות פילטונה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3627,7 +3627,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019226987</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>נתחי טונה מעושן+צ'ילי</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>LV</ManufactureCountry>
@@ -3645,7 +3645,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019232155</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חליטת קמומיל לבנדר</ItemName>
       <ManufacturerName>ויסוצקי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3663,7 +3663,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019232278</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תה שחור עם הל 25 שקיקים</ItemName>
       <ManufacturerName>ויסוצקי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3681,7 +3681,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019233039</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>רוטב שקשוקה קלאסית</ItemName>
       <ManufacturerName>ויסוצקי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -3699,7 +3699,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290019398356</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מונלייט קברנה סובניון</ItemName>
       <ManufacturerName>יקבי כרמל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3717,7 +3717,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019431343</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אמברלו - מטריות חרובים</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3735,7 +3735,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019547136</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תירס מתוק</ItemName>
       <ManufacturerName>TIANBAOLONG ZHANGZHOU</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
@@ -3753,7 +3753,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019611479</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>נוזל כלים אמור</ItemName>
       <ManufacturerName>סאסאטק אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3771,7 +3771,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290019635260</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סחלב</ItemName>
       <ManufacturerName>מיוצר ע"י קוד יצרן EDNK</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3789,7 +3789,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290019841883</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ג'ל כביסה מרוכז ירוק</ItemName>
       <ManufacturerName>סאסאטק אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3807,7 +3807,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290020130310</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שקיות אשפה חזקות+שרוך100</ItemName>
       <ManufacturerName>A.P.T.I</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3825,7 +3825,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290020130419</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כוסות יהלום לשתיה קרה 40</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
@@ -3843,7 +3843,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290020188168</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>נוזל כלים 24% תפוח</ItemName>
       <ManufacturerName>סאסאטק אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3861,7 +3861,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290100240144</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>בדין תרסיס מייבש ורוד</ItemName>
       <ManufacturerName>זוהר דליה, קיבוץ דליה, 1</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3879,7 +3879,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290101114345</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חמישיה שלגון וניל ש.מריר</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3897,7 +3897,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290101869795</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>איירוויק מילוי</ItemName>
       <ManufacturerName>רקיט בנקיזר</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
@@ -3915,7 +3915,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290102060764</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>2 מברשות שיניים מרידול</ItemName>
       <ManufacturerName>גאבה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
@@ -3933,7 +3933,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290102394081</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מולר מיקס קורנפ. מצופה</ItemName>
       <ManufacturerName>טרה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3951,7 +3951,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290106520912</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שמנת לבישול 9%</ItemName>
       <ManufacturerName>מחלבת יטבתה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3969,7 +3969,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290106576834</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>לה קרמריה פונש בננה</ItemName>
       <ManufacturerName>גלידות נסטלה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -3987,7 +3987,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290106668133</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שוקולית</ItemName>
       <ManufacturerName>שטראוס קפה בי.וי.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4005,7 +4005,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290107280563</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אוקסיג'ן בייבי</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4023,7 +4023,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290107280709</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ספארק נוזל הברקה</ItemName>
       <ManufacturerName>סנו מפעלי ברונוס בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4041,7 +4041,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290107978330</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>איטריות דקות</ItemName>
       <ManufacturerName>פי.פי.איג' ארטלקס</ManufacturerName>
       <ManufactureCountry>PL</ManufactureCountry>
@@ -4059,7 +4059,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290108353969</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דאו.קרמה מאסק</ItemName>
       <ManufacturerName>סנו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4077,7 +4077,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290108355185</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מסכה קרטין נטורל</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4095,7 +4095,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290108355208</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שמפו קרטין נטורל</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4113,7 +4113,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290108355802</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תח.רחצה קרמה ורד וניל</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4131,7 +4131,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290108357660</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סנובון באבלס לבנדר 3</ItemName>
       <ManufacturerName>TOMIL</ManufacturerName>
       <ManufactureCountry>CZ</ManufactureCountry>
@@ -4149,7 +4149,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290108357769</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כיף מרכך לשיער רגיל</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4167,7 +4167,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290108420753</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תמר מג'הול פרימיום אורגנ</ItemName>
       <ManufacturerName>אלה תמרים</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4185,7 +4185,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290109641102</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פסטרמה פרוסות</ItemName>
       <ManufacturerName>גן שמואל-תעשיות בריאות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4203,7 +4203,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290110110277</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סומרסבי סיידר 4</ItemName>
       <ManufacturerName>קרלסברג קרואטיה , יבואן:</ManufacturerName>
       <ManufactureCountry>HR</ManufactureCountry>
@@ -4221,7 +4221,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290110329792</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מעדן סויה ביו אפרסק</ItemName>
       <ManufacturerName>תנובה בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4239,7 +4239,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290110556563</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>צנצנת קוביות תות</ItemName>
       <ManufacturerName>אסקום קונפקשיין</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -4257,7 +4257,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290111342073</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מטלית מקרופיבר אנטיבקטרי</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
@@ -4275,7 +4275,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290111564277</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פריכיות דק.פיטנס 3יח</ItemName>
       <ManufacturerName>פרח תעשיות מזון בע"מ.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4293,7 +4293,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290112197467</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>טרו שוקולד מריר</ItemName>
       <ManufacturerName>אימפריאל</ManufacturerName>
       <ManufactureCountry>PT</ManufactureCountry>
@@ -4311,7 +4311,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290112199775</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אטריות אורז דקות</ItemName>
       <ManufacturerName>יוניון רטצ'אבורי</ManufacturerName>
       <ManufactureCountry>TH</ManufactureCountry>
@@ -4329,7 +4329,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112337474</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סוכריות מאסט פטל לימון</ItemName>
       <ManufacturerName>מיישקו</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
@@ -4347,7 +4347,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112338877</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סקי תות</ItemName>
       <ManufacturerName>שטראוס בריאות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4365,7 +4365,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112492715</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שמפו פינוק לסירוק קל</ItemName>
       <ManufacturerName>יוניליוור ישראל טיפוח אי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4383,7 +4383,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112492746</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מרכך פינוק לסירוק קל</ItemName>
       <ManufacturerName>יוניליוור ישראל טיפוח אי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4401,7 +4401,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112492753</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אל סבון פינוק ילדים</ItemName>
       <ManufacturerName>יוניליוור ישראל טיפוח אי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4419,7 +4419,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290112498007</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>נולה פרוטאין שקד</ItemName>
       <ManufacturerName>רפאלס בריא וטעים בע"מ,</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4437,7 +4437,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112964434</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>רוטב קיסר לסלט</ItemName>
       <ManufacturerName>אסם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4455,7 +4455,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290114311489</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גבינה לבנה 5% למריחה</ItemName>
       <ManufacturerName>טרה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4473,7 +4473,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290114604895</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ממרח ספייסי לחיץ</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>NL</ManufactureCountry>
@@ -4491,7 +4491,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290115190434</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אל אם וויב סלימס חפיסה</ItemName>
       <ManufacturerName>פיליפ מוריס</ManufacturerName>
       <ManufactureCountry>US</ManufactureCountry>
@@ -4509,7 +4509,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290115190526</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>נקסט ריסס ארוך פאקט</ItemName>
       <ManufacturerName>פיליפ מוריס</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
@@ -4527,7 +4527,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290115203295</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פסטה ריציאולי</ItemName>
       <ManufacturerName>ניולט פוד ס.פ.א</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -4545,7 +4545,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290116532875</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>בייבי אל סבון לתינוק</ItemName>
       <ManufacturerName>יוניליוור ישראלn\טיפוח א</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4563,7 +4563,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290116533667</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דאב אינווזיבל דריי</ItemName>
       <ManufacturerName>קוסטר אירוסול</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
@@ -4581,7 +4581,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290116534909</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>רוטב לסלט שום שמיר</ItemName>
       <ManufacturerName>יוניליוור ישראל מזון בע"</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4599,7 +4599,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290116933726</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כדורי לאבנה בשמן</ItemName>
       <ManufacturerName>תנובה בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4617,7 +4617,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290117263716</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פיצה מרגריטה</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -4635,7 +4635,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290117263730</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פיצה מרגריטה</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -4653,7 +4653,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290117768822</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ספגטי פסטה "מונופוד" </ItemName>
       <ManufacturerName>AVRORA</ManufacturerName>
       <ManufactureCountry>AZ</ManufactureCountry>
@@ -4671,7 +4671,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290117904930</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אורז בסמטי ששון הקולה</ItemName>
       <ManufacturerName>דין שיווק</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4689,7 +4689,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290118422204</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פיטנס פריכיות שוקולד </ItemName>
       <ManufacturerName>כרמית תעשיות ממתקים בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4707,7 +4707,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290119377077</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שוקולד בטעם רבע לשבע</ItemName>
       <ManufacturerName>שטראוס גרופ בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4725,7 +4725,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290119379873</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מסטיק בטעם קולה חמוץ</ItemName>
       <ManufacturerName>אסקום קונפקשיין</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -4743,7 +4743,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290121010009</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אצבעות פילאס פיצה</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4761,7 +4761,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290121010016</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אצבעות פילאס גבינה </ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4779,7 +4779,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290121010146</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אצבעות פילאס תפ"א</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4797,7 +4797,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290121010153</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אצבעות פילאס פטריות</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4815,7 +4815,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290121010191</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גחנון בייקרי</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4833,7 +4833,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7296073049074</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סלמי קוניאק שופרסל</ItemName>
       <ManufacturerName>מעדני יחיעם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4851,7 +4851,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7296073108443</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קמח חיטה מלא</ItemName>
       <ManufacturerName>טחנות ישראליות בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4869,7 +4869,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7296073132806</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חרוזי זיתים שופרסל</ItemName>
       <ManufacturerName>קבוצת יבנה מוצרי מזון</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4887,7 +4887,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7296073132981</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>צלחת גדולה לבנה ELEGANT</ItemName>
       <ManufacturerName>מלינדה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4905,7 +4905,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073164388</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עלי תרד אורגניים</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4923,7 +4923,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073164685</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קייל אורגני גרין</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4941,7 +4941,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7296073173229</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שעועית ירוקה חתוכה שופרס</ItemName>
       <ManufacturerName>שטראוס גרופ בע"מ</ManufacturerName>
       <ManufactureCountry>BE</ManufactureCountry>
@@ -4959,7 +4959,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 07:40</PriceUpdateDate>
       <ItemCode>7296073180203</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עלי רוקט שטופים</ItemName>
       <ManufacturerName>פרסקו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -4977,7 +4977,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7296073180944</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מטלית רצפה</ItemName>
       <ManufacturerName />
       <ManufactureCountry>CN</ManufactureCountry>
@@ -4995,7 +4995,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073202493</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שוקולד חלב 6 יח</ItemName>
       <ManufacturerName>דליקה איי.ג'י</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
@@ -5013,7 +5013,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073215820</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כורכום טחון</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5031,7 +5031,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073216018</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תערובת תיבול</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5049,7 +5049,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073216216</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פלפל לבן</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5067,7 +5067,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073224433</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אורז חום עגול</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5085,7 +5085,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073246251</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קפיץ להסרת שיער שופרסל</ItemName>
       <ManufacturerName>TECHONGGIES TAIKONE</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5103,7 +5103,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073285281</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כפית שקוף עבה ח"פ 100 יח</ItemName>
       <ManufacturerName>SUCCESS BIG</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
@@ -5121,7 +5121,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073293019</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פלפל סוויט אורגני</ItemName>
       <ManufacturerName>יבולי בר אורגני</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5139,7 +5139,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073294221</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כוסברה סגירה חוזרת</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5157,7 +5157,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073320074</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חסה מעודנת הידרופונית יח</ItemName>
       <ManufacturerName>יגור חקלאות ועסקים</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5175,7 +5175,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073320159</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חסה לבבות אורגני יחידה</ItemName>
       <ManufacturerName>CP</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5193,7 +5193,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 07:40</PriceUpdateDate>
       <ItemCode>7296073320388</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עלי בייבי</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5211,7 +5211,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 07:40</PriceUpdateDate>
       <ItemCode>7296073320395</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עלי תרד בייבי</ItemName>
       <ManufacturerName>פרסקו חצבה 2006 בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5229,7 +5229,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073331865</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מסרק כיס שחור</ItemName>
       <ManufacturerName>BE NOW</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
@@ -5247,7 +5247,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 07:40</PriceUpdateDate>
       <ItemCode>7296073362777</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סלרי עלים</ItemName>
       <ManufacturerName>תנובות לכיש</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5265,7 +5265,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073363217</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>Beשמפו לשיער מוחלק</ItemName>
       <ManufacturerName>א.משי תעשיות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5283,7 +5283,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073372080</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קפסולות מס LUNGO 6</ItemName>
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
@@ -5301,7 +5301,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073390312</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גב.שמנת שום שמיר25%</ItemName>
       <ManufacturerName>גבינות משק יעקבס</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5319,7 +5319,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073398868</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קפסולות נטול קופאין</ItemName>
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
@@ -5337,7 +5337,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073403418</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מנצ'גו צ'אנק שופרסל</ItemName>
       <ManufacturerName>קסוס דה סאלבדור</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
@@ -5355,7 +5355,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073409885</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מגשית פטרוזיליה שופרסל</ItemName>
       <ManufacturerName>דורות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5373,7 +5373,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073413356</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קפסולות roast dark ג50</ItemName>
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
@@ -5391,7 +5391,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073424383</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כוסברה אורגני יחידה</ItemName>
       <ManufacturerName>CP</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5409,7 +5409,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073424390</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סלרי עלים אורגני יחידה</ItemName>
       <ManufacturerName>CP</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5427,7 +5427,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073424406</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>בצל ירוק אורגני יחידה</ItemName>
       <ManufacturerName>CP</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5445,7 +5445,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073424437</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פטרוזיליה אורגני יחידה</ItemName>
       <ManufacturerName>CP</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5463,7 +5463,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073424444</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שמיר אורגני י גרין חידה</ItemName>
       <ManufacturerName>CP</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5481,7 +5481,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073424451</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>נענע אורגני יחידה</ItemName>
       <ManufacturerName>CP</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5499,7 +5499,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073430582</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קפסולות מס 15 לנספרסו</ItemName>
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
@@ -5517,7 +5517,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073444190</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ברוקולי 350גרם</ItemName>
       <ManufacturerName>מרינה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5535,7 +5535,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073444381</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גב.פסטו ירוק הולנדית200ג</ItemName>
       <ManufacturerName>הנרי ויליך</ManufacturerName>
       <ManufactureCountry>NL</ManufactureCountry>
@@ -5553,7 +5553,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073445548</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מכשיר גילוח ר"פ לנשים2+</ItemName>
       <ManufacturerName>EDGEWELL</ManufacturerName>
       <ManufactureCountry>US</ManufactureCountry>
@@ -5571,7 +5571,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073448129</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>חטיף ש.שועל+מייפל 5יח</ItemName>
       <ManufacturerName>אפקטבעי בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5589,7 +5589,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073484783</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תמצית וניל לאפייה</ItemName>
       <ManufacturerName>מיה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5607,7 +5607,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073485612</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>גרנולה עם זרעי פשתן</ItemName>
       <ManufacturerName>אפקטבעי בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5625,7 +5625,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073515357</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פיתות אסליות 5</ItemName>
       <ManufacturerName>מאפיית אורן משי בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5643,7 +5643,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073516040</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קורנפלקס בציפוי שוקולד</ItemName>
       <ManufacturerName>נטורל קייקס בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5661,7 +5661,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073552833</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>סבון נוזלי לבן</ItemName>
       <ManufacturerName>טאהא קימיה</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
@@ -5679,7 +5679,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073564836</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שוקולד לבן בטעם קרמל</ItemName>
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
@@ -5697,7 +5697,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073592549</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עמבה שופרסל</ItemName>
       <ManufacturerName>הררית</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5715,7 +5715,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073595793</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>נאגטס חלבון אפונה מהצומח</ItemName>
       <ManufacturerName>טופ שף</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5733,7 +5733,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073611363</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שניצל דק סויה מהצומח</ItemName>
       <ManufacturerName>טופ שף</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5751,7 +5751,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073641339</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ביסקוויט ללת"ס</ItemName>
       <ManufacturerName>לזרוני</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -5769,7 +5769,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073641902</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פטה כבשים 20%</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5787,7 +5787,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073646587</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פיצה פרימיום עם תירס</ItemName>
       <ManufacturerName>SRL PIZZA MEGIC</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -5805,7 +5805,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073659808</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>טונה במים</ItemName>
       <ManufacturerName>FOOD FROZEN MONKHORN R.</ManufacturerName>
       <ManufactureCountry>TH</ManufactureCountry>
@@ -5823,7 +5823,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073659945</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קרקר דק רוזמרין</ItemName>
       <ManufacturerName>אפיפית נצרת תעשיות ביסקו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
@@ -5841,7 +5841,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 15:20</PriceUpdateDate>
       <ItemCode>7613036105576</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דוגלי בוגר עוף</ItemName>
       <ManufacturerName>נסטלה פורינה</ManufacturerName>
       <ManufactureCountry>HU</ManufactureCountry>
@@ -5859,7 +5859,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 15:20</PriceUpdateDate>
       <ItemCode>7613036105606</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דוגלי בוגר בקר</ItemName>
       <ManufacturerName>נסטלה פורינה</ManufacturerName>
       <ManufactureCountry>HU</ManufactureCountry>
@@ -5877,7 +5877,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7613287394323</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מולטי צ'יריוס</ItemName>
       <ManufacturerName>CPU</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
@@ -5895,7 +5895,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7617014149354</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קפסולות קפה ריסטרטו</ItemName>
       <ManufacturerName>דליקה איי.ג'י</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
@@ -5913,7 +5913,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7622210163899</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שוקולד מילקה עדשים</ItemName>
       <ManufacturerName>מונדלייז</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -5931,7 +5931,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8000500247150</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פררו רושה קולקשיין</ItemName>
       <ManufacturerName>פררו</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -5949,7 +5949,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8000500359358</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ביסקוויט נוטלה</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -5967,7 +5967,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8000500386941</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ממרח קקאו+אגוזי לוז</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -5985,7 +5985,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8001090832535</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פנטן שמפו משקם</ItemName>
       <ManufacturerName>פרוקטר אנד גמבל</ManufacturerName>
       <ManufactureCountry>RO</ManufactureCountry>
@@ -6003,7 +6003,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8002230000012</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אפרול</ItemName>
       <ManufacturerName>דויד קמפרי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -6021,7 +6021,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>8002450204009</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ורדי אפרסק</ItemName>
       <ManufacturerName>בוסקה</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -6039,7 +6039,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8003340099712</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שוקולד לינדור פיסטש</ItemName>
       <ManufacturerName>לינדט ושפרונגלי אס.פי.אי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -6057,7 +6057,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>80043638</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>כורכום אורגני</ItemName>
       <ManufacturerName>קנהמלה</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -6075,7 +6075,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8004690053225</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פסטה מזי ריגטוני 500 גרם</ItemName>
       <ManufacturerName>לה מוליזנה קמפובאסן</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -6093,7 +6093,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8006540822708</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>תחבושת אולוייז לילה 18יח</ItemName>
       <ManufacturerName>פרוקטר אנד גמבל</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
@@ -6111,7 +6111,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8008912010034</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ספגטי</ItemName>
       <ManufacturerName>מנז' אנד גאסר ס.פ.א</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -6129,7 +6129,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8032804430471</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פסטה עדשים אדום ל.ג</ItemName>
       <ManufacturerName>מולינו אנדריאני</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -6147,7 +6147,7 @@
     <Item>
       <PriceUpdateDate>2024-12-02 10:40</PriceUpdateDate>
       <ItemCode>80432402931</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>וויסקי שיבס ריגאל</ItemName>
       <ManufacturerName />
       <ManufactureCountry>SE</ManufactureCountry>
@@ -6165,7 +6165,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8052440756216</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>שמן חמניות</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IT</ManufactureCountry>
@@ -6183,7 +6183,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8052575091077</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>נוציולטה ממרח אגוזי לוז</ItemName>
       <ManufacturerName>ריג'וני דה אסינו</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -6201,7 +6201,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>8410104511340</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>ויט 12רצועות שעווה יבש</ItemName>
       <ManufacturerName>רקיט בנקיזר</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -6219,7 +6219,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8410644140109</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קאווה דליסיה יבשה</ItemName>
       <ManufacturerName>S.L MASACHS JOSEP</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
@@ -6237,7 +6237,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8410793001764</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אסטרייה דאם רביעייה</ItemName>
       <ManufacturerName>סי סי דאם, אס.אל, ברצלונ</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
@@ -6255,7 +6255,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>8445290964595</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דגני בוקר קיטקט</ItemName>
       <ManufacturerName>איטנקורט</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
@@ -6273,7 +6273,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8606018615827</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פיינט אוראו</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>RS</ManufactureCountry>
@@ -6291,7 +6291,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>8683130081594</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>מיני מגנום לבן עוגיות</ItemName>
       <ManufacturerName>שטראוס</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
@@ -6309,7 +6309,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>8697530910743</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פאלמאל כחול קצר חפיסה</ItemName>
       <ManufacturerName>bat</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
@@ -6327,7 +6327,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>8697530910750</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פאלמאל כחול ארוך חפיסה</ItemName>
       <ManufacturerName>bat</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
@@ -6345,7 +6345,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>8697530911313</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קנט קצר פאקט</ItemName>
       <ManufacturerName>bat</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
@@ -6363,7 +6363,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8700216102292</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>אריאל ג'ל קולור</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
@@ -6381,7 +6381,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>8700216350310</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פמפרס בייבי דריי 28</ItemName>
       <ManufacturerName>פרוקטר אנד גמבל</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
@@ -6399,7 +6399,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8717163647233</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>דאו ספריי בלאק נייט</ItemName>
       <ManufacturerName>יוניליוור אנגליה</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
@@ -6417,7 +6417,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8850367992171</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>קרם קוקוס ללא גלוטן'</ItemName>
       <ManufacturerName>טאפאדונגפורן קוקנט</ManufacturerName>
       <ManufactureCountry>TH</ManufactureCountry>
@@ -6435,7 +6435,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>9000101801897</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>פרסיל קאפס קולור 29יח</ItemName>
       <ManufacturerName></ManufacturerName>
       <ManufactureCountry>RS</ManufactureCountry>
@@ -6453,7 +6453,7 @@
     <Item>
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>960860015432</ItemCode>
-      <ItemType>1</ItemType>
+      <itemType>שופרסל</itemType>
       <ItemName>עוג.ללת"ס מקמח מלא</ItemName>
       <ManufacturerName>מצות אביב 2014 מאפה בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>

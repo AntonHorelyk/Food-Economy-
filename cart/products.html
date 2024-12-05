@@ -13,25 +13,57 @@
 </head>
 
 <body>
-    <button><a href="./cart.html">מעבר לסל</a></button>
-    <button><a href="../index.html">מעבר לדף הבית</a></button>
-
+    <nav>
+        <div class="nav-container">
+            <div class="loader">
+                <p>מתכון</p>
+                <div class="words">
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                </div>
+            </div>
+            <div>
+                <a href="/index.html" class="nav-link">דף הבית</a>
+                <a href="#" class="nav-link">מתכון</a>
+                <a href="/cart/cart.html" class="nav-link">סל הקניות</a>
+                <a href="/" class="nav-link">קצת על עצמינו</a>
+            </div>
+        </div>
+    </nav>
+    <br>
     <div id="search-container">
-        <input type="text" id="search-input" placeholder="חפש מוצר..." />
+        <select id="source-select">
+            <option value="all">כל המוצרים</option>
+            <option value="shufersal">שופרסל</option>
+            <option value="carrefour">קרפור</option>
+        </select>
+
+        <div class="input-group">
+            <input class="input-text" name="text" type="text" placeholder="Type here" autocomplete="off" />
+            <label class="input-text-label" for="text">חפש מוצר...</label>
+        </div>
+    </div>
+    <br>
+    <div id="product-container">
+        <button class="btn-53">
+            <div class="original" id="add-to-cart">הוסף לסל</div>
+            <div class="letters">
+
+                <span>!</span>
+                <span>ף</span>
+                <span>י</span>
+                <span>ס</span>
+                <span>ו</span>
+                <span>ת</span>
+
+            </div>
+        </button>
+
     </div>
 
-    <div id="product-container"></div>
-    <div id="cart-container"></div>
-    <div id="total-price-container"></div>
-    <select id="source-select">
-        <option value="all">כל המוצרים</option>
-        <option value="shufersal">שופרסל</option>
-        <option value="carrefour">קרפור</option>
-    </select>
-    <input id="search-input" type="text" placeholder="חפש מוצר...">
-
-
-    <div id="product-container"></div>
 
     <script src="products.js"></script>
 </body>
