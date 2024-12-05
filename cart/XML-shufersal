@@ -137,7 +137,7 @@
       <ItemCode>3760151010439</ItemCode>
       <ItemType>1</ItemType>
       <ItemName>אצבעות בסקוויט ציפוי שוקולד</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>אצבעות בסקוויט</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -586,7 +586,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5711953160387</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סטארבקס פרפוצ'ינ מוקה250</ItemName>
+      <ItemName>סטארבקס פרפוצ'ינ מוקה</ItemName>
       <ManufacturerName>ARLA\n</ManufacturerName>
       <ManufactureCountry>DK</ManufactureCountry>
       <ManufacturerItemDescription>משקה סטארבקס</ManufacturerItemDescription>
@@ -604,7 +604,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>5740900403864</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>לורפק חמאה עם מלח 200 גר</ItemName>
+      <ItemName>לורפק חמאה עם מלח</ItemName>
       <ManufacturerName>ארלה פודס אמבה</ManufacturerName>
       <ManufactureCountry>DK</ManufactureCountry>
       <ManufacturerItemDescription>חמאת לורפק</ManufacturerItemDescription>
@@ -622,7 +622,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>59083856</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>דאו אינוויזיבל דריי 50 מ</ItemName>
+      <ItemName>דאו אינוויזיבל דריי</ItemName>
       <ManufacturerName>יוניליוור  אנגליה</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
       <ManufacturerItemDescription>דאו אינוויזיבל ד</ManufacturerItemDescription>
@@ -640,8 +640,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>628154383659</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>דגני פרוטי פבלס 311 גרם</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>דגני פרוטי פבלס</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>US</ManufactureCountry>
       <ManufacturerItemDescription>דגני פרוטי פבלס</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -658,7 +658,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>70970475351</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ס.ג'לי פירות טרופים120ג</ItemName>
+      <ItemName>ס.ג'לי פירות טרופים</ItemName>
       <ManufacturerName>ג'אסט בורן</ManufacturerName>
       <ManufactureCountry>US</ManufactureCountry>
       <ManufacturerItemDescription>סכריות ג'לי טרופ</ManufacturerItemDescription>
@@ -676,8 +676,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>724049694388</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>Fantasy אדפ לאשה 100 מ"ל</ItemName>
-      <ManufacturerName>כללי</ManufacturerName>
+      <ItemName>Fantasy אדפ לאשה</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>פנטזי אדפ לאישה</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -712,7 +712,7 @@
       <PriceUpdateDate>2024-12-02 07:40</PriceUpdateDate>
       <ItemCode>7290000000435</ItemCode>
       <ItemType>0</ItemType>
-      <ItemName>סלרי עלים יחידה</ItemName>
+      <ItemName>סלרי עלים</ItemName>
       <ManufacturerName>קטיף.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סלרי עלים</ManufacturerItemDescription>
@@ -730,7 +730,7 @@
       <PriceUpdateDate>2024-12-02 07:40</PriceUpdateDate>
       <ItemCode>7290000000794</ItemCode>
       <ItemType>0</ItemType>
-      <ItemName>סלרי קצוץ יחידה</ItemName>
+      <ItemName>סלרי קצוץ</ItemName>
       <ManufacturerName>יראון עבודות חקלאיות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סלרי קצוץ</ManufacturerItemDescription>
@@ -748,7 +748,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000002026</ItemCode>
       <ItemType>0</ItemType>
-      <ItemName>לחם אחיד 750 גרם</ItemName>
+      <ItemName>לחם אחיד</ItemName>
       <ManufacturerName>מאפית ברמן</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחם אחיד</ManufacturerItemDescription>
@@ -856,7 +856,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000112619</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מרק עוף קנור 400 גרם</ItemName>
+      <ItemName>מרק עוף קנור</ItemName>
       <ManufacturerName>יוניליוור ישראל מזון בע"</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מרק עוף אמיתי</ManufacturerItemDescription>
@@ -874,7 +874,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000121093</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גב.מון בלן ט.שויצרי 120ג</ItemName>
+      <ItemName>גב.מון בלן ט.שויצרי</ItemName>
       <ManufacturerName>נטו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גבינת מון בלאן</ManufacturerItemDescription>
@@ -892,7 +892,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000136516</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ג'אמפ מנגו פסיפלורה 1.5ל</ItemName>
+      <ItemName>ג'אמפ מנגו פסיפלורה</ItemName>
       <ManufacturerName>טמפו משקאות בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ג'אמפ מנגו</ManufacturerItemDescription>
@@ -910,7 +910,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000286297</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סנו אנטיקאלק מסיר אבן700</ItemName>
+      <ItemName>סנו אנטיקאלק מסיר אבן</ItemName>
       <ManufacturerName>סנו מפעלי ברונוס בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סנו מסיר אבן</ManufacturerItemDescription>
@@ -928,7 +928,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000318677</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סלמי סרוולט 150 גרם</ItemName>
+      <ItemName>סלמי סרוולט</ItemName>
       <ManufacturerName>יחיעם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סלמי סרוולט</ManufacturerItemDescription>
@@ -946,7 +946,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000416076</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>צימקאו שוקולד לבישול400ג</ItemName>
+      <ItemName>צימקאו שוקולד לבישול</ItemName>
       <ManufacturerName>השחר העולה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>צימקאו לאפיה</ManufacturerItemDescription>
@@ -964,7 +964,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000442044</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פמינה חמוציות 220 מ"ל</ItemName>
+      <ItemName>פמינה חמוציות</ItemName>
       <ManufacturerName>כצט</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פמינה חמוציות</ManufacturerItemDescription>
@@ -982,8 +982,8 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000497204</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פיתות בשקית 100*5 גרם</ItemName>
-      <ManufacturerName>י.את.א.ברמן בע"\מ</ManufacturerName>
+      <ItemName>5 פיתות בשקית</ItemName>
+      <ManufacturerName>י.את.א.ברמן בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיתות ברמן 5 יח</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -1036,7 +1036,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290000616803</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>כרעים עוף טרי ארוז שלי ל</ItemName>
+      <ItemName>כרעים עוף טרי ארוז שלי</ItemName>
       <ManufacturerName>עוף עוז</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כרעיים עוף טרי</ManufacturerItemDescription>
@@ -1072,7 +1072,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000688084</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מי עדן פקק ספורטאים500מל</ItemName>
+      <ItemName>מי עדן פקק ספורטאים</ItemName>
       <ManufacturerName>מי עדן</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מי עדן פקק ספורט</ManufacturerItemDescription>
@@ -1090,7 +1090,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000803180</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שטיפה דנטלית מרידול 400מ</ItemName>
+      <ItemName>שטיפה דנטלית מרידול</ItemName>
       <ManufacturerName>קולגייט-פלמוליב</ManufacturerName>
       <ManufactureCountry>PL</ManufactureCountry>
       <ManufacturerItemDescription>שטיפה מרידול</ManufacturerItemDescription>
@@ -1108,7 +1108,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290000907949</ItemCode>
       <ItemType>0</ItemType>
-      <ItemName>משקה מצונן 500מל</ItemName>
+      <ItemName>משקה מצונן</ItemName>
       <ManufacturerName />
       <ManufactureCountry />
       <ManufacturerItemDescription>משקה מצונן 500מל</ManufacturerItemDescription>
@@ -1576,7 +1576,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290001791776</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סנו די רול און אלוורה50מ</ItemName>
+      <ItemName>סנו די רול און אלוורה</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סנו די רול און</ManufacturerItemDescription>
@@ -1594,8 +1594,8 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290001817377</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>צ'יטוס חטיף PUFFS פיצה60</ItemName>
-      <ManufacturerName>שטראוס פריטו ליי בע"\מ )</ManufacturerName>
+      <ItemName>צ'יטוס חטיף PUFFS פיצה</ItemName>
+      <ManufacturerName>שטראוס פריטו ליי בע"מ )</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>צ'יטוס פיצה PUFF</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -1738,7 +1738,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290002129479</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פיצה איטלקית דקה 320גרם</ItemName>
+      <ItemName>פיצה איטלקית דקה</ItemName>
       <ManufacturerName>סוילה אס.אר.אל</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פיצה איטלקית דקה</ManufacturerItemDescription>
@@ -1756,7 +1756,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002130581</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>דבש בצנצנת יד מרדכי 1ק</ItemName>
+      <ItemName>דבש בצנצנת יד מרדכי</ItemName>
       <ManufacturerName>מכוורת יד מרדכי שטראוס ב</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>דבש טהור</ManufacturerItemDescription>
@@ -1774,7 +1774,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002319023</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סוכר וניל 10*10 גרם</ItemName>
+      <ItemName>סוכר וניל 10 יחידות</ItemName>
       <ManufacturerName>מיה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סוכר וניל</ManufacturerItemDescription>
@@ -1792,7 +1792,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002331360</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>נביעות פקק טו גו 500*6מל</ItemName>
+      <ItemName>נביעות פקק טו גו 6 יחידות</ItemName>
       <ManufacturerName>נביעות טבע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>נביעות ספורט 6יח</ManufacturerItemDescription>
@@ -1810,7 +1810,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002511243</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>בולגרית מסורתית 16% משקל</ItemName>
+      <ItemName>בולגרית מסורתית 16%</ItemName>
       <ManufacturerName>מחלבת המושבה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גבינה בולגרית</ManufacturerItemDescription>
@@ -1828,7 +1828,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002512004</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מלוואח צנעני 900 גרם</ItemName>
+      <ItemName>מלוואח צנעני</ItemName>
       <ManufacturerName>צנעני</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מלוואח צנעני</ManufacturerItemDescription>
@@ -1846,7 +1846,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002517825</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פלפל לבן טחון 40 גרם</ItemName>
+      <ItemName>פלפל לבן טחון</ItemName>
       <ManufacturerName>תבליני טעם וריח</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פלפל לבן</ManufacturerItemDescription>
@@ -1864,7 +1864,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290002628187</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פילה מדומהמס6'חלק קפוא מ</ItemName>
+      <ItemName>פילה מדומה מס 6'חלק קפוא</ItemName>
       <ManufacturerName>בלדי</ManufacturerName>
       <ManufactureCountry>BR</ManufactureCountry>
       <ManufacturerItemDescription>פילה מדומהמס6'חל</ManufacturerItemDescription>
@@ -1882,7 +1882,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290002706915</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פילה נסיכת נילוס קג</ItemName>
+      <ItemName>פילה נסיכת נילוס</ItemName>
       <ManufacturerName>דלידג - נטו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פילה נסיכת נילוס</ManufacturerItemDescription>
@@ -1900,7 +1900,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290002768043</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מי פה תיאדנט+פלאוריד150מ</ItemName>
+      <ItemName>מי פה תיאדנט+פלאוריד</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מי פה תיאדנט</ManufacturerItemDescription>
@@ -1918,7 +1918,7 @@
       <PriceUpdateDate>2024-12-02 16:40</PriceUpdateDate>
       <ItemCode>7290002814160</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מסיר שומנים סנט מוריץ 1ל</ItemName>
+      <ItemName>מסיר שומנים סנט מוריץ</ItemName>
       <ManufacturerName>קומפלקס כימיקלים בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מסיר שומנים</ManufacturerItemDescription>
@@ -1990,7 +1990,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290003726141</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>טופו משק גאיה 300 גרם</ItemName>
+      <ItemName>טופו משק גאיה</ItemName>
       <ManufacturerName>משק ויילר</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>טופו משק גאיה</ManufacturerItemDescription>
@@ -2026,7 +2026,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290004126759</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>יופלה פירות יער0% 150 גר</ItemName>
+      <ItemName>יופלה פירות יער 0%</ItemName>
       <ManufacturerName>תנובה בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>יופלה דיאט</ManufacturerItemDescription>
@@ -2044,7 +2044,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290004135324</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>בולגרית מעודנת 5% משקל</ItemName>
+      <ItemName>בולגרית מעודנת 5%</ItemName>
       <ManufacturerName>תנובה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיראוס בולגרית</ManufacturerItemDescription>
@@ -2062,8 +2062,8 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290004494131</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>דלתון גליל קברנה 750 מ"ל</ItemName>
-      <ManufacturerName>יקב דלתון בע"\מ</ManufacturerName>
+      <ItemName>דלתון גליל קברנה</ItemName>
+      <ManufacturerName>יקב דלתון בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קברנה דלתון</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -2080,7 +2080,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290004952136</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קמח כוסמין מלא אורגני1קג</ItemName>
+      <ItemName>קמח כוסמין מלא אורגני</ItemName>
       <ManufacturerName>טחנת קמח יפו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קמח כוסמין מלא</ManufacturerItemDescription>
@@ -2188,7 +2188,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290006374684</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שמן זית קלאסי 500 מ"ל</ItemName>
+      <ItemName>שמן זית קלאסי</ItemName>
       <ManufacturerName>מכוורת יד מרדכי שטראוס ב</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמן זית קלאסי</ManufacturerItemDescription>
@@ -2206,7 +2206,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290006451507</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>לחם מחמצת כוסמין 550גרם</ItemName>
+      <ItemName>לחם מחמצת כוסמין</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחם מחמצת כוסמין</ManufacturerItemDescription>
@@ -2242,7 +2242,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290006742315</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>חזה הודו ברביקיו 330 גרם</ItemName>
+      <ItemName>חזה הודו ברביקיו</ItemName>
       <ManufacturerName>זוגלובק</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חזה הודו ברביקיו</ManufacturerItemDescription>
@@ -2260,7 +2260,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290006764157</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גולדסטאר ל.מסונן-חוזר500</ItemName>
+      <ItemName>גולדסטאר ל.מסונן</ItemName>
       <ManufacturerName>טמפו משקאות בע''מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>בירה גולדסטאר</ManufacturerItemDescription>
@@ -2296,8 +2296,8 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290008747547</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>תפוציפס קראנצ' ט.טבעי200</ItemName>
-      <ManufacturerName>שטראוס פריטו ליי בע"\מ )</ManufacturerName>
+      <ItemName>תפוציפס קראנצ' ט.טבעי</ItemName>
+      <ManufacturerName>שטראוס פריטו ליי בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תפוצ'יפס קראנצ'</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -2314,7 +2314,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290009011593</ItemCode>
       <ItemType>0</ItemType>
-      <ItemName>קוביות לקדירה טרי ארוז ל</ItemName>
+      <ItemName>קוביות לקדירה טרי ארוז</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>קוביות לקדירה</ManufacturerItemDescription>
@@ -2386,7 +2386,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290009397642</ItemCode>
       <ItemType>0</ItemType>
-      <ItemName>חמישיית מאפין שוקו 200גר</ItemName>
+      <ItemName>חמישיית מאפין שוקו</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חמישיית מאפין</ManufacturerItemDescription>
@@ -2404,8 +2404,8 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290009397697</ItemCode>
       <ItemType>0</ItemType>
-      <ItemName>מאפין שוקו צ'יפס5יח200'ג</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>מאפין שוקו צ'יפס 5 יח</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חמישיית מאפין</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -2422,7 +2422,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290009398830</ItemCode>
       <ItemType>0</ItemType>
-      <ItemName>פיתה אסלית 100 גרם</ItemName>
+      <ItemName>פיתה אסלית</ItemName>
       <ManufacturerName>מאפ גדרון</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיתה אסלית</ManufacturerItemDescription>
@@ -2440,7 +2440,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290009958584</ItemCode>
       <ItemType>0</ItemType>
-      <ItemName>בולגרית 5% שופרסל משקל</ItemName>
+      <ItemName>בולגרית 5% שופרסל</ItemName>
       <ManufacturerName>מחלבות רמת הגולן</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>בולגרית 5% משקל</ManufacturerItemDescription>
@@ -2476,7 +2476,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290010154050</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ממרח שיפקה כבוש חריף 250</ItemName>
+      <ItemName>ממרח שיפקה כבוש חריף</ItemName>
       <ManufacturerName>תבליני ביטון יוחאי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ממרח שיפקה כבוש</ManufacturerItemDescription>
@@ -2494,7 +2494,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290010163632</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שזיף ללא גלעין 400גרם</ItemName>
+      <ItemName>שזיף ללא גלעין</ItemName>
       <ManufacturerName>דין שיווק</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שזיף ללא גלעין</ManufacturerItemDescription>
@@ -2548,8 +2548,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290010970766</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מי ורדים 250 מ"ל</ItemName>
-      <ManufacturerName>ג.מ טעם הארץ בע"\ם</ManufacturerName>
+      <ItemName>מי ורדים</ItemName>
+      <ManufacturerName>ג.מ טעם הארץ בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מי ורדים</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -2566,8 +2566,8 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290011378028</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>חלבה וניל ללת"ס 350 גרם</ItemName>
-      <ManufacturerName>רושדי תעשיות מזון בע"\מ</ManufacturerName>
+      <ItemName>חלבה וניל ללת"ס</ItemName>
+      <ManufacturerName>רושדי תעשיות מזון בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חלבה ללת"ס</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -2584,8 +2584,8 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290011498177</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ממרח שקד לבן מקולף 700 ג</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>ממרח שקד לבן מקולף</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ממרח שקד לבן</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -2602,7 +2602,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290011498368</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>חמאת פיסטוק 200 גרם</ItemName>
+      <ItemName>חמאת פיסטוק</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מחית פיסטוק</ManufacturerItemDescription>
@@ -2620,7 +2620,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290011830168</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פירורי לחם ארגנ.כסמין200</ItemName>
+      <ItemName>פירורי לחם ארגנ.כסמין</ItemName>
       <ManufacturerName>חטיפים מן הטבע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פירורי לחם</ManufacturerItemDescription>
@@ -2656,8 +2656,8 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290013027399</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>לחם מלא+100%שיפון-קל750ג</ItemName>
-      <ManufacturerName>מאפיית שלמה א. אנג'\ל בע</ManufacturerName>
+      <ItemName>לחם מלא 100% שיפון-קל</ItemName>
+      <ManufacturerName>מאפיית שלמה א. אנג'ל בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אנג'ל -100קל</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -2710,7 +2710,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290013090256</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>תות שדה אורגני 250 גרם</ItemName>
+      <ItemName>תות שדה אורגני</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תות שדה אורגני</ManufacturerItemDescription>
@@ -2818,8 +2818,8 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290013269003</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מקסימה מרכך בייבי 1 ליטר</ItemName>
-      <ManufacturerName>סנו מפעלי ברונוס בע"\מ</ManufacturerName>
+      <ItemName>מקסימה מרכך בייבי</ItemName>
+      <ManufacturerName>סנו מפעלי ברונוס בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מקסימה מרכך</ManufacturerItemDescription>
       <UnitQty>ליטר</UnitQty>
@@ -2854,7 +2854,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290013453044</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>עוגיות שוקולד צ'יפס לל"ס</ItemName>
+      <ItemName>עוגיות שוקולד צ'יפס</ItemName>
       <ManufacturerName>דני וגלית בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עוגיות שוקולד צ'</ManufacturerItemDescription>
@@ -2890,7 +2890,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290013453679</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>עוג.אוכמניות קמח שקד230ג</ItemName>
+      <ItemName>עוג.אוכמניות קמח שקד</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עוגיות אוכמניות</ManufacturerItemDescription>
@@ -2926,8 +2926,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290013848017</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מנקה/מבריק נירוסטה 500מל</ItemName>
-      <ManufacturerName>סנו מפעלי ברונוס בע"\מ</ManufacturerName>
+      <ItemName>מנקה/מבריק נירוסטה</ItemName>
+      <ManufacturerName>סנו מפעלי ברונוס בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סנו נירוסטה</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -2944,7 +2944,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290014321199</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קרקרים פשתן צילי 125 גרם</ItemName>
+      <ItemName>קרקרים פשתן צילי</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קרקרים פשתן צילי</ManufacturerItemDescription>
@@ -2962,7 +2962,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290014321205</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קרקרים עם גרעיני פשתן125</ItemName>
+      <ItemName>קרקרים עם גרעיני פשתן</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קרקרים+פשתן</ManufacturerItemDescription>
@@ -2980,8 +2980,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290014472518</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>בוטן קלוי ענק אקסטרא250ג</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>בוטן קלוי ענק אקסטרא</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>בוטן קלוי ענק</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -2998,8 +2998,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290014503137</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>כנען אדום גליל 750 מ"ל</ItemName>
-      <ManufacturerName>יקב דלתון בע"\מ</ManufacturerName>
+      <ItemName>כנען אדום גליל</ItemName>
+      <ManufacturerName>יקב דלתון בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כנען אדום גליל</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -3016,8 +3016,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290014940901</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>לחם פשוט מלא 750 גרם</ItemName>
-      <ManufacturerName>מאפיית שלמה א. אנג;#039&amp;</ManufacturerName>
+      <ItemName>לחם פשוט מלא</ItemName>
+      <ManufacturerName>מאפיית שלמה א. אנג</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחם מלא</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3034,8 +3034,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290014947856</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מלח גס שחור מההימלאיה 20</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>מלח גס שחור מההימלאיה</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>PK</ManufactureCountry>
       <ManufacturerItemDescription>מלח גס שחור</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3052,8 +3052,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290014947887</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מלח דק שחור מההימליה 200</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>מלח דק שחור מההימליה</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>PK</ManufactureCountry>
       <ManufacturerItemDescription>מלח דק שחור</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3070,7 +3070,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290015161862</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פת פריכה+ערמונים100ל.ג</ItemName>
+      <ItemName>פת פריכה+ערמונים</ItemName>
       <ManufacturerName>אקסטרודו בצ'יצה</ManufacturerName>
       <ManufactureCountry>CZ</ManufactureCountry>
       <ManufacturerItemDescription>פת פריכה</ManufacturerItemDescription>
@@ -3088,7 +3088,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290015264174</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>טחינה אבן ריחיים 500 גרם</ItemName>
+      <ItemName>טחינה אבן ריחיים</ItemName>
       <ManufacturerName>ממלכת החלבה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>טחינה אבן ריחיים</ManufacturerItemDescription>
@@ -3106,8 +3106,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290016299168</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סרום קיק חיזוק שיער100מל</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>סרום קיק חיזוק שיער</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סרום קיק לחיזוק</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -3124,8 +3124,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290016299618</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שמפו קיק ארגניה 450 מ"ל</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>שמפו קיק ארגניה</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמפו קיק</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -3142,8 +3142,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290016299755</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מרכך קיק ארגניה 450 מ"ל</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>מרכך קיק ארגניה</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מרכך קיק</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -3160,8 +3160,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290016299885</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מסיכת קיק ארגניה 500 מ"ל</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>מסיכת קיק ארגניה</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מסיכת קיק</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -3196,7 +3196,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290017325927</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ברנפלקס אורגני הרדוף375ג</ItemName>
+      <ItemName>ברנפלקס אורגני הרדוף</ItemName>
       <ManufacturerName>לאמרי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ברנפלקס אורגני</ManufacturerItemDescription>
@@ -3214,8 +3214,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290017637655</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שמפו קרטין ללא מלחים500מ</ItemName>
-      <ManufacturerName>סאסא קוסמטיקס אגש"\ח בע\</ManufacturerName>
+      <ItemName>שמפו קרטין ללא מלחים</ItemName>
+      <ManufacturerName>סאסא קוסמטיקס אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמ'קרטין ללא מלח</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -3232,8 +3232,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290017637761</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מרכך קרטין ללא מלחים500מ</ItemName>
-      <ManufacturerName>סאסא קוסמטיקס אגש"\ח בע\</ManufacturerName>
+      <ItemName>מרכך קרטין ללא מלחים</ItemName>
+      <ManufacturerName>סאסא קוסמטיקס אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מר'קרטין ללא מלח</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -3250,8 +3250,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290017871936</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גרנולה אגוזים+גרעינים300</ItemName>
-      <ManufacturerName>אפקטבעי בע"\מ</ManufacturerName>
+      <ItemName>גרנולה אגוזים+גרעינים</ItemName>
+      <ManufacturerName>אפקטבעי בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גרנולה אגוזים</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3268,8 +3268,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290017907253</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פתיתים תמי 300 גרם</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>פתיתים תמי</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פתיתים תמי</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3286,8 +3286,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290017947105</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>לחם בסגנון אמריקה 500 גר</ItemName>
-      <ManufacturerName>מאפיית שלמה א. אנג;#039&amp;</ManufacturerName>
+      <ItemName>לחם בסגנון אמריקה</ItemName>
+      <ManufacturerName>מאפיית שלמה א. אנג'ל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחם סגנון אמריקה</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3304,7 +3304,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290017947464</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פיתות כוסמין 8יח 400 גרם</ItemName>
+      <ItemName>פיתות כוסמין 8יח</ItemName>
       <ManufacturerName>מאפיית שלמה א.אנג'ל בע"\</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיתות כוסמין</ManufacturerItemDescription>
@@ -3322,8 +3322,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290017947891</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>לחם כוסמין+חיטה מלאה750ג</ItemName>
-      <ManufacturerName>מאפיית שלמה א. אנג'\ל בע</ManufacturerName>
+      <ItemName>לחם כוסמין+חיטה מלאה</ItemName>
+      <ManufacturerName>מאפיית שלמה א. אנג'ל בע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אנג'ל  כוסמין</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3340,7 +3340,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290017962153</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>עוגיות כוסמין שקדים230ג</ItemName>
+      <ItemName>עוגיות כוסמין שקדים</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עוגיות כוסמין</ManufacturerItemDescription>
@@ -3358,8 +3358,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018011737</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גלידה אייס קפה ובננה 475</ItemName>
-      <ManufacturerName>תמרה ארטיק בע"\מ</ManufacturerName>
+      <ItemName>גלידה אייס קפה ובננה</ItemName>
+      <ManufacturerName>תמרה ארטיק בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גלידה אייס קפה</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -3376,7 +3376,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290018265277</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ארוחת קארי תפוחי אדמה וא</ItemName>
+      <ItemName>ארוחת קארי תפוחי אדמה</ItemName>
       <ManufacturerName>פאזלני אקספורטס</ManufacturerName>
       <ManufactureCountry>IN</ManufactureCountry>
       <ManufacturerItemDescription>ארוחת קארי תפוחי</ManufacturerItemDescription>
@@ -3394,7 +3394,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018294895</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מונלייט לבן 750 מ"ל</ItemName>
+      <ItemName>מונלייט לבן</ItemName>
       <ManufacturerName>יקבי כרמל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מונלייט לבן</ManufacturerItemDescription>
@@ -3412,10 +3412,10 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018440254</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>צ'אי קרמל מלוח 25 * 2גרם</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>צ'אי קרמל מלוח</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
-      <ManufacturerItemDescription>צ'\אי קרמל מלוח</ManufacturerItemDescription>
+      <ManufacturerItemDescription>צ'אי קרמל מלוח</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
       <Quantity>50.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
@@ -3431,7 +3431,7 @@
       <ItemCode>7290018500361</ItemCode>
       <ItemType>1</ItemType>
       <ItemName>לחם אחיד פרוס 900 גרם</ItemName>
-      <ManufacturerName>מאפיית שלמה א. אנג;#039&amp;</ManufacturerName>
+      <ManufacturerName>מאפיית שלמה א. אנג'ל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחם אחיד פרוס</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3448,8 +3448,8 @@
       <PriceUpdateDate>2024-12-02 22:40</PriceUpdateDate>
       <ItemCode>7290018500392</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>חלה קלועה 650 גרם</ItemName>
-      <ManufacturerName>מאפיית שלמה א. אנגל בע"\</ManufacturerName>
+      <ItemName>חלה קלועה</ItemName>
+      <ManufacturerName>מאפיית שלמה א. אנגל בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חלה קלועה</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3466,8 +3466,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018500484</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>לחמניות אמריקה ארוכ90*6ג</ItemName>
-      <ManufacturerName>מאפיית שלמה א. אנג;#039&amp;</ManufacturerName>
+      <ItemName>לחמניות אמריקה</ItemName>
+      <ManufacturerName>מאפיית שלמה א. אנג'ל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>לחמניות אמריקה 6</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3484,8 +3484,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018540329</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פיתה פיתה 8 * 100 גרם</ItemName>
-      <ManufacturerName>מאפיית שלמה א. אנג'\ל בע</ManufacturerName>
+      <ItemName>פיתה יחידות 8</ItemName>
+      <ManufacturerName>מאפיית שלמה א. אנג'ל בע</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיתה פיתה 8 יח</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3502,8 +3502,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018593035</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>כמוצרלה קשיו 200 גרם</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>כמוצרלה קשיו</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כמוצרלה קשיו</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3520,7 +3520,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018593110</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>רביולי גבינות שקדים 400ג</ItemName>
+      <ItemName>רביולי גבינות שקדים</ItemName>
       <ManufacturerName>כללי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>רביולי גבינות</ManufacturerItemDescription>
@@ -3556,7 +3556,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290018757505</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סודה שתיה ל.אלומיניום600</ItemName>
+      <ItemName>סודה שתיה ל.אלומיניום</ItemName>
       <ManufacturerName>אשבל בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סודה לשתיה</ManufacturerItemDescription>
@@ -3574,8 +3574,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019014645</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מסיר כתמים טנקס 500 מ"ל</ItemName>
-      <ManufacturerName>סאסאטק אגש"\ח בע"\מ</ManufacturerName>
+      <ItemName>מסיר כתמים טנקס</ItemName>
+      <ManufacturerName>סאסאטק אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מסיר כתמים TNX</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -3592,7 +3592,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019056249</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שוופס מים טעם ענבים 1.5ל</ItemName>
+      <ItemName>שוופס מים טעם ענבים</ItemName>
       <ManufacturerName>יפאורה תבורי בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מים בטעם ענבי</ManufacturerItemDescription>
@@ -3610,7 +3610,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019196280</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ממרח טונה 2 יח160* גרם</ItemName>
+      <ItemName>ממרח טונה 2 יח</ItemName>
       <ManufacturerName>תעשיות פילטונה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ממרח טונה 2 יח</ManufacturerItemDescription>
@@ -3628,8 +3628,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019226987</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>נתחי טונה מעושן+צ'ילי160</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>נתחי טונה מעושן+צ'ילי</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>LV</ManufactureCountry>
       <ManufacturerItemDescription>נתחי טונה מעושנת</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3646,7 +3646,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019232155</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>חליטת קמומיל לבנדר 25שק</ItemName>
+      <ItemName>חליטת קמומיל לבנדר</ItemName>
       <ManufacturerName>ויסוצקי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חליטת קמומיל</ManufacturerItemDescription>
@@ -3682,7 +3682,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019233039</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>רוטב שקשוקה קלאסית 420 ג</ItemName>
+      <ItemName>רוטב שקשוקה קלאסית</ItemName>
       <ManufacturerName>ויסוצקי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>רוטב לשקשוקה</ManufacturerItemDescription>
@@ -3700,7 +3700,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290019398356</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מונלייט קברנה סובניון750</ItemName>
+      <ItemName>מונלייט קברנה סובניון</ItemName>
       <ManufacturerName>יקבי כרמל</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מונלייט קברנה</ManufacturerItemDescription>
@@ -3718,8 +3718,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019431343</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אמברלו - מטריות חרובים ו</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>אמברלו - מטריות חרובים</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אמברלו - מטריות</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3736,7 +3736,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019547136</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>תירס מתוק 340 גרם</ItemName>
+      <ItemName>תירס מתוק</ItemName>
       <ManufacturerName>TIANBAOLONG ZHANGZHOU</ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
       <ManufacturerItemDescription>תירס מתוק</ManufacturerItemDescription>
@@ -3754,10 +3754,10 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290019611479</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>נ.כלים אמור 750מtnx</ItemName>
-      <ManufacturerName>סאסאטק אגש"\ח בע"\מ</ManufacturerName>
+      <ItemName>נוזל כלים אמור</ItemName>
+      <ManufacturerName>סאסאטק אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
-      <ManufacturerItemDescription>נוזל כלים tnx</ManufacturerItemDescription>
+      <ManufacturerItemDescription>נוזל כלים</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
       <Quantity>750.00</Quantity>
       <bIsWeighted>0</bIsWeighted>
@@ -3772,8 +3772,8 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290019635260</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סחלב 150 גרם</ItemName>
-      <ManufacturerName>מיוצר ע"\י קוד יצרן EDNK</ManufacturerName>
+      <ItemName>סחלב</ItemName>
+      <ManufacturerName>מיוצר ע"י קוד יצרן EDNK</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סחלב</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3790,8 +3790,8 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290019841883</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ג'ל כביסה מרוכז ירוקXPO3</ItemName>
-      <ManufacturerName>סאסאטק אגש"\ח בע"\מ</ManufacturerName>
+      <ItemName>ג'ל כביסה מרוכז ירוק</ItemName>
+      <ManufacturerName>סאסאטק אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>ג'ל כביסה מרוכז</ManufacturerItemDescription>
       <UnitQty>ליטר</UnitQty>
@@ -3844,8 +3844,8 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290020188168</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>נוזל כלים24% תפוחXPO 750</ItemName>
-      <ManufacturerName>סאסאטק אגש"\ח בע"\מ</ManufacturerName>
+      <ItemName>נוזל כלים 24% תפוח</ItemName>
+      <ManufacturerName>סאסאטק אגש"ח בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>נוזל כלים24%תפוח</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -3862,7 +3862,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290100240144</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>בדין תרסיס מייבש ורוד500</ItemName>
+      <ItemName>בדין תרסיס מייבש ורוד</ItemName>
       <ManufacturerName>זוהר דליה, קיבוץ דליה, 1</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תרסיס למייבש</ManufacturerItemDescription>
@@ -3881,7 +3881,7 @@
       <ItemCode>7290101114345</ItemCode>
       <ItemType>1</ItemType>
       <ItemName>חמישיה שלגון וניל ש.מריר</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מאגדת חמישיה שלג</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -3898,7 +3898,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290101869795</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>איירוויק מילוי 250מל</ItemName>
+      <ItemName>איירוויק מילוי</ItemName>
       <ManufacturerName>רקיט בנקיזר</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
       <ManufacturerItemDescription>אירוויק מילוי</ManufacturerItemDescription>
@@ -3934,7 +3934,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7290102394081</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מולר מיקס קורנפ.מצופה170</ItemName>
+      <ItemName>מולר מיקס קורנפ. מצופה</ItemName>
       <ManufacturerName>טרה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>יוגורט מולר מיקס</ManufacturerItemDescription>
@@ -3952,7 +3952,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290106520912</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שמנת לבישול 9% 250 מ"ל</ItemName>
+      <ItemName>שמנת לבישול 9%</ItemName>
       <ManufacturerName>מחלבת יטבתה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמנת לבישול 9%</ManufacturerItemDescription>
@@ -3988,7 +3988,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290106668133</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שוקולית 400 גרם</ItemName>
+      <ItemName>שוקולית</ItemName>
       <ManufacturerName>שטראוס קפה בי.וי.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שוקולית 400 גרם</ManufacturerItemDescription>
@@ -4024,8 +4024,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290107280709</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ספארק נוזל הברקה 700מל</ItemName>
-      <ManufacturerName>סנו מפעלי ברונוס בע"\מ</ManufacturerName>
+      <ItemName>ספארק נוזל הברקה</ItemName>
+      <ManufacturerName>סנו מפעלי ברונוס בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>נוזל הברקה למדיח</ManufacturerItemDescription>
       <UnitQty>מ"ל</UnitQty>
@@ -4042,7 +4042,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290107978330</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>איטריות דקות 400 גרם</ItemName>
+      <ItemName>איטריות דקות</ItemName>
       <ManufacturerName>פי.פי.איג' ארטלקס</ManufacturerName>
       <ManufactureCountry>PL</ManufactureCountry>
       <ManufacturerItemDescription>איטריות דקות</ManufacturerItemDescription>
@@ -4060,7 +4060,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290108353969</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>דאו.קרמה מאסק 150 מ"ל</ItemName>
+      <ItemName>דאו.קרמה מאסק</ItemName>
       <ManufacturerName>סנו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>דאודורנט קרמה</ManufacturerItemDescription>
@@ -4078,7 +4078,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290108355185</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מסכה קרטין נטורל 350מ"ל</ItemName>
+      <ItemName>מסכה קרטין נטורל</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מסכה נטורל פורמו</ManufacturerItemDescription>
@@ -4096,7 +4096,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290108355208</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שמפו קרטין נטורל 400 מ"ל</ItemName>
+      <ItemName>שמפו קרטין נטורל</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמפו נטורל פורמו</ManufacturerItemDescription>
@@ -4114,7 +4114,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290108355802</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>תח.רחצה קרמה ורד וניל700</ItemName>
+      <ItemName>תח.רחצה קרמה ורד וניל</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תחליב רחצה קרמה</ManufacturerItemDescription>
@@ -4132,7 +4132,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290108357660</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סנובון באבלס לבנדר 35*3ג</ItemName>
+      <ItemName>סנובון באבלס לבנדר 3</ItemName>
       <ManufacturerName>TOMIL</ManufacturerName>
       <ManufactureCountry>CZ</ManufactureCountry>
       <ManufacturerItemDescription>סבון אסלה לבנדר</ManufacturerItemDescription>
@@ -4150,7 +4150,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290108357769</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>כיף מרכך לשיער רגיל700מל</ItemName>
+      <ItemName>כיף מרכך לשיער רגיל</ItemName>
       <ManufacturerName>קוסמופארם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כיף מרכך שיער</ManufacturerItemDescription>
@@ -4186,7 +4186,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290109641102</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פסטרמה פרוסות 160 גרם טב</ItemName>
+      <ItemName>פסטרמה פרוסות</ItemName>
       <ManufacturerName>גן שמואל-תעשיות בריאות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פסטרמה פרוסות טב</ManufacturerItemDescription>
@@ -4204,7 +4204,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290110110277</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סומרסבי סיידר 330*4מ"ל</ItemName>
+      <ItemName>סומרסבי סיידר 4</ItemName>
       <ManufacturerName>קרלסברג קרואטיה , יבואן:</ManufacturerName>
       <ManufactureCountry>HR</ManufactureCountry>
       <ManufacturerItemDescription>סומרסבי 4 יח'</ManufacturerItemDescription>
@@ -4222,8 +4222,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290110329792</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מעדן סויה ביו אפרסק150ג</ItemName>
-      <ManufacturerName>תנובה בע"\מ</ManufacturerName>
+      <ItemName>מעדן סויה ביו אפרסק</ItemName>
+      <ManufacturerName>תנובה בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מעדן סויה ביו</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -4240,7 +4240,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290110556563</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>צנצנת קוביות תות 58 גרם</ItemName>
+      <ItemName>צנצנת קוביות תות</ItemName>
       <ManufacturerName>אסקום קונפקשיין</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>צנצנת קוביות תות</ManufacturerItemDescription>
@@ -4259,7 +4259,7 @@
       <ItemCode>7290111342073</ItemCode>
       <ItemType>1</ItemType>
       <ItemName>מטלית מקרופיבר אנטיבקטרי</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>CN</ManufactureCountry>
       <ManufacturerItemDescription>מטליות מקרופייבר</ManufacturerItemDescription>
       <UnitQty>יחידה</UnitQty>
@@ -4276,7 +4276,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290111564277</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פריכיות דק.פיטנס3דגנ120ג</ItemName>
+      <ItemName>פריכיות דק.פיטנס 3יח</ItemName>
       <ManufacturerName>פרח תעשיות מזון בע"מ.</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פריכיות פיטנס</ManufacturerItemDescription>
@@ -4294,7 +4294,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290112197467</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>טרו שוקולד מריר 100 גרם</ItemName>
+      <ItemName>טרו שוקולד מריר</ItemName>
       <ManufacturerName>אימפריאל</ManufacturerName>
       <ManufactureCountry>PT</ManufactureCountry>
       <ManufacturerItemDescription>שוקולד מריר</ManufacturerItemDescription>
@@ -4312,7 +4312,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290112199775</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אטריות אורז דקות250 גרם</ItemName>
+      <ItemName>אטריות אורז דקות</ItemName>
       <ManufacturerName>יוניון רטצ'אבורי</ManufacturerName>
       <ManufactureCountry>TH</ManufactureCountry>
       <ManufacturerItemDescription>אטריות אורז דקות</ManufacturerItemDescription>
@@ -4330,7 +4330,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112337474</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סוכריות מאסט פטל לימון80</ItemName>
+      <ItemName>סוכריות מאסט פטל לימון</ItemName>
       <ManufacturerName>מיישקו</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
       <ManufacturerItemDescription>סוכריות מאסט</ManufacturerItemDescription>
@@ -4348,8 +4348,8 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112338877</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סקי תות 125 גרם</ItemName>
-      <ManufacturerName>שטראוס בריאות בע"\מ</ManufacturerName>
+      <ItemName>סקי תות</ItemName>
+      <ManufacturerName>שטראוס בריאות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סקי תות 125 גרם</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -4366,7 +4366,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112492715</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שמפו פינוק לסירוק קל700מ</ItemName>
+      <ItemName>שמפו פינוק לסירוק קל</ItemName>
       <ManufacturerName>יוניליוור ישראל טיפוח אי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמפו פינוק ילדים</ManufacturerItemDescription>
@@ -4384,7 +4384,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112492746</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מרכך פינוק לסירוק קל700מ</ItemName>
+      <ItemName>מרכך פינוק לסירוק קל</ItemName>
       <ManufacturerName>יוניליוור ישראל טיפוח אי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>מרכך פינוק ילדים</ManufacturerItemDescription>
@@ -4402,7 +4402,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112492753</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אל סבון פינוק ילדים 700מ</ItemName>
+      <ItemName>אל סבון פינוק ילדים</ItemName>
       <ManufacturerName>יוניליוור ישראל טיפוח אי</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אל סבון לילדים</ManufacturerItemDescription>
@@ -4420,8 +4420,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290112498007</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גרנולה פרוטאין שקד+חמ300</ItemName>
-      <ManufacturerName>רפאלס בריא וטעים בע"\מ,</ManufacturerName>
+      <ItemName>נולה פרוטאין שקד</ItemName>
+      <ManufacturerName>רפאלס בריא וטעים בע"מ,</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גרנולה פרוטאין</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -4438,7 +4438,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7290112964434</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>רוטב קיסר לסלט 295 גרם</ItemName>
+      <ItemName>רוטב קיסר לסלט</ItemName>
       <ManufacturerName>אסם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>רוטב קיסר לסלט</ManufacturerItemDescription>
@@ -4456,7 +4456,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290114311489</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גבינה לבנה 5% למריחה750ג</ItemName>
+      <ItemName>גבינה לבנה 5% למריחה</ItemName>
       <ManufacturerName>טרה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גבינה לבנה 5%</ManufacturerItemDescription>
@@ -4474,8 +4474,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290114604895</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ממרח ספייסי לחיץ 446 גרם</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>ממרח ספייסי לחיץ</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>NL</ManufactureCountry>
       <ManufacturerItemDescription>ממרח ספייסי לחיץ</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -4528,7 +4528,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290115203295</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פסטה ריציאולי 500 גרם</ItemName>
+      <ItemName>פסטה ריציאולי</ItemName>
       <ManufacturerName>ניולט פוד ס.פ.א</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פסטה ריציאולי</ManufacturerItemDescription>
@@ -4546,7 +4546,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290116532875</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>בייבי אל סבון לתינוק900מ</ItemName>
+      <ItemName>בייבי אל סבון לתינוק</ItemName>
       <ManufacturerName>יוניליוור ישראלn\טיפוח א</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אל סבון לתינוק</ManufacturerItemDescription>
@@ -4564,7 +4564,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290116533667</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>דאב אינווזיבל דריי 150מ"</ItemName>
+      <ItemName>דאב אינווזיבל דריי</ItemName>
       <ManufacturerName>קוסטר אירוסול</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
       <ManufacturerItemDescription>דאב אינויזיבל דר</ManufacturerItemDescription>
@@ -4582,7 +4582,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290116534909</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>רוטב לסלט שום שמיר295גרם</ItemName>
+      <ItemName>רוטב לסלט שום שמיר</ItemName>
       <ManufacturerName>יוניליוור ישראל מזון בע"</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>רוטב לסלט שום</ManufacturerItemDescription>
@@ -4600,8 +4600,8 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290116933726</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>כדורי לאבנה בשמן 300 גרם</ItemName>
-      <ManufacturerName>תנובה בע"\מ</ManufacturerName>
+      <ItemName>כדורי לאבנה בשמן</ItemName>
+      <ManufacturerName>תנובה בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>כדורי לאבנה בשמן</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -4618,8 +4618,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290117263716</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פיצה מרגריטה 485 גרם</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>פיצה מרגריטה</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פיצה מרגריטה</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -4636,8 +4636,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290117263730</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פיצה מרגריטה ITALPIZZA 2</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>פיצה מרגריטה</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פיצה מרגריטה ITA</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -4654,7 +4654,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290117768822</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ספגטי פסטה "מונופוד" 500</ItemName>
+      <ItemName>ספגטי פסטה "מונופוד" </ItemName>
       <ManufacturerName>AVRORA</ManufacturerName>
       <ManufactureCountry>AZ</ManufactureCountry>
       <ManufacturerItemDescription>ספגטי "מונופוד"</ManufacturerItemDescription>
@@ -4672,7 +4672,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290117904930</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אורז בסמטי ששון הקולה1קג</ItemName>
+      <ItemName>אורז בסמטי ששון הקולה</ItemName>
       <ManufacturerName>דין שיווק</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אורז בסמטי</ManufacturerItemDescription>
@@ -4690,7 +4690,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7290118422204</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פיטנס פריכיות שוקולד 60</ItemName>
+      <ItemName>פיטנס פריכיות שוקולד </ItemName>
       <ManufacturerName>כרמית תעשיות ממתקים בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פריכיות שוקולד ח</ManufacturerItemDescription>
@@ -4709,7 +4709,7 @@
       <ItemCode>7290119377077</ItemCode>
       <ItemType>1</ItemType>
       <ItemName>שוקולד בטעם רבע לשבע</ItemName>
-      <ManufacturerName>שטראוס גרופ בע"\מ</ManufacturerName>
+      <ManufacturerName>שטראוס גרופ בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שוקולד חלב קרם א</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -4726,7 +4726,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>7290119379873</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מסטיק בטעם קולה חמוץ 60ג</ItemName>
+      <ItemName>מסטיק בטעם קולה חמוץ</ItemName>
       <ManufacturerName>אסקום קונפקשיין</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>מסטיק בטעם קולה</ManufacturerItemDescription>
@@ -4744,7 +4744,7 @@
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290121010009</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אצבעות פילאס פיצה 600 גר</ItemName>
+      <ItemName>אצבעות פילאס פיצה</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אצבעות פילאס פיצה 600 גר</ManufacturerItemDescription>
@@ -4762,7 +4762,7 @@
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290121010016</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אצבעות פילאס גבינה 600ג</ItemName>
+      <ItemName>אצבעות פילאס גבינה </ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אצבעות פילאס גבינה 600ג</ManufacturerItemDescription>
@@ -4780,7 +4780,7 @@
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290121010146</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אצבעות פילאס תפ"א 600ג</ItemName>
+      <ItemName>אצבעות פילאס תפ"א</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אצבעות פילאס תפ"א 600ג</ManufacturerItemDescription>
@@ -4798,7 +4798,7 @@
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290121010153</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אצבעות פילאס פטריות 600ג</ItemName>
+      <ItemName>אצבעות פילאס פטריות</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>אצבעות פילאס פטריות 600ג</ManufacturerItemDescription>
@@ -4816,7 +4816,7 @@
       <PriceUpdateDate>2024-12-02 17:20</PriceUpdateDate>
       <ItemCode>7290121010191</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גחנון בייקרי 650 גרם</ItemName>
+      <ItemName>גחנון בייקרי</ItemName>
       <ManufacturerName>גידרון תעשיות בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גחנון בייקרי 650 גרם</ManufacturerItemDescription>
@@ -4834,7 +4834,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7296073049074</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סלמי קוניאק שופרסל 300גר</ItemName>
+      <ItemName>סלמי קוניאק שופרסל</ItemName>
       <ManufacturerName>מעדני יחיעם</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>סלמי קוניאק</ManufacturerItemDescription>
@@ -4852,7 +4852,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7296073108443</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קמח חיטה מלא 1 ק"ג</ItemName>
+      <ItemName>קמח חיטה מלא</ItemName>
       <ManufacturerName>טחנות ישראליות בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קמח חיטה מלא</ManufacturerItemDescription>
@@ -4870,7 +4870,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7296073132806</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>חרוזי זיתים שופרסל560גרם</ItemName>
+      <ItemName>חרוזי זיתים שופרסל</ItemName>
       <ManufacturerName>קבוצת יבנה מוצרי מזון</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חרוזי זיתים</ManufacturerItemDescription>
@@ -4943,7 +4943,7 @@
       <ItemCode>7296073173229</ItemCode>
       <ItemType>1</ItemType>
       <ItemName>שעועית ירוקה חתוכה שופרס</ItemName>
-      <ManufacturerName>שטראוס גרופ בע"\מ</ManufacturerName>
+      <ManufacturerName>שטראוס גרופ בע"מ</ManufacturerName>
       <ManufactureCountry>BE</ManufactureCountry>
       <ManufacturerItemDescription>שעועית ירוקה</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -4960,7 +4960,7 @@
       <PriceUpdateDate>2024-12-02 07:40</PriceUpdateDate>
       <ItemCode>7296073180203</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>עלי רוקט שטופים 150גרם</ItemName>
+      <ItemName>עלי רוקט שטופים</ItemName>
       <ManufacturerName>פרסקו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עלי רוקט150ג'</ManufacturerItemDescription>
@@ -5122,7 +5122,7 @@
       <PriceUpdateDate>2024-12-02 13:58</PriceUpdateDate>
       <ItemCode>7296073293019</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פלפל סוויט אורגני 200 גר</ItemName>
+      <ItemName>פלפל סוויט אורגני</ItemName>
       <ManufacturerName>יבולי בר אורגני</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פלפל אורגני</ManufacturerItemDescription>
@@ -5194,8 +5194,8 @@
       <PriceUpdateDate>2024-12-02 07:40</PriceUpdateDate>
       <ItemCode>7296073320388</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>עלי בייבי 120גרם</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>עלי בייבי</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עלי בייבי 120גרם</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -5212,8 +5212,8 @@
       <PriceUpdateDate>2024-12-02 07:40</PriceUpdateDate>
       <ItemCode>7296073320395</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>עלי תרד בייבי 200גרם</ItemName>
-      <ManufacturerName>פרסקו חצבה 2006 בע"\מ</ManufacturerName>
+      <ItemName>עלי תרד בייבי</ItemName>
+      <ManufacturerName>פרסקו חצבה 2006 בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עלי תרד בייבי</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -5266,7 +5266,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073363217</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>Beשמפו לשיער מוחלק 500מל</ItemName>
+      <ItemName>Beשמפו לשיער מוחלק</ItemName>
       <ManufacturerName>א.משי תעשיות</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>שמפו לשיער יבשBE</ManufacturerItemDescription>
@@ -5302,7 +5302,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073390312</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גב.שמנת שום שמיר25% 200ג</ItemName>
+      <ItemName>גב.שמנת שום שמיר25%</ItemName>
       <ManufacturerName>גבינות משק יעקבס</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גב.שמנת שום שמיר</ManufacturerItemDescription>
@@ -5320,7 +5320,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073398868</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קפסולות נטול קופאין 50גר</ItemName>
+      <ItemName>קפסולות נטול קופאין</ItemName>
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>קפסולות נ.קופאין</ManufacturerItemDescription>
@@ -5338,7 +5338,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7296073403418</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מנצ'גו צ'אנק שופרסל150ג</ItemName>
+      <ItemName>מנצ'גו צ'אנק שופרסל</ItemName>
       <ManufacturerName>קסוס דה סאלבדור</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
       <ManufacturerItemDescription>גבינת מנצ'גו</ManufacturerItemDescription>
@@ -5500,7 +5500,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073430582</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קפסולות מס 15 לנספרסו50ג</ItemName>
+      <ItemName>קפסולות מס 15 לנספרסו</ItemName>
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>קפסולות מס 15</ManufacturerItemDescription>
@@ -5572,8 +5572,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073448129</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>חטיף ש.שועל+מייפל42*5ג</ItemName>
-      <ManufacturerName>אפקטבעי בע"\מ</ManufacturerName>
+      <ItemName>חטיף ש.שועל+מייפל 5יח</ItemName>
+      <ManufacturerName>אפקטבעי בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>חטיף שבולת שועל</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -5590,7 +5590,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073484783</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>תמצית וניל לאפייה 30 מל</ItemName>
+      <ItemName>תמצית וניל לאפייה</ItemName>
       <ManufacturerName>מיה</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>תמצית וניל לאפיה</ManufacturerItemDescription>
@@ -5608,8 +5608,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073485612</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>גרנולה עם זרעי פשתן300 ג</ItemName>
-      <ManufacturerName>אפקטבעי בע"\מ</ManufacturerName>
+      <ItemName>גרנולה עם זרעי פשתן</ItemName>
+      <ManufacturerName>אפקטבעי בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>גרנולה זרעי פשתן</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -5626,8 +5626,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073515357</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פיתות אסליות 100*5גרם</ItemName>
-      <ManufacturerName>מאפיית אורן משי בע"\מ</ManufacturerName>
+      <ItemName>פיתות אסליות 5</ItemName>
+      <ManufacturerName>מאפיית אורן משי בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פיתו  אסליות 5יח</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -5644,8 +5644,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073516040</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קורנפלקס בציפוי שוקול65</ItemName>
-      <ManufacturerName>נטורל קייקס בע"\מ</ManufacturerName>
+      <ItemName>קורנפלקס בציפוי שוקולד</ItemName>
+      <ManufacturerName>נטורל קייקס בע"מ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קורנפלקס בציפוי</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -5662,7 +5662,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073552833</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>סבון נוזלי לבן 500 מ"ל</ItemName>
+      <ItemName>סבון נוזלי לבן</ItemName>
       <ManufacturerName>טאהא קימיה</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
       <ManufacturerItemDescription>סבון נוזלי</ManufacturerItemDescription>
@@ -5680,7 +5680,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073564836</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שוקולד לבן בטעם קרמל100ג</ItemName>
+      <ItemName>שוקולד לבן בטעם קרמל</ItemName>
       <ManufacturerName>דליקה</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>שוקולד לבן</ManufacturerItemDescription>
@@ -5752,7 +5752,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073641339</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ביסקוויט ללת"ס 250 גרם</ItemName>
+      <ItemName>ביסקוויט ללת"ס</ItemName>
       <ManufacturerName>לזרוני</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ביסקוויט ללת"ס</ManufacturerItemDescription>
@@ -5770,8 +5770,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073641902</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פטה כבשים 20% 250 גרם</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>פטה כבשים 20%</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>פטה כבשים 20%</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -5788,7 +5788,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073646587</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פיצה פרימיום עם תירס 400</ItemName>
+      <ItemName>פיצה פרימיום עם תירס</ItemName>
       <ManufacturerName>SRL PIZZA MEGIC</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פיצה עם תירס</ManufacturerItemDescription>
@@ -5806,7 +5806,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073659808</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>טונה במים 160 גרם</ItemName>
+      <ItemName>טונה במים</ItemName>
       <ManufacturerName>FOOD FROZEN MONKHORN R.</ManufacturerName>
       <ManufactureCountry>TH</ManufactureCountry>
       <ManufacturerItemDescription>טונה במים</ManufacturerItemDescription>
@@ -5824,7 +5824,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7296073659945</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קרקר דק רוזמרין 140 גרם</ItemName>
+      <ItemName>קרקר דק רוזמרין</ItemName>
       <ManufacturerName>אפיפית נצרת תעשיות ביסקו</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>קרקר דק רוזמרין</ManufacturerItemDescription>
@@ -5842,7 +5842,7 @@
       <PriceUpdateDate>2024-12-02 15:20</PriceUpdateDate>
       <ItemCode>7613036105576</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>דוגלי בוגר עוף 3 ק"ג</ItemName>
+      <ItemName>דוגלי בוגר עוף</ItemName>
       <ManufacturerName>נסטלה פורינה</ManufacturerName>
       <ManufactureCountry>HU</ManufactureCountry>
       <ManufacturerItemDescription>דוגלי בוגר עוף</ManufacturerItemDescription>
@@ -5860,7 +5860,7 @@
       <PriceUpdateDate>2024-12-02 15:20</PriceUpdateDate>
       <ItemCode>7613036105606</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>דוגלי בוגר בקר 3 ק"ג</ItemName>
+      <ItemName>דוגלי בוגר בקר</ItemName>
       <ManufacturerName>נסטלה פורינה</ManufacturerName>
       <ManufactureCountry>HU</ManufactureCountry>
       <ManufacturerItemDescription>דוגלי בוגר בקר</ManufacturerItemDescription>
@@ -5878,7 +5878,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>7613287394323</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>מולטי צ'יריוס 600 גרם</ItemName>
+      <ItemName>מולטי צ'יריוס</ItemName>
       <ManufacturerName>CPU</ManufacturerName>
       <ManufactureCountry>GB</ManufactureCountry>
       <ManufacturerItemDescription>מולטי צ'יריוס</ManufacturerItemDescription>
@@ -5896,7 +5896,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>7617014149354</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קפסולות קפה ריסטרטו96גרם</ItemName>
+      <ItemName>קפסולות קפה ריסטרטו</ItemName>
       <ManufacturerName>דליקה איי.ג'י</ManufacturerName>
       <ManufactureCountry>CH</ManufactureCountry>
       <ManufacturerItemDescription>קפסולות קפה</ManufacturerItemDescription>
@@ -5914,7 +5914,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>7622210163899</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שוקולד מילקה עדשים 100 ג</ItemName>
+      <ItemName>שוקולד מילקה עדשים</ItemName>
       <ManufacturerName>מונדלייז</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>שוק.מילקה עדשים</ManufacturerItemDescription>
@@ -5932,7 +5932,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8000500247150</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פררו רושה קולקשיין 172גר</ItemName>
+      <ItemName>פררו רושה קולקשיין</ItemName>
       <ManufacturerName>פררו</ManufacturerName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufacturerItemDescription>פררו רושה</ManufacturerItemDescription>
@@ -5950,8 +5950,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8000500359358</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ביסקוויט נוטלה 41.4 גרם</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>ביסקוויט נוטלה</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ביסקוויט נוטלה</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -5968,8 +5968,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8000500386941</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ממרח קקאו+אגוזי לוז900גר</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>ממרח קקאו+אגוזי לוז</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ממרח קקאו+אגוזים</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -5986,7 +5986,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8001090832535</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פנטן שמפו משקם 660 מ"ל</ItemName>
+      <ItemName>פנטן שמפו משקם</ItemName>
       <ManufacturerName>פרוקטר אנד גמבל</ManufacturerName>
       <ManufactureCountry>RO</ManufactureCountry>
       <ManufacturerItemDescription>שמפו פנטן</ManufacturerItemDescription>
@@ -6004,7 +6004,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8002230000012</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אפרול 1 ליטר</ItemName>
+      <ItemName>אפרול</ItemName>
       <ManufacturerName>דויד קמפרי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>אפרול 1 ליטר</ManufacturerItemDescription>
@@ -6022,7 +6022,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>8002450204009</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ורדי אפרסק 750 מ"ל</ItemName>
+      <ItemName>ורדי אפרסק</ItemName>
       <ManufacturerName>בוסקה</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ורדי אפרסק</ManufacturerItemDescription>
@@ -6040,7 +6040,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8003340099712</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שוקולד לינדור פיסטש100ג</ItemName>
+      <ItemName>שוקולד לינדור פיסטש</ItemName>
       <ManufacturerName>לינדט ושפרונגלי אס.פי.אי</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>שוקולד לינדור</ManufacturerItemDescription>
@@ -6058,7 +6058,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>80043638</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>כורכום אורגני 47 גרם</ItemName>
+      <ItemName>כורכום אורגני</ItemName>
       <ManufacturerName>קנהמלה</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>כורכום אורגני</ManufacturerItemDescription>
@@ -6112,7 +6112,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8008912010034</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>ספגטי 500 גרם</ItemName>
+      <ItemName>ספגטי</ItemName>
       <ManufacturerName>מנז' אנד גאסר ס.פ.א</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>ספגטי</ManufacturerItemDescription>
@@ -6130,7 +6130,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8032804430471</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פסטה עדשים אדום ל.ג250גר</ItemName>
+      <ItemName>פסטה עדשים אדום ל.ג</ItemName>
       <ManufacturerName>מולינו אנדריאני</ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>פסטה עדשים</ManufacturerItemDescription>
@@ -6148,7 +6148,7 @@
       <PriceUpdateDate>2024-12-02 10:40</PriceUpdateDate>
       <ItemCode>80432402931</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>וויסקי שיבס ריגאל 700מ"ל</ItemName>
+      <ItemName>וויסקי שיבס ריגאל</ItemName>
       <ManufacturerName />
       <ManufactureCountry>SE</ManufactureCountry>
       <ManufacturerItemDescription>וויסקי שיבס ריגאל 700מ"ל</ManufacturerItemDescription>
@@ -6166,7 +6166,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8052440756216</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>שמן חמניות 1ליטר</ItemName>
+      <ItemName>שמן חמניות</ItemName>
       <ManufacturerName />
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>שמן חמניות 1ליטר</ManufacturerItemDescription>
@@ -6220,7 +6220,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8410644140109</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קאווה דליסיה יבשה 750מ"ל</ItemName>
+      <ItemName>קאווה דליסיה יבשה</ItemName>
       <ManufacturerName>S.L MASACHS JOSEP</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
       <ManufacturerItemDescription>קאווה דליסיה</ManufacturerItemDescription>
@@ -6238,7 +6238,7 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8410793001764</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אסטרייה דאם רביעייה330מל</ItemName>
+      <ItemName>אסטרייה דאם רביעייה</ItemName>
       <ManufacturerName>סי סי דאם, אס.אל, ברצלונ</ManufacturerName>
       <ManufactureCountry>ES</ManufactureCountry>
       <ManufacturerItemDescription>אסטרייה דאם</ManufacturerItemDescription>
@@ -6256,7 +6256,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>8445290964595</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>דגני בוקר קיטקט 330 גרם</ItemName>
+      <ItemName>דגני בוקר קיטקט</ItemName>
       <ManufacturerName>איטנקורט</ManufacturerName>
       <ManufactureCountry>FR</ManufactureCountry>
       <ManufacturerItemDescription>דגני בוקר קיטקט</ManufacturerItemDescription>
@@ -6274,8 +6274,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8606018615827</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פיינט אוראו 300 גרם</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>פיינט אוראו</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>RS</ManufactureCountry>
       <ManufacturerItemDescription>פיינט אוראו</ManufacturerItemDescription>
       <UnitQty>גרם</UnitQty>
@@ -6364,8 +6364,8 @@
       <PriceUpdateDate>2024-12-03 00:15</PriceUpdateDate>
       <ItemCode>8700216102292</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>אריאל ג'ל קולור 1.95ליטר</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ItemName>אריאל ג'ל קולור</ItemName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>IT</ManufactureCountry>
       <ManufacturerItemDescription>אריאל ג'ל כביסה</ManufacturerItemDescription>
       <UnitQty>ליטר</UnitQty>
@@ -6382,7 +6382,7 @@
       <PriceUpdateDate>2024-12-03 00:20</PriceUpdateDate>
       <ItemCode>8700216350310</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>פמפרס בייבי דריי מ+4. 28</ItemName>
+      <ItemName>פמפרס בייבי דריי 28</ItemName>
       <ManufacturerName>פרוקטר אנד גמבל</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
       <ManufacturerItemDescription>פמפרס בייבי דריי</ManufacturerItemDescription>
@@ -6400,7 +6400,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8717163647233</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>דאו ספריי בלאק נייט 150מ</ItemName>
+      <ItemName>דאו ספריי בלאק נייט</ItemName>
       <ManufacturerName>יוניליוור אנגליה</ManufacturerName>
       <ManufactureCountry>TR</ManufactureCountry>
       <ManufacturerItemDescription>אקס ספריי</ManufacturerItemDescription>
@@ -6418,7 +6418,7 @@
       <PriceUpdateDate>2024-12-03 00:10</PriceUpdateDate>
       <ItemCode>8850367992171</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>קרם קוקוס ללא גלוטן 1ל'</ItemName>
+      <ItemName>קרם קוקוס ללא גלוטן'</ItemName>
       <ManufacturerName>טאפאדונגפורן קוקנט</ManufacturerName>
       <ManufactureCountry>TH</ManufactureCountry>
       <ManufacturerItemDescription>קרם קוקוס</ManufacturerItemDescription>
@@ -6437,7 +6437,7 @@
       <ItemCode>9000101801897</ItemCode>
       <ItemType>1</ItemType>
       <ItemName>פרסיל קאפס קולור 29יח</ItemName>
-      <ManufacturerName>---</ManufacturerName>
+      <ManufacturerName></ManufacturerName>
       <ManufactureCountry>RS</ManufactureCountry>
       <ManufacturerItemDescription>פרסיל קאפס ג'ל</ManufacturerItemDescription>
       <UnitQty>יחידה</UnitQty>
@@ -6454,7 +6454,7 @@
       <PriceUpdateDate>2024-12-03 00:05</PriceUpdateDate>
       <ItemCode>960860015432</ItemCode>
       <ItemType>1</ItemType>
-      <ItemName>עוג.ללת"ס מקמח מלא200גרם</ItemName>
+      <ItemName>עוג.ללת"ס מקמח מלא</ItemName>
       <ManufacturerName>מצות אביב 2014 מאפה בעמ</ManufacturerName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufacturerItemDescription>עוגיות ללת"ס</ManufacturerItemDescription>

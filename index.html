@@ -1,32 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <title>פרודוקטור</title>
+    <title>Home</title>
 </head>
 
-
 <body>
-    <div id="name">
-        <H1>פרודוקטור</H1>
-    </div>
-  
     <nav>
-        <div class="nav">
-            <div class="nav-button">
-                <a href=index.html><button class="button">לסרוק</button></a>
-                <a href=""><button class="button">רשיומה חדשה</button></a>
-                <a href=""><button class="button bigButton"><h4>!שלום מותק</h4></button></a>
-                <a href=""><button class="button">מתקון</button></a>
-                <a href=""><button class="button">קצת על עצמינו</button></a>
+        <div class="nav-container">
+            <div class="loader">
+                <p>מתכון</p>
+                <div class="words">
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                </div>
+            </div>
+            <div>
+                <a href="index.html" class="nav-link">לסרוק</a>
+                <a href="./cart/products.html" class="nav-link">יצירת רשימה חדשה</a>
+                <a href="#" class="nav-link">מתכון</a>
+                <a href="#" class="nav-link">קצת על עצמינו</a>
             </div>
         </div>
     </nav>
-  
+
+    <h1 class="main-title">!שלום מותק</h1>
+
     <div class="center">
+
         <canvas id="myChart" style="width:50%;max-width:600px;height: 50%;max-height:700px;"></canvas>
        <div id="bothListsDiv">
 
@@ -58,34 +66,31 @@
                     
                     <div class="container">
                         <ol id="myUploadedList">
-                            <li>אורז</li>
-                            <li>רוטב שזיפים</li>
-                            <li>נענה</li>
-                            <li>פטריות</li>
-                            <li>לחם</li>
+
                         </ol>
                     </div>
                    
                 </section>
     
             </div>
+
         </div>
-        
     </div>
 
-  
     <footer class="contact">
         <div>
             <h3 id="contact">Contact Us</h3>
-                <a href="" target="_blank" rel="noopener noreferrer"><button
-                        class="button1">Instagram</button></a>
-                <a href="" target="_blank" rel="noopener noreferrer"><button
-                        class="button1">Facebook</button></a>
-                <a href=""><button class="button1">Mail</button></a>
+            <a href="#" target="_blank" rel="noopener noreferrer"><button class="button1">Instagram</button></a>
+            <a href="#" target="_blank" rel="noopener noreferrer"><button class="button1">Facebook</button></a>
+            <a href="#"><button class="button1">Mail</button></a>
         </div>
     </footer>
 
+
+
 <script src="script.js"></script>
+<script src="./cart/products.js"></script>
 
 </body>
+
 </html>
