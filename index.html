@@ -5,17 +5,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <title>Home</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <title>Home</title>
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;600&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
 </head>
 
 <body>
     <div class="container">
-        <nav>
-            <div class="nav-container">
+        <header class="header">
+            <div class="header-div">
+                <nav class="global-nav">
+                    <a class="fancy" href="/cart/products.html">
+                        <span class="top-key"></span>
+                        <span class="text">יצירת רשימה חדשה</span>
+                        <span class="bottom-key-1"></span>
+                        <span class="bottom-key-2"></span>
+                    </a>
+                    <a class="fancy" href="/ai/ai.html">
+                        <span class="top-key"></span>
+                        <span class="text">סריקת קבלה</span>
+                        <span class="bottom-key-1"></span>
+                        <span class="bottom-key-2"></span>
+                    </a>
+                    <a class="fancy" href="/about/about.html">
+                        <span class="top-key"></span>
+                        <span class="text">מי אנחנו</span>
+                        <span class="bottom-key-1"></span>
+                        <span class="bottom-key-2"></span>
+                    </a>
+                    <a class="fancy" href="/contactUs/contact.html">
+                        <span class="top-key"></span>
+                        <span class="text">צור קשר</span>
+                        <span class="bottom-key-1"></span>
+                        <span class="bottom-key-2"></span>
+                    </a>
+                </nav>
                 <div class="loader">
-                    <p>מתכון</p>
+                    <p> מתכון</p>
                     <div class="words">
                         <span class="word">לחיסכון</span>
                         <span class="word">לחיסכון</span>
@@ -24,14 +52,8 @@
                         <span class="word">לחיסכון</span>
                     </div>
                 </div>
-                <div>
-                    <a href="index.html" class="nav-link">לסרוק</a>
-                    <a href="./cart/products.html" class="nav-link">יצירת רשימה חדשה</a>
-                    <a href="#" class="nav-link">מתכון</a>
-                    <a href="#" class="nav-link">קצת על עצמינו</a>
-                </div>
             </div>
-        </nav>
+        </header>
     
         <h1 class="main-title">!שלום מותק</h1>
     
@@ -54,12 +76,8 @@
                     </label>
                     <section class="tab-content">
                         <div class="myUploadedListDiv store">
-                            <ol id="myListPr">
-                                <li>תפוח</li>
-                                <li>עגס</li>
-                                <li>ביצים</li>
-                                <li>בשר</li>
-                                <li>דגים</li>
+                            <ol id="myList">
+                                
                             </ol>
                         </div>
                         
@@ -98,12 +116,16 @@
             <button id="convertAmountBtn" class="styled-button">מחשבון כמויות</button>
         </div>
     
-        <footer class="contact">
+        <footer class="footer">
             <div>
-                <h3 id="contact">Contact Us</h3>
-                <a href="#" target="_blank" rel="noopener noreferrer"><button class="button1">Instagram</button></a>
-                <a href="#" target="_blank" rel="noopener noreferrer"><button class="button1">Facebook</button></a>
-                <a href="#"><button class="button1">Mail</button></a>
+                <div class="about-links">
+                    <a><i class="fa-solid fa-phone"></i></a>
+                    <a><i class="fa-brands fa-github"></i></a>
+                    <a><i class="fa-solid fa-envelope"></i></a>
+                </div>
+            </div>
+            <div class="rights">
+                <p>© 2024 כל הזכויות שמורות למתכון לחיסכון</p>
             </div>
         </footer>
     </div>

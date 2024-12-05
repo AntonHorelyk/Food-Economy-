@@ -16,12 +16,12 @@ const generate = async (prompt, from) => {
             body: JSON.stringify({
                 model: "gpt-3.5-turbo",
                 messages: [{ role: "user", content: prompt }],
-                response_format: { type: "json_object" }
+                // response_format: { type: "json_object" }
             }),
         });
 
         const data = await response.json()
-        // const data = JSON.parse(tempData)
+        
 
 
         if (from === "kindOfEvent") {
@@ -58,6 +58,7 @@ const generate = async (prompt, from) => {
             })
         }else if(from === 'getCategories'){
             const answer = data.choices[0].message.content;
+            console.log(answer)
             localStorage.setItem('getCategories', answer)
         }
     } catch (error) {
@@ -65,6 +66,8 @@ const generate = async (prompt, from) => {
     }
 };
 const chart = document.getElementById("myListPr");
+
+
 
 
 const myUploadedList = document.getElementById("myUploadedList")
@@ -82,25 +85,27 @@ document.addEventListener('DOMContentLoaded', function() {
 
     getMyList();
     
-    const ctx = document.getElementById('myChart').getContext('2d');
     
     function getCategories(){
-        const cart = JSON.parse(localStorage.getItem("cart")) || [];
-        const newCartArray = cart.map((value) => {
-            return value.ItemName
-        })
+        const uploadedList = localStorage.getItem("uploadedList");
+        console.log(localStorage.getItem("uploadedList"))
         
-        const stringPromopt = `תחזיר לי מערך js של שמות קטוגריות כלליות (קטגוריה יכול להיות לכמה מוצרים) של המוצרים על בסיס הרשימה הזו ${cart},  תחזיר לי רק מערך של strings ללא objects`;
-        generate(stringPromopt, 'getCategories');
+        const stringPromopt = `תחזיר לי מערך js של שמות קטוגריות כלליות (קטגוריה יכול להיות לכמה מוצרים) של המוצרים על בסיס הרשימה הזו ${uploadedList},  תחזיר לי רק מערך של strings ללא objects`;
+        // generate(stringPromopt, 'getCategories');
         console.log(stringPromopt);
     }
+    
+
 
     getCategories();
 
+    const ctx = document.getElementById('myChart').getContext('2d');
+    console.log(localStorage.getItem('getCategories'));
     const categoriesArray = JSON.parse(localStorage.getItem('getCategories'))
-    console.log(categoriesArray.categories)
+    console.log(categoriesArray)
+
     const data = {
-        labels: categoriesArray.categories,
+        labels: categoriesArray,
         datasets: [{
             label: 'כמות',
             data: [1, 1, 1, 1, 1,],
@@ -231,6 +236,15 @@ const foodSavingTips = [
         description: "תכנן מראש את הארוחות שלך כדי להשתמש במוצרים שיש בבית לפני שקונים חדשים ולמנוע בזבוז."
     }
 ];
+
+
+const uploadedList = localStorage.getItem("uploadedList").split(' ');
+let list = document.getElementById("myList");
+for (i = 0; i < uploadedList.length; ++i) {
+    let li = document.createElement('li');
+    li.innerText = uploadedList[i];
+    list.appendChild(li);
+}
 
 function getTips() {
     let currentTipIndex = 0;
