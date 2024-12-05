@@ -6,85 +6,107 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <title>Home</title>
 </head>
 
 <body>
-    <nav>
-        <div class="nav-container">
-            <div class="loader">
-                <p>מתכון</p>
-                <div class="words">
-                    <span class="word">לחיסכון</span>
-                    <span class="word">לחיסכון</span>
-                    <span class="word">לחיסכון</span>
-                    <span class="word">לחיסכון</span>
-                    <span class="word">לחיסכון</span>
+    <div class="container">
+        <nav>
+            <div class="nav-container">
+                <div class="loader">
+                    <p>מתכון</p>
+                    <div class="words">
+                        <span class="word">לחיסכון</span>
+                        <span class="word">לחיסכון</span>
+                        <span class="word">לחיסכון</span>
+                        <span class="word">לחיסכון</span>
+                        <span class="word">לחיסכון</span>
+                    </div>
+                </div>
+                <div>
+                    <a href="index.html" class="nav-link">לסרוק</a>
+                    <a href="./cart/products.html" class="nav-link">יצירת רשימה חדשה</a>
+                    <a href="#" class="nav-link">מתכון</a>
+                    <a href="#" class="nav-link">קצת על עצמינו</a>
                 </div>
             </div>
-            <div>
-                <a href="index.html" class="nav-link">לסרוק</a>
-                <a href="./cart/products.html" class="nav-link">יצירת רשימה חדשה</a>
-                <a href="#" class="nav-link">מתכון</a>
-                <a href="#" class="nav-link">קצת על עצמינו</a>
-            </div>
+        </nav>
+    
+        <h1 class="main-title">!שלום מותק</h1>
+    
+        <div id="tips">
+    
         </div>
-    </nav>
-
-    <h1 class="main-title">!שלום מותק</h1>
-
-    <div class="center">
-
-        <canvas id="myChart" style="width:50%;max-width:600px;height: 50%;max-height:700px;"></canvas>
-       <div id="bothListsDiv">
-
-        <main class="tabs">
-            <div class="tab">
-                <input type="radio" id="tab1" name="tab-group" checked>
-                <label for="tab1" class="tab-title">
-                    <h2 class="naming">מוצרים שלך</h2>
-                </label>
-                <section class="tab-content">
-                    <div class="container store">
-                        <ol id="myListPr">
-                            <li>תפוח</li>
-                            <li>עגס</li>
-                            <li>ביצים</li>
-                            <li>בשר</li>
-                            <li>דגים</li>
-                        </ol>
-                    </div>
-                    
-                </section>
-            </div>
-            <div class="tab">
-                <input type="radio" id="tab2" name="tab-group">
-                <label for="tab2" class="tab-title">
-                    <h2 class="naming">תזמין אותי</h2>
-                </label>
-                <section class="tab-content">
-                    
-                    <div class="container">
-                        <ol id="myUploadedList">
-
-                        </ol>
-                    </div>
-                   
-                </section>
+    
+        
+    
+        <div class="center">
+    
+            <canvas id="myChart" style="width:50%;max-width:600px;height: 50%;max-height:700px;"></canvas>
+           <div id="bothListsDiv">
+    
+            <main class="tabs">
+                <div class="tab">
+                    <input type="radio" id="tab1" name="tab-group" checked>
+                    <label for="tab1" class="tab-title">
+                        <h2 class="naming">מוצרים שלך</h2>
+                    </label>
+                    <section class="tab-content">
+                        <div class="myUploadedListDiv store">
+                            <ol id="myListPr">
+                                <li>תפוח</li>
+                                <li>עגס</li>
+                                <li>ביצים</li>
+                                <li>בשר</li>
+                                <li>דגים</li>
+                            </ol>
+                        </div>
+                        
+                    </section>
+                </div>
+                <div class="tab">
+                    <input type="radio" id="tab2" name="tab-group">
+                    <label for="tab2" class="tab-title">
+                        <h2 class="naming">תזמין אותי</h2>
+                    </label>
+                    <section class="tab-content">
+                        
+                        <div class="myUploadedListDiv">
+                            <ol id="myUploadedList">
+    
+                            </ol>
+                        </div>
+                       
+                    </section>
+        
+                </div>
     
             </div>
-
         </div>
+
+        
+    
+        <div id="features">
+            <button type="button" onclick="window.open('https:/www.facebook.com/groups/freefood/', '_blank')"
+                class="styled-button">
+                אני רוצה לתרום
+            </button>
+            <button id="iHaveEventBtn" class="styled-button">יש לי אירוע!</button>
+            <button id="iHurryBtn" class="styled-button">אני ממהר</button>
+            <button id="iHaveLeftBtn" class="styled-button">ממה שנשאר לי</button>
+            <button id="convertAmountBtn" class="styled-button">מחשבון כמויות</button>
+        </div>
+    
+        <footer class="contact">
+            <div>
+                <h3 id="contact">Contact Us</h3>
+                <a href="#" target="_blank" rel="noopener noreferrer"><button class="button1">Instagram</button></a>
+                <a href="#" target="_blank" rel="noopener noreferrer"><button class="button1">Facebook</button></a>
+                <a href="#"><button class="button1">Mail</button></a>
+            </div>
+        </footer>
     </div>
-
-    <footer class="contact">
-        <div>
-            <h3 id="contact">Contact Us</h3>
-            <a href="#" target="_blank" rel="noopener noreferrer"><button class="button1">Instagram</button></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><button class="button1">Facebook</button></a>
-            <a href="#"><button class="button1">Mail</button></a>
-        </div>
-    </footer>
 
 
 
