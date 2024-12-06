@@ -272,13 +272,24 @@ const foodSavingTips = [
     }
 ];
 
+const uploadedList = localStorage.getItem("uploadedList");
 
-const uploadedList = localStorage.getItem("uploadedList").split(',');
-let list = document.getElementById("myList");
-for (i = 0; i < uploadedList.length; ++i) {
-    let li = document.createElement('li');
-    li.innerText = uploadedList[i];
-    list.appendChild(li);
+if (uploadedList) { 
+    const products = uploadedList.split(','); 
+    
+    const list = document.getElementById("myList");
+
+    if (list) { 
+        products.forEach(product => {
+            const li = document.createElement('li');
+            li.textContent = product.trim(); 
+            list.appendChild(li); 
+        });
+    } else {
+        console.error('Element with id "myList" not found in the DOM.');
+    }
+} else {
+    console.warn('No "uploadedList" found in localStorage.');
 }
 
 function getTips() {
