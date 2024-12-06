@@ -60,7 +60,42 @@ const generate = async (prompt, from) => {
             const answer = data.choices[0].message.content;
             console.log(answer)
             localStorage.setItem('getCategories', answer)
-        }
+        }else if (from === "fromReciptRecipe") {
+            const answer = data.choices[0].message.content.trim();
+            const fixedAnswer = answer.split(/\d+\.\s/).filter(Boolean);
+            //   console.log(answer.split(/\d+\.\s/).filter(Boolean));
+            Swal.fire({
+              title: "הנה מתכונים מהמוצרים שלכם",
+              showCancelButton: true,
+              cancelButtonText: "סגור",
+              confirmButtonText: "מתכון אחר",
+              html: `${fixedAnswer[0]}`,
+              focusConfirm: false,
+              preConfirm: () => {
+                return new Promise((resolve) => {
+                  Swal.fire({
+                    title: "מתכון שני",
+                    html: fixedAnswer[1], // Show the second recipe after confirmation
+                    confirmButtonText: "מתכון אחר",
+                    showCancelButton: true,
+                    cancelButtonText: "סגור",
+                    focusConfirm: false,
+                  }).then(() => {
+                    Swal.fire({
+                      title: "מתכון אחרון",
+                      html: fixedAnswer[2],
+                      showCancelButton: false,
+                      confirmButtonText: "סגור",
+                      cancelButtonText: "סגור",
+                      focusConfirm: false,
+                    });
+                    resolve();
+                  }); // Close the second modal after showing the second recipe
+                });
+              },
+            });
+          }
+      
     } catch (error) {
         console.log(`An error occurred. Please try again: ${error}`);
     }
@@ -91,7 +126,7 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log(localStorage.getItem("uploadedList"))
         
         const stringPromopt = `תחזיר לי מערך js של שמות קטוגריות כלליות (קטגוריה יכול להיות לכמה מוצרים) של המוצרים על בסיס הרשימה הזו ${uploadedList},  תחזיר לי רק מערך של strings ללא objects`;
-        // generate(stringPromopt, 'getCategories');
+        generate(stringPromopt, 'getCategories');
         console.log(stringPromopt);
     }
     
@@ -100,8 +135,8 @@ document.addEventListener('DOMContentLoaded', function() {
     getCategories();
 
     const ctx = document.getElementById('myChart').getContext('2d');
-    console.log(localStorage.getItem('getCategories'));
-    const categoriesArray = JSON.parse(localStorage.getItem('getCategories'))
+    console.log(localStorage.getItem('uploadedList'));
+    const categoriesArray = JSON.parse(localStorage.getItem('upoloadedList'))
     console.log(categoriesArray)
 
     const data = {
@@ -140,7 +175,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 },
                 title: {
                     display: true,
-                    text: 'Distribution of Products'
+                    text: 'מוצרים שלך'
                 }
             }
         }
@@ -237,13 +272,24 @@ const foodSavingTips = [
     }
 ];
 
+const uploadedList = localStorage.getItem("uploadedList");
 
-const uploadedList = localStorage.getItem("uploadedList").split(' ');
-let list = document.getElementById("myList");
-for (i = 0; i < uploadedList.length; ++i) {
-    let li = document.createElement('li');
-    li.innerText = uploadedList[i];
-    list.appendChild(li);
+if (uploadedList) { 
+    const products = uploadedList.split(','); 
+    
+    const list = document.getElementById("myList");
+
+    if (list) { 
+        products.forEach(product => {
+            const li = document.createElement('li');
+            li.textContent = product.trim(); 
+            list.appendChild(li); 
+        });
+    } else {
+        console.error('Element with id "myList" not found in the DOM.');
+    }
+} else {
+    console.warn('No "uploadedList" found in localStorage.');
 }
 
 function getTips() {
@@ -423,3 +469,37 @@ convertAmount.addEventListener("click", () => {
         }
     });
 });
+
+const fromReciptRecipe = document.getElementById("fromReciptRecipe");
+
+// Check if the button exists before attaching the event listener
+if (fromReciptRecipe) {
+  fromReciptRecipe.addEventListener("click", () => {
+    const generateRecipesFromLocalStorage = () => {
+      // Retrieve the prompt from localStorage
+      const uploadedListPrompt = localStorage.getItem("uploadedListPrompt");
+
+      if (!uploadedListPrompt) {
+        Swal.fire({
+          title: "אין נתונים",
+          text: "לא נמצאה רשימת קניות ב-Local Storage.",
+          icon: "warning",
+          confirmButtonText: "סגור",
+        });
+        return;
+      }
+
+      // Check if the `generate` function is defined
+      if (typeof generate === "function") {
+        generate(uploadedListPrompt, "fromReciptRecipe");
+      } else {
+        console.error("The 'generate' function is not defined.");
+      }
+    };
+
+    // Call the function to generate recipes
+    generateRecipesFromLocalStorage();
+  });
+} else {
+  console.log("fromReciptRecipe button not found in the DOM.");
+}
