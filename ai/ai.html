@@ -29,88 +29,82 @@
     />
   </head>
   <body>
-    <header class="header">
-      <div class="header-div">
-        <div class="back-home">
-          <a href="./index.html">חזרה לדף הבית</a>
-        </div>
-        <div class="loader">
-          <p>מתכון</p>
-          <div class="words">
-            <span class="word">לחיסכון</span>
-            <span class="word">לחיסכון</span>
-            <span class="word">לחיסכון</span>
-            <span class="word">לחיסכון</span>
-            <span class="word">לחיסכון</span>
+    <div class="container">
+      <header class="header">
+        <div class="header-div">
+          <div class="back-home">
+            <a href="./index.html" class="a-backToHome">חזרה לדף הבית</a>
+          </div>
+          <div class="loader">
+            <p>מתכון</p>
+            <div class="words">
+              <span class="word">לחיסכון</span>
+              <span class="word">לחיסכון</span>
+              <span class="word">לחיסכון</span>
+              <span class="word">לחיסכון</span>
+              <span class="word">לחיסכון</span>
+            </div>
           </div>
         </div>
-      </div>
-    </header>
-    <nav class="global-nav">
-      <a class="fancy" href="/cart/products.html">
-        <span class="top-key"></span>
-        <span class="text">יצירת רשימה חדשה</span>
-        <span class="bottom-key-1"></span>
-        <span class="bottom-key-2"></span>
-      </a>
-      <a class="fancy" href="/ai/ai.html">
-        <span class="top-key"></span>
-        <span class="text">סריקת קבלה</span>
-        <span class="bottom-key-1"></span>
-        <span class="bottom-key-2"></span>
-      </a>
-      <a class="fancy" href="/about/about.html">
-        <span class="top-key"></span>
-        <span class="text">מי אנחנו</span>
-        <span class="bottom-key-1"></span>
-        <span class="bottom-key-2"></span>
-      </a>
-      <a class="fancy" href="">
-        <span class="top-key"></span>
-        <span class="text">צור קשר</span>
-        <span class="bottom-key-1"></span>
-        <span class="bottom-key-2"></span>
-      </a>
-    </nav>
-    <h1>קורא הקבלות</h1>
-    <p>המירו את התמונה לטקסט*</p>
+      </header>
+      <nav class="global-nav">
+        <a class="fancy" href="/cart/products.html">
+          <span class="top-key"></span>
+          <span class="text">יצירת רשימה חדשה</span>
+          <span class="bottom-key-1"></span>
+          <span class="bottom-key-2"></span>
+        </a>
+        <a class="fancy" href="/about/about.html">
+          <span class="top-key"></span>
+          <span class="text">מי אנחנו</span>
+          <span class="bottom-key-1"></span>
+          <span class="bottom-key-2"></span>
+        </a>
+        <a class="fancy" href="">
+          <span class="top-key"></span>
+          <span class="text">צור קשר</span>
+          <span class="bottom-key-1"></span>
+          <span class="bottom-key-2"></span>
+        </a>
+      </nav>
+      <h1>קורא הקבלות</h1>
+      <p>המירו את התמונה לטקסט*</p>
 
-    <!-- File Input -->
-    <input type="file" id="imageInput" accept="image/*" />
+      <!-- File Input -->
+      <input type="file" id="imageInput" accept="image/*" />
 
-    <!-- Canvas for Image and Cropping -->
-    <canvas id="imageCanvas"></canvas>
+      <!-- Canvas for Image and Cropping -->
+      <canvas id="imageCanvas"></canvas>
 
-    <!-- Buttons -->
-    <div>
-      <button id="cropAndProcessButton">חתוך ושלח</button>
-      <button id="resetButton">חתוך מחדש</button>
-    </div>
-
-    <!-- Editable Text Area -->
-    <h2>:תכולת הקבלה שהתקבלה</h2>
-    <textarea
-      id="editableText"
-      rows="7"
-      cols="50"
-      placeholder="...תכולת הקבלה תתקבל כאן"
-    ></textarea>
-
-    <!-- Save Button -->
-    <button id="saveButton">שמור את הקבלה הערוכה</button>
-
-    <footer class="footer">
+      <!-- Buttons -->
       <div>
-        <div class="about-links">
-          <a><i class="fa-solid fa-phone"></i></a>
-          <a><i class="fa-brands fa-github"></i></a>
-          <a><i class="fa-solid fa-envelope"></i></a>
+        <button id="cropAndProcessButton">חתוך ושלח</button>
+        <button id="resetButton">חתוך מחדש</button>
+      </div>
+      <div>
+        <button id="startCameraButton">הפעל מצלמה</button>
+        <button id="captureButton" style="display: none">צלם תמונה</button>
+      </div>
+      <video id="cameraFeed" autoplay style="display: none"></video>
+
+      <!-- Editable Text Area -->
+      <h2>:תכולת הקבלה שהתקבלה</h2>
+      <!-- Save Button -->
+      <button id="saveButton">שמור את הקבלה הערוכה</button>
+      <textarea
+        id="editableText"
+        rows="7"
+        cols="50"
+        placeholder="...תכולת הקבלה תתקבל כאן"
+      ></textarea>
+
+      <footer class="footer">
+        <div></div>
+        <div class="rights">
+          <p>© 2024 כל הזכויות שמורות למתכון לחיסכון</p>
         </div>
-      </div>
-      <div class="rights">
-        <p>© 2024 כל הזכויות שמורות למתכון לחיסכון</p>
-      </div>
-    </footer>
+      </footer>
+    </div>
     <script src="ai.js"></script>
   </body>
 </html>

@@ -4,12 +4,12 @@ const croppedCanvas = document.createElement("canvas");
 const ctx = canvas.getContext("2d");
 const croppedCtx = croppedCanvas.getContext("2d");
 let image = new Image();
+let capturedImage = null; // משתנה לשמירת התמונה המקורית
 let isDrawing = false;
 let startX, startY, endX, endY;
 
 // Load image into canvas
 fileInput.addEventListener("change", (e) => {
-  console.log(e);
   const file = e.target.files[0];
   if (file) {
     const reader = new FileReader();
@@ -24,6 +24,7 @@ image.onload = () => {
   canvas.width = image.width / 2; // Scale down for display
   canvas.height = image.height / 2;
   ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
+  capturedImage = ctx.getImageData(0, 0, canvas.width, canvas.height); // Save the initial state
 };
 
 // Start drawing rectangle
@@ -33,25 +34,37 @@ canvas.addEventListener("mousedown", (e) => {
   startY = e.offsetY;
 });
 
-// Draw rectangle
+// Draw rectangle dynamically
 canvas.addEventListener("mousemove", (e) => {
   if (!isDrawing) return;
 
-  // Redraw the image and overlay the cropping rectangle
-  ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
+  // Restore the original image before drawing the rectangle
+  ctx.putImageData(capturedImage, 0, 0);
+
+  // Draw the rectangle dynamically
   ctx.strokeStyle = "red";
   ctx.lineWidth = 2;
-  ctx.strokeRect(startX, startY, e.offsetX - startX, e.offsetY - startY);
+  const currentWidth = e.offsetX - startX;
+  const currentHeight = e.offsetY - startY;
+  ctx.strokeRect(startX, startY, currentWidth, currentHeight);
 });
 
-// End drawing
+// End drawing and finalize rectangle
 canvas.addEventListener("mouseup", (e) => {
   isDrawing = false;
   endX = e.offsetX;
   endY = e.offsetY;
+
+  // Restore the original image and finalize the rectangle
+  ctx.putImageData(capturedImage, 0, 0);
+  const finalWidth = endX - startX;
+  const finalHeight = endY - startY;
+  ctx.strokeStyle = "red";
+  ctx.lineWidth = 2;
+  ctx.strokeRect(startX, startY, finalWidth, finalHeight);
 });
 
-// Combined Crop and Process Functionality
+// Crop and Process
 document
   .getElementById("cropAndProcessButton")
   .addEventListener("click", () => {
@@ -75,6 +88,12 @@ document
         cropWidth,
         cropHeight
       );
+
+      // Replace the canvas content with the cropped image
+      canvas.width = cropWidth;
+      canvas.height = cropHeight;
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.drawImage(croppedCanvas, 0, 0);
 
       // Convert cropped area to Base64
       const base64Image = croppedCanvas.toDataURL("image/png").split(",")[1];
@@ -106,7 +125,7 @@ document
           // Display detected text in the editable textarea
           const editableText = document.getElementById("editableText");
           editableText.value = detectedText;
-          editableText.focus(); // Focus the textarea for user convenience
+          editableText.focus();
           alertify.success("הקבלה הומרה בהצלחה");
         })
         .catch((error) => {
@@ -119,7 +138,11 @@ document
 
 // Reset the canvas
 document.getElementById("resetButton").addEventListener("click", () => {
-  ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
+  if (capturedImage) {
+    canvas.width = capturedImage.width;
+    canvas.height = capturedImage.height;
+    ctx.putImageData(capturedImage, 0, 0);
+  }
   croppedCanvas.width = 0;
   croppedCanvas.height = 0;
 });
@@ -132,7 +155,51 @@ document.getElementById("saveButton").addEventListener("click", () => {
 
   localStorage.setItem("uploadedListPrompt", uploadedListPrompt);
   localStorage.setItem("uploadedList", uploadedList);
-  console.log("uploadedListPrompt", uploadedListPrompt);
   console.log("uploadedList", uploadedList);
   alertify.success("!הקבלה נשמרה בהצלחה");
+});
+
+// Camera functionalities
+const startCameraButton = document.getElementById("startCameraButton");
+const captureButton = document.getElementById("captureButton");
+const cameraFeed = document.getElementById("cameraFeed");
+let cameraStream;
+
+// Start the camera
+startCameraButton.addEventListener("click", () => {
+  navigator.mediaDevices
+    .getUserMedia({ video: true })
+    .then((stream) => {
+      cameraStream = stream;
+      cameraFeed.srcObject = stream;
+      cameraFeed.style.display = "block";
+      captureButton.style.display = "inline-block";
+    })
+    .catch((error) => {
+      console.error("Camera access error:", error);
+      alertify.error("לא ניתן להפעיל את המצלמה");
+    });
+});
+
+// Capture an image from the camera
+captureButton.addEventListener("click", () => {
+  const videoWidth = cameraFeed.videoWidth;
+  const videoHeight = cameraFeed.videoHeight;
+  canvas.width = videoWidth;
+  canvas.height = videoHeight;
+
+  // Draw the current frame from the video feed onto the canvas
+  ctx.drawImage(cameraFeed, 0, 0, videoWidth, videoHeight);
+
+  // Save the captured image to restore later
+  capturedImage = ctx.getImageData(0, 0, canvas.width, canvas.height);
+
+  // Stop the camera feed
+  if (cameraStream) {
+    cameraStream.getTracks().forEach((track) => track.stop());
+  }
+
+  cameraFeed.style.display = "none";
+  captureButton.style.display = "none";
+  alertify.success("התמונה צולמה בהצלחה");
 });
