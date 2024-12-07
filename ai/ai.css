@@ -52,7 +52,7 @@ button:hover {
 
 h1 {
   text-align: center;
-  color: #fc4925;
+  color: #e55235cf;
   font-size: 2.5rem;
   margin-top: 20px;
 }
@@ -63,7 +63,7 @@ input[type="file"] {
   display: block;
   margin: 0 auto 20px;
   padding: 10px;
-  border: 2px dashed #fc4925;
+  border: 2px dashed #e55235cf;
   border-radius: 8px;
   background-color: #fff;
   cursor: pointer;
@@ -86,7 +86,7 @@ button {
   display: inline-block;
   margin: 10px;
   padding: 10px 20px;
-  background-color: #fc4925;
+  background-color: #e55235cf;
   color: #fff;
   font-size: 1rem;
   font-weight: bold;
@@ -126,7 +126,7 @@ textarea {
 }
 
 textarea:focus {
-  border-color: #fc4925;
+  border-color: #e55235cf;
   box-shadow: 0 0 5px rgba(252, 73, 37, 0.5);
   outline: none;
 }
@@ -158,9 +158,9 @@ body{
     text-transform: uppercase;
     padding: 5px 10px;
     border-radius: 10px;
-    border: 1px solid #fc4925;
+    border: 1px solid #e55235cf;
     background: #ffffff;
-    box-shadow: 3px 3px #fc4925;
+    box-shadow: 3px 3px #e55235cf;
     cursor: pointer;
     margin: 35px 0;
 
@@ -200,7 +200,6 @@ body{
     font-size: 35px;
     -webkit-box-sizing: content-box;
     box-sizing: content-box;
-    height: 40px;
     padding: 10px 10px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -239,6 +238,8 @@ body{
     padding-left: 6px;
     color: white;
     animation: spin_4991 4s infinite;
+    position: relative;
+    bottom: 8px;
 }
 
 @keyframes spin_4991 {
@@ -313,7 +314,7 @@ body{
 }
 
 .header {
-    background-color: #fc4925;
+    background-color: #e55235cf;
     color: white;
     font-family: 'Assistant', sans-serif;
     text-align: center;
@@ -334,7 +335,7 @@ body{
 
 .fancy {
     background-color: transparent;
-    border: 2px solid #fc4925;
+    border: 2px solid #e55235cf;
     border-radius: 10px;
     box-sizing: border-box;
     color: #fff;
@@ -355,7 +356,7 @@ body{
     content: " ";
     width: 1rem;
     height: 2px;
-    background: #fc4925;
+    background: #e55235cf;
     top: 50%;
     left: 1.5em;
     position: absolute;
@@ -373,7 +374,7 @@ body{
     transition: all 0.3s ease-in-out;
     text-transform: uppercase;
     text-decoration: none;
-    color: #fc4925;
+    color: #e55235cf;
 }
 
 .fancy .top-key {
@@ -382,7 +383,7 @@ body{
     top: -2px;
     left: 0.625rem;
     position: absolute;
-    background: #fc4925;
+    background: #e55235cf;
     transition: width 0.5s ease-out, left 0.3s ease-out;
 }
 
@@ -392,7 +393,7 @@ body{
     right: 1.875rem;
     bottom: -2px;
     position: absolute;
-    background: #fc4925;
+    background: #e55235cf;
     transition: width 0.5s ease-out, right 0.3s ease-out;
 }
 
@@ -408,7 +409,7 @@ body{
 
 .fancy:hover {
     color: white;
-    background: #fc4925;
+    background: #e55235cf;
 }
 
 .fancy:hover::before {
@@ -441,7 +442,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #fc4925;
+    background-color: #e55235cf;
     ;  /* Add some padding to give space */
     box-sizing: border-box; /* Ensure padding is included in the width calculation */
 }
@@ -456,6 +457,31 @@ video{
 .a-backToHome{
     font-weight: bolder;
     position: relative;
-    bottom: 1vh;
+    bottom: 14vh;
     left: 10vw;
+}
+
+@media (max-width: 1180px) {
+    .a-backToHome{
+        z-index: 100;
+        position: relative;
+        bottom: 6vh;
+
+    }
+    .loader{
+        position: relative;
+        top: 1vh;
+    }
+}
+@media (max-width: 468px){
+    body{
+        overflow-x: hidden;
+    }
+    .container{
+        width: 95%;
+        
+    }
+    .global-nav{
+        width: 90%;
+    }
 }
