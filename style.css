@@ -302,6 +302,8 @@ body{
 
 .tab-title {
     display: inline-block;
+    display: flex;
+    flex-direction: column;
     padding: 5px 10px;
     font-family: 'Bradley Hand', 'Times New Roman', Times, serif;
     border-bottom: none;
@@ -331,8 +333,8 @@ body{
 .myUploadedListDiv {
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
-
 
 #myChart {
     grid-area: 1/1/2/2;
