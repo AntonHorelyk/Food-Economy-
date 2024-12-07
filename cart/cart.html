@@ -8,16 +8,75 @@
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/alertify.min.css" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/themes/default.min.css" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/themes/bootstrap.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;600&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="products.css">
-    <title>Document</title>
+    <title>מתכון לחיסכון - סל קניות</title>
 </head>
 
 <body>
-    <button><a href="./products.html">חזרה למוצרים</a></button>
+    <header class="header">
+        <div class="header-div">
+            <div class="back-home">
+                <a href="/cart/products.html">חזרה למוצרים</a>
+            </div>
+            <div class="loader">
+                <p> מתכון</p>
+                <div class="words">
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                    <span class="word">לחיסכון</span>
+                </div>
+            </div>
+        </div>
+    </header>
+    <nav class="global-nav">
+        <a class="fancy" href="/index.html">
+            <span class="top-key"></span>
+            <span class="text">דף הבית</span>
+            <span class="bottom-key-1"></span>
+            <span class="bottom-key-2"></span>
+        </a>
+        <a class="fancy" href="/ai/ai.html">
+            <span class="top-key"></span>
+            <span class="text">סריקת קבלה</span>
+            <span class="bottom-key-1"></span>
+            <span class="bottom-key-2"></span>
+        </a>
+        <a class="fancy" href="/about/about.html">
+            <span class="top-key"></span>
+            <span class="text">מי אנחנו</span>
+            <span class="bottom-key-1"></span>
+            <span class="bottom-key-2"></span>
+        </a>
+        <a class="fancy" href="">
+            <span class="top-key"></span>
+            <span class="text">צור קשר</span>
+            <span class="bottom-key-1"></span>
+            <span class="bottom-key-2"></span>
+        </a>
+    </nav>
+    <br>
     <div id="cart-container">
         <div id=""></div>
     </div>
+    <br>
     <div id="total-price-container"></div>
+    <br>
+    <footer class="footer">
+        <div>
+            <div class="about-links">
+                <a><i class="fa-solid fa-phone"></i></a>
+                <a><i class="fa-brands fa-github"></i></a>
+                <a><i class="fa-solid fa-envelope"></i></a>
+            </div>
+        </div>
+        <div class="rights">
+            <p>© 2024 כל הזכויות שמורות למתכון לחיסכון</p>
+        </div>
+    </footer>
     <script src="products.js"></script>
 </body>
 

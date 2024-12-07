@@ -166,7 +166,7 @@ function renderCart() {
             });
         });
 
-        totalPriceContainer.innerHTML = `<p>סה"כ לתשלום: ${totalPrice.toFixed(2)} ₪</p>`;
+        totalPriceContainer.innerHTML = `<p class="totalPriceContainer">סה"כ לתשלום: ${totalPrice.toFixed(2)} ₪</p>`;
 
     } else {
         cartContainer.innerHTML = "<p>הסל ריק.</p>";
