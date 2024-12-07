@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="register.css">
+</head>
+<body>
+    <div class="form-container">
+        <div class="form-box">
+            <form id="signupForm">
+                <label for="name" class="form-label">שם פרטי</label>
+                <input type="text" id="name" name="name" class="form-input" placeholder="הכנסאת השם פרטי" required>
+                <span id="errorMessageName" class="errorMessage"></span>
+
+                <label for="lastname" class="form-label">שם משפחה</label>
+                <input type="text" id="lastname" name="lastname" class="form-input" placeholder="הכנס את שם המשפחה" required>
+                <span id="errorMessageLastname" class="errorMessage"></span>
+
+                <label for="mail" class="form-label">מייל</label>
+                <input type="email" id="mail" name="mail" class="form-input" placeholder="הכנס את המייל" required>
+                <span id="errorMessageMail" class="errorMessage"></span>
+                
+                <label for="birthday" class="form-label">תאריך לידה</label>
+                <input type="date" id="birthday" name="birthday" class="form-input" required>
+                <span id="errorMessageBirthday" class="errorMessage"></span>
+
+                <label for="password" class="form-label">סיסמא</label>
+                <input type="password" id="password" name="password" class="form-input" placeholder="צור סיסמא" required>
+                <span id="errorMessagePassword" class="errorMessage"></span>
+
+                <label for="password" class="form-label">אימות סיסמא</label>
+                <input type="password" id="passwordValid" name="passwordValid" class="form-input" placeholder="אימות סיסמא" required>
+                <span id="errorMessagePasswordValid" class="errorMessage"></span>
+
+                <button type="submit" class="form-button">הירשם</button>
+                <a href="./login.html">Login</a>
+            </form>
+        </div>
+    </div>
+    <script src="register.js"></script>
+</body>
+</html>

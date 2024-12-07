@@ -66,7 +66,7 @@ body{
     height: 100%;
     padding-left: 6px;
     color: white;
-    animation: spin_4991 8s infinite;
+    animation: spin_4991 4s infinite;
 }
 
 @keyframes spin_4991 {
@@ -144,7 +144,6 @@ body{
 .global-nav {
     display: flex;
     justify-content: center;
-    gap:5px;
 }
 
 .fancy {
@@ -276,10 +275,6 @@ body{
     color: #444;
   }
 
-#rightPart{
-    display: flex;
-    justify-content: space-between;
-}
 
 .center {
     display: grid;
