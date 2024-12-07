@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function() {
     getCategories();
 
     const ctx = document.getElementById('myChart').getContext('2d');
-    const categoriesArray = document.getElementByIdgit('myList')
+    const categoriesArray = document.getElementById('myList')
     console.log(categoriesArray)
 
     const data = {
