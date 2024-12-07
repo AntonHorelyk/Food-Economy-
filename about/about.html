@@ -107,5 +107,11 @@
             <p>© 2024 כל הזכויות שמורות למתכון לחיסכון</p>
         </div>
     </footer>
+    <script>
+        const logged = localStorage.getItem('logged');
+        if(logged !== 'true'){
+            window.location.href = "../login/login.html";
+        }
+    </script>
 </body>
 </html>
