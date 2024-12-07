@@ -6,7 +6,7 @@
 }
 
 .product {
-    border: solid 5px #ff12016d;
+    border: solid 5px #e55235cf;
     border-radius: 1em;
     display: grid;
     justify-items: center;
@@ -17,7 +17,7 @@
 }
 
 .productInCart {
-    border: solid 5px #ff12016d;
+    border: solid 5px #e55235cf;
     border-radius: 1em;
     display: grid;
     justify-items: center;
@@ -42,8 +42,8 @@
         }
 
         button:hover {
-            background-color: #ff12016d;
-            box-shadow: 0px 15px 20px #ff12016d;
+            background-color: #e55235cf;
+            box-shadow: 0px 15px 20px #e55235cf;
             color: #fff;
             transform: translateY(-7px);
         }
@@ -85,14 +85,14 @@ body {
 }
 
 .nav-container {
-    border-top: 2px solid #ff12016d;
+    border-top: 2px solid #e55235cf;
     padding: 1rem 2rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-family: 'Arial', sans-serif;
     direction: rtl;
-    box-shadow: 1px 10px 10px 0px #ff12016d;
+    box-shadow: 1px 10px 10px 0px #e55235cf;
 }
 
 .nav-link {
@@ -102,9 +102,9 @@ body {
     text-transform: uppercase;
     padding: 5px 10px;
     border-radius: 10px;
-    border: 1px solid #fc4925;
+    border: 1px solid #e55235cf;
     background: #ffffff;
-    box-shadow: 3px 3px #fc4925;
+    box-shadow: 3px 3px #e55235cf;
     cursor: pointer;
     margin: 35px 0;
 
@@ -255,7 +255,7 @@ body {
 }
 
 .header {
-    background-color: #fc4925;
+    background-color: #e55235cf;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -274,7 +274,7 @@ body {
 
 .fancy {
     background-color: transparent;
-    border: 2px solid #fc4925;
+    border: 2px solid #e55235cf;
     border-radius: 10px;
     box-sizing: border-box;
     color: #fff;
@@ -295,7 +295,7 @@ body {
     content: " ";
     width: 1rem;
     height: 2px;
-    background: #fc4925;
+    background: #e55235cf;
     top: 50%;
     left: 1.5em;
     position: absolute;
@@ -313,7 +313,7 @@ body {
     transition: all 0.3s ease-in-out;
     text-transform: uppercase;
     text-decoration: none;
-    color: #fc4925;
+    color: #e55235cf;
 }
 
 .fancy .top-key {
@@ -322,7 +322,7 @@ body {
     top: -2px;
     left: 0.625rem;
     position: absolute;
-    background: #fc4925;
+    background: #e55235cf;
     transition: width 0.5s ease-out, left 0.3s ease-out;
 }
 
@@ -332,7 +332,7 @@ body {
     right: 1.875rem;
     bottom: -2px;
     position: absolute;
-    background: #fc4925;
+    background: #e55235cf;
     transition: width 0.5s ease-out, right 0.3s ease-out;
 }
 
@@ -348,7 +348,7 @@ body {
 
 .fancy:hover {
     color: white;
-    background: #fc4925;
+    background: #e55235cf;
 }
 
 .fancy:hover::before {
@@ -381,7 +381,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #fc4925;
+    background-color: #e55235cf;
     padding: 0.5rem 1rem;
     /* Add some padding to give space */
     box-sizing: border-box;
@@ -401,7 +401,7 @@ body {
 
 .btn-53 {
     -webkit-tap-highlight-color: transparent;
-    background-color: #ff12016d;
+    background-color: #e55235cf;
     background-image: none;
     color: #fff;
     cursor: pointer;
@@ -444,7 +444,7 @@ body {
 
 .btn-53 .original {
     background: #fff;
-    color: #ff12016d;
+    color: #e55235cf;
     display: grid;
     inset: 0;
     place-content: center;
@@ -544,12 +544,12 @@ body {
 .input-text:focus {
     padding-bottom: 6px;
     border-width: 3px;
-    border-image: linear-gradient(to left, #ff12016d);
+    border-image: linear-gradient(to left, #e55235cf);
     border-image-slice: 1;
 }
 
 .input-text:focus~.input-text-label {
-    color: #ff12016d;
+    color: #e55235cf;
 }
 
 .input-text:not(:placeholder-shown)~.input-text-label,
@@ -568,7 +568,7 @@ body {
 }
 
 #source-select {
-    border: solid 2px #ff12016d;
+    border: solid 2px #e55235cf;
     border-radius: 1em;
     display: grid;
     justify-items: center;
@@ -580,3 +580,123 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+/* עיצוב ברירת מחדל נשאר כמו שהוא */
+
+/* עיצוב לטאבלטים ומסכים בגודל בינוני */
+@media (max-width: 1024px) {
+    #product-container {
+        grid-template-columns: 1fr 1fr; /* 2 מוצרים בשורה */
+    }
+    .product {
+        width: 14em; /* הקטן את גודל המוצר */
+        height: 20em;
+    }
+}
+
+/* עיצוב לטלפונים ניידים ומסכים קטנים */
+@media (max-width: 768px) {
+    #product-container {
+        grid-template-columns: 1fr; /* מוצר אחד בשורה */
+    }
+    .product {
+        width: 90%; /* התאמה לרוחב המסך */
+        height: auto; /* גובה דינמי */
+    }
+    .nav-container {
+        flex-direction: column; /* ערימה אנכית */
+        align-items: center;
+        text-align: center;
+    }
+    .nav-link {
+        margin: 10px 0; /* ריווח בין הקישורים */
+    }
+    .header-div {
+        flex-direction: column; /* ערימה אנכית */
+    }
+    .footer {
+        flex-direction: column; /* התאמה לפוטר */
+        text-align: center;
+        gap: 10px;
+    }
+    .buttonsCart {
+        grid-template-columns: 1fr; /* כפתור אחד בשורה */
+    }
+}
+
+.styled-button {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    padding: 15px 30px;
+    color: #fff;
+    background: linear-gradient(90deg, #fc4925, #f6a78fc4);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.styled-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.3);
+    transform: skewX(-45deg);
+    transition: left 0.5s ease-in-out;
+    z-index: 0;
+}
+
+.styled-button:hover::before {
+    left: 200%;
+}
+
+.styled-button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.styled-button:active {
+    transform: scale(1.05);
+    background: linear-gradient(90deg, #e55235cf, #f6a78fc4);
+}
+
+.styled-button span {
+    position: relative;
+    z-index: 1;
+}
+
+.button-buy-total {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.totalPriceContainer {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    padding: 15px 30px;
+    color: #fff;
+    background: linear-gradient(90deg, #fc4925, #f6a78fc4);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    overflow: hidden;
+
+}
+
+
+
+
+
