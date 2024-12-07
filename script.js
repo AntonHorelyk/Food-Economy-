@@ -3,9 +3,20 @@ const API_OPENAI =
 
 const API_URL = "https://api.openai.com/v1/chat/completions";
 
+const logged = localStorage.getItem('logged');
+if (logged !== 'true') {
+    window.location.href = "../login/login.html";
+}
+
+const nameOfUser = document.getElementById('nameOfUser');
+const nameFromStorage = localStorage.getItem('userName');
+console.log(nameFromStorage);
+nameOfUser.textContent = nameFromStorage;
+
 const generate = async (prompt, from) => {
     console.log(prompt);
     console.log(from);
+
     try {
         const response = await fetch(API_URL, {
             method: "POST",
@@ -21,7 +32,7 @@ const generate = async (prompt, from) => {
         });
 
         const data = await response.json()
-        
+
 
 
         if (from === "kindOfEvent") {
@@ -56,59 +67,56 @@ const generate = async (prompt, from) => {
                 html: `${answer}`,
                 focusConfirm: false,
             })
-        }else if(from === 'getCategories'){
+        } else if (from === 'getCategories') {
             const answer = data.choices[0].message.content;
             console.log(answer)
             localStorage.setItem('getCategories', answer)
-        }else if (from === "fromReciptRecipe") {
+        } else if (from === "fromReciptRecipe") {
             const answer = data.choices[0].message.content.trim();
             const fixedAnswer = answer.split(/\d+\.\s/).filter(Boolean);
             //   console.log(answer.split(/\d+\.\s/).filter(Boolean));
             Swal.fire({
-              title: "הנה מתכונים מהמוצרים שלכם",
-              showCancelButton: true,
-              cancelButtonText: "סגור",
-              confirmButtonText: "מתכון אחר",
-              html: `${fixedAnswer[0]}`,
-              focusConfirm: false,
-              preConfirm: () => {
-                return new Promise((resolve) => {
-                  Swal.fire({
-                    title: "מתכון שני",
-                    html: fixedAnswer[1], // Show the second recipe after confirmation
-                    confirmButtonText: "מתכון אחר",
-                    showCancelButton: true,
-                    cancelButtonText: "סגור",
-                    focusConfirm: false,
-                  }).then(() => {
-                    Swal.fire({
-                      title: "מתכון אחרון",
-                      html: fixedAnswer[2],
-                      showCancelButton: false,
-                      confirmButtonText: "סגור",
-                      cancelButtonText: "סגור",
-                      focusConfirm: false,
+                title: "הנה מתכונים מהמוצרים שלכם",
+                showCancelButton: true,
+                cancelButtonText: "סגור",
+                confirmButtonText: "מתכון אחר",
+                html: `${fixedAnswer[0]}`,
+                focusConfirm: false,
+                preConfirm: () => {
+                    return new Promise((resolve) => {
+                        Swal.fire({
+                            title: "מתכון שני",
+                            html: fixedAnswer[1], // Show the second recipe after confirmation
+                            confirmButtonText: "מתכון אחר",
+                            showCancelButton: true,
+                            cancelButtonText: "סגור",
+                            focusConfirm: false,
+                        }).then(() => {
+                            Swal.fire({
+                                title: "מתכון אחרון",
+                                html: fixedAnswer[2],
+                                showCancelButton: false,
+                                confirmButtonText: "סגור",
+                                cancelButtonText: "סגור",
+                                focusConfirm: false,
+                            });
+                            resolve();
+                        }); // Close the second modal after showing the second recipe
                     });
-                    resolve();
-                  }); // Close the second modal after showing the second recipe
-                });
-              },
+                },
             });
-          }
-      
+        }
+
     } catch (error) {
         console.log(`An error occurred. Please try again: ${error}`);
     }
 };
-const chart = document.getElementById("myListPr");
-
-
 
 
 const myUploadedList = document.getElementById("myUploadedList")
 
-document.addEventListener('DOMContentLoaded', function() {
-    const getMyList= () => {
+document.addEventListener('DOMContentLoaded', function () {
+    const getMyList = () => {
         const cart = JSON.parse(localStorage.getItem("cart")) || [];
         cart.forEach(item => {
             console.log(item.ItemName)
@@ -116,71 +124,9 @@ document.addEventListener('DOMContentLoaded', function() {
             li.textContent = item.ItemName;
             myUploadedList.appendChild(li);
         });
-    } 
+    }
 
     getMyList();
-    
-    
-    function getCategories(){
-        const uploadedList = localStorage.getItem("uploadedList");
-        console.log(localStorage.getItem("uploadedList"))
-        
-        const stringPromopt = `תחזיר לי מערך js של שמות קטוגריות כלליות (קטגוריה יכול להיות לכמה מוצרים) של המוצרים על בסיס הרשימה הזו ${uploadedList},  תחזיר לי רק מערך של strings ללא objects`;
-        generate(stringPromopt, 'getCategories');
-        console.log(stringPromopt);
-    }
-    
-
-
-    getCategories();
-
-    const ctx = document.getElementById('myChart').getContext('2d');
-    const categoriesArray = document.getElementById('myList')
-    console.log(categoriesArray)
-
-    const data = {
-        labels: categoriesArray,
-        datasets: [{
-            label: 'כמות',
-            data: [1, 2, 1, 2, 1,],
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)',
-                'rgba(75, 192, 192, 0.2)',
-                'rgba(153, 102, 255, 0.2)',
-                'rgba(255, 159, 64, 0.2)'
-            ],
-            borderColor: [
-                'rgba(255, 99, 132, 1)',
-                'rgba(54, 162, 235, 1)',
-                'rgba(255, 206, 86, 1)',
-                'rgba(75, 192, 192, 1)',
-                'rgba(153, 102, 255, 1)',
-                'rgba(255, 159, 64, 1)'
-            ],
-            borderWidth: 1
-        }]
-    };
-
-    const config = {
-        type: 'pie',
-        data: data,
-        options: {
-            responsive: true,
-            plugins: {
-                legend: {
-                    position: 'top',
-                },
-                title: {
-                    display: true,
-                    text: 'מוצרים שלך'
-                }
-            }
-        }
-    };
-
-    new Chart(ctx, config);
 });
 
 
@@ -273,16 +219,16 @@ const foodSavingTips = [
 
 const uploadedList = localStorage.getItem("uploadedList");
 
-if (uploadedList) { 
-    const products = uploadedList.split(','); 
-    
+if (uploadedList) {
+    const products = uploadedList.split(',');
+
     const list = document.getElementById("myList");
 
-    if (list) { 
+    if (list) {
         products.forEach(product => {
             const li = document.createElement('li');
-            li.textContent = product.trim(); 
-            list.appendChild(li); 
+            li.textContent = product.trim();
+            list.appendChild(li);
         });
     } else {
         console.error('Element with id "myList" not found in the DOM.');
@@ -473,32 +419,32 @@ const fromReciptRecipe = document.getElementById("fromReciptRecipe");
 
 // Check if the button exists before attaching the event listener
 if (fromReciptRecipe) {
-  fromReciptRecipe.addEventListener("click", () => {
-    const generateRecipesFromLocalStorage = () => {
-      // Retrieve the prompt from localStorage
-      const uploadedListPrompt = localStorage.getItem("uploadedListPrompt");
+    fromReciptRecipe.addEventListener("click", () => {
+        const generateRecipesFromLocalStorage = () => {
+            // Retrieve the prompt from localStorage
+            const uploadedListPrompt = localStorage.getItem("uploadedListPrompt");
 
-      if (!uploadedListPrompt) {
-        Swal.fire({
-          title: "אין נתונים",
-          text: "לא נמצאה רשימת קניות ב-Local Storage.",
-          icon: "warning",
-          confirmButtonText: "סגור",
-        });
-        return;
-      }
+            if (!uploadedListPrompt) {
+                Swal.fire({
+                    title: "אין נתונים",
+                    text: "לא נמצאה רשימת קניות ב-Local Storage.",
+                    icon: "warning",
+                    confirmButtonText: "סגור",
+                });
+                return;
+            }
 
-      // Check if the `generate` function is defined
-      if (typeof generate === "function") {
-        generate(uploadedListPrompt, "fromReciptRecipe");
-      } else {
-        console.error("The 'generate' function is not defined.");
-      }
-    };
+            // Check if the `generate` function is defined
+            if (typeof generate === "function") {
+                generate(uploadedListPrompt, "fromReciptRecipe");
+            } else {
+                console.error("The 'generate' function is not defined.");
+            }
+        };
 
-    // Call the function to generate recipes
-    generateRecipesFromLocalStorage();
-  });
+        // Call the function to generate recipes
+        generateRecipesFromLocalStorage();
+    });
 } else {
-  console.log("fromReciptRecipe button not found in the DOM.");
+    console.log("fromReciptRecipe button not found in the DOM.");
 }
