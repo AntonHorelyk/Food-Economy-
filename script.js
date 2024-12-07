@@ -135,15 +135,14 @@ document.addEventListener('DOMContentLoaded', function() {
     getCategories();
 
     const ctx = document.getElementById('myChart').getContext('2d');
-    console.log(localStorage.getItem('uploadedList'));
-    const categoriesArray = JSON.parse(localStorage.getItem('upoloadedList'))
+    const categoriesArray = document.getElementByIdgit('myList')
     console.log(categoriesArray)
 
     const data = {
         labels: categoriesArray,
         datasets: [{
             label: 'כמות',
-            data: [1, 1, 1, 1, 1,],
+            data: [1, 2, 1, 2, 1,],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(54, 162, 235, 0.2)',
