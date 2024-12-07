@@ -1,7 +1,8 @@
 const logged = localStorage.getItem('logged');
-        if(logged !== 'true'){
-            window.location.href = "../login/login.html";
+if (logged !== 'true') {
+    window.location.href = "../login/login.html";
 }
+
 // פונקציה לטעינת XML עם async/await
 async function fetchXMLData(xmlSource, sourceName) {
     try {

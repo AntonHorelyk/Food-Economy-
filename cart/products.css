@@ -27,31 +27,31 @@
     height: 22em;
 
     & button {
-            font-size: 12px;
-            text-transform: uppercase;
-            letter-spacing: 2.5px;
-            font-weight: 500;
-            color: #000;
-            background-color: #fff;
-            border: none;
-            border-radius: 45px;
-            box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
-            transition: all 0.3s ease 0s;
-            cursor: pointer;
-            outline: none;
-        }
-
-        button:hover {
-            background-color: #e55235cf;
-            box-shadow: 0px 15px 20px #e55235cf;
-            color: #fff;
-            transform: translateY(-7px);
-        }
-
-        button:active {
-            transform: translateY(-1px);
-        }
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 2.5px;
+        font-weight: 500;
+        color: #000;
+        background-color: #fff;
+        border: none;
+        border-radius: 45px;
+        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease 0s;
+        cursor: pointer;
+        outline: none;
     }
+
+    button:hover {
+        background-color: #e55235cf;
+        box-shadow: 0px 15px 20px #e55235cf;
+        color: #fff;
+        transform: translateY(-7px);
+    }
+
+    button:active {
+        transform: translateY(-1px);
+    }
+}
 
 #cart-container {
     display: flex;
@@ -227,7 +227,8 @@ body {
 
 .about-links a {
     font-size: 20px;
-    margin-left: 25px
+    margin-left: 25px;
+    color: white;
 }
 
 .back-home a {
@@ -581,48 +582,6 @@ body {
     justify-content: center;
 }
 
-/* עיצוב ברירת מחדל נשאר כמו שהוא */
-
-/* עיצוב לטאבלטים ומסכים בגודל בינוני */
-@media (max-width: 1024px) {
-    #product-container {
-        grid-template-columns: 1fr 1fr; /* 2 מוצרים בשורה */
-    }
-    .product {
-        width: 14em; /* הקטן את גודל המוצר */
-        height: 20em;
-    }
-}
-
-/* עיצוב לטלפונים ניידים ומסכים קטנים */
-@media (max-width: 768px) {
-    #product-container {
-        grid-template-columns: 1fr; /* מוצר אחד בשורה */
-    }
-    .product {
-        width: 90%; /* התאמה לרוחב המסך */
-        height: auto; /* גובה דינמי */
-    }
-    .nav-container {
-        flex-direction: column; /* ערימה אנכית */
-        align-items: center;
-        text-align: center;
-    }
-    .nav-link {
-        margin: 10px 0; /* ריווח בין הקישורים */
-    }
-    .header-div {
-        flex-direction: column; /* ערימה אנכית */
-    }
-    .footer {
-        flex-direction: column; /* התאמה לפוטר */
-        text-align: center;
-        gap: 10px;
-    }
-    .buttonsCart {
-        grid-template-columns: 1fr; /* כפתור אחד בשורה */
-    }
-}
 
 .styled-button {
     font-family: 'Arial', sans-serif;
@@ -696,7 +655,51 @@ body {
 
 }
 
+/* עיצוב לטאבלטים ומסכים בגודל בינוני */
+@media (max-width: 1024px) {
+    #product-container {
+        grid-template-columns: 1fr 1fr;
+        /* 2 מוצרים בשורה */
+    }
 
+    .product {
+        width: 14em;
+        /* הקטן את גודל המוצר */
+        height: 20em;
+    }
+}
 
+/* עיצוב לטלפונים ניידים ומסכים קטנים */
+@media (max-width: 768px) {
+    #product-container {
+        grid-template-columns: 1fr;
+        /* מוצר אחד בשורה */
+    }
 
+    .product {
+        width: 90%;
+        /* התאמה לרוחב המסך */
+        height: auto;
+        /* גובה דינמי */
+    }
+
+    .nav-container {
+        flex-direction: column;
+        /* ערימה אנכית */
+        align-items: center;
+        text-align: center;
+    }
+
+    .nav-link {
+        margin: 10px 0;
+        /* ריווח בין הקישורים */
+    }
+
+    .footer {
+        text-align: center;
+        gap: 10px;
+        position: relative;
+        top: 1em;
+    }
+}
 
