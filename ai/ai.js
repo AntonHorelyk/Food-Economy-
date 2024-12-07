@@ -1,7 +1,7 @@
-// const logged = localStorage.getItem("logged");
-// if (logged !== "true") {
-//   window.location.href = "../login/login.html";
-// }
+const logged = localStorage.getItem("logged");
+if (logged !== "true") {
+  window.location.href = "../login/login.html";
+}
 const fileInput = document.getElementById("imageInput");
 const canvas = document.getElementById("imageCanvas");
 const croppedCanvas = document.createElement("canvas");

@@ -286,7 +286,8 @@ body{
 
 .about-links a {
     font-size: 20px;
-    margin-left: 25px
+    margin-left: 25px;
+    color: white;
 }
 
 .back-home a {
@@ -445,8 +446,12 @@ body{
     background-color: #e55235cf;
     ;  /* Add some padding to give space */
     box-sizing: border-box; /* Ensure padding is included in the width calculation */
+    height: 6vh;
 }
-
+.about-links{
+    position: relative;
+    bottom: 1vh;
+}
 
 
 video{
@@ -473,15 +478,102 @@ video{
         top: 1vh;
     }
 }
-@media (max-width: 468px){
-    body{
+@media (max-width: 468px) {
+    *{
+        width: 100%;
         overflow-x: hidden;
     }
-    .container{
-        width: 95%;
+
+    /* Header adjustments */
+
+    .header {
+        height: 8vh;
+        padding: 5px;
+    }
+
+    .header .logo {
+        font-size: 1.4rem; 
+    }
+    .words{
+        width: 120vw;
+    }
+    .loader{
+        width: 200vw;
+        position: relative;
+        top: 50%;
+        right: 9vw;
+        p{
+            width: 80vw;
+        }
+    }
+    .fancy{
+        width: 30%;
+        position: relative;
+
+    }
+
+    /* Navigation adjustments */
+    .nav-container {
+        flex-direction: column; /* Stack links vertically */
+        align-items: center;
+        padding: 10px;
+    }
+
+    .nav-link {
+        font-size: 0.8rem; /* Smaller font size */
+        padding: 3px 5px;
+        margin: 5px 0;
+    }
+
+    /* Container adjustments */
+    .container {
+        width: 95%; /* Adjusted width for smaller screens */
+        padding: 0 5px;
+        height: 100vh;
+    }
+
+    /* Buttons */
+    button {
+        font-size: 0.8rem; /* Reduce button size */
+        padding: 5px 10px;
+    }
+
+    /* Textarea adjustments */
+    textarea {
+        width: 100%; /* Use full width of container */
+        font-size: 0.8rem; /* Smaller font size */
+    }
+
+    /* Canvas adjustments */
+    canvas {
+        width: 95%; /* Use almost full width of container */
+    }
+
+    /* Footer adjustments */
+    .footer {
+        flex-direction: column; /* Stack footer items */
+        text-align: center;
+        padding: 10px 5px;
+        width: 100vw;
+        position: relative;
+       
+
         
     }
-    .global-nav{
-        width: 90%;
+
+    /* Other adjustments for smaller screens */
+    h1 {
+        font-size: 1.2rem; /* Reduce heading size */
+        margin-top: 10px;
     }
+    .a-backToHome a{
+        position: relative;
+        color: white;
+        bottom: -10vh;
+        z-index: 100;   
+        bottom: 6vh;
+
+    }
+
+        
 }
