@@ -597,7 +597,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 }
 
 
@@ -692,45 +692,45 @@ body {
     left: 0.5em;
     bottom: 3.5em;
     z-index: 5;
-  }
-  
-  .svgIcon {
+}
+
+.svgIcon {
     width: 12px;
     transition-duration: 0.3s;
-  }
-  
-  .svgIcon path {
+}
+
+.svgIcon path {
     fill: white;
-  }
-  
-  .button-up:hover {
+}
+
+.button-up:hover {
     width: 140px;
     border-radius: 50px;
     transition-duration: 0.3s;
     background-color: #e55235cf;
     align-items: center;
-  }
-  
-  .button-up:hover .svgIcon {
+}
+
+.button-up:hover .svgIcon {
     transition-duration: 0.3s;
     transform: translateY(-200%);
-  }
-  
-  .button-up::before {
+}
+
+.button-up::before {
     position: absolute;
     bottom: -20px;
     content: "בחזרה למעלה";
     color: white;
     font-size: 0px;
-  }
-  
-  .button-up:hover::before {
+}
+
+.button-up:hover::before {
     font-size: 13px;
     opacity: 1;
     bottom: unset;
     transition-duration: 0.3s;
-  }
-  
+}
+
 
 /* עיצוב לטאבלטים ומסכים בגודל בינוני */
 @media (max-width: 1024px) {
