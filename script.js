@@ -8,6 +8,15 @@ if (logged !== 'true') {
     window.location.href = "../login/login.html";
 }
 
+function logout(){  
+    alert('logout');
+    localStorage.setItem('logged', false);
+}
+
+document.querySelector('.logout').addEventListener('click', function(){
+    logout();
+})
+
 const nameOfUser = document.getElementById('nameOfUser');
 const nameFromStorage = localStorage.getItem('userName');
 console.log(nameFromStorage);
@@ -16,6 +25,8 @@ nameOfUser.textContent = nameFromStorage;
 const generate = async (prompt, from) => {
     console.log(prompt);
     console.log(from);
+    const spiner = document.querySelector('.three-body');
+    spiner.style.display = 'block';
 
     try {
         const response = await fetch(API_URL, {
@@ -42,6 +53,8 @@ const generate = async (prompt, from) => {
                 confirmButtonText: 'סגור',
                 html: `${answer}`,
                 focusConfirm: false,
+            }).then(()=>{
+                spiner.style.display = 'none';
             })
         } else if (from === "iHurry") {
             const answer = data.choices[0].message.content.trim();
@@ -50,6 +63,8 @@ const generate = async (prompt, from) => {
                 confirmButtonText: 'סגור',
                 html: `${answer}`,
                 focusConfirm: false,
+            }).then(()=>{
+                spiner.style.display = 'none';
             })
         } else if (from === "iHaveLeft") {
             const answer = data.choices[0].message.content.trim();
@@ -58,6 +73,8 @@ const generate = async (prompt, from) => {
                 confirmButtonText: 'סגור',
                 html: `${answer}`,
                 focusConfirm: false,
+            }).then(()=>{
+                spiner.style.display = 'none';
             })
         } else if (from === "convertAmount") {
             const answer = data.choices[0].message.content.trim();
@@ -66,6 +83,8 @@ const generate = async (prompt, from) => {
                 confirmButtonText: 'סגור',
                 html: `${answer}`,
                 focusConfirm: false,
+            }).then(()=>{
+                spiner.style.display = 'none';
             })
         } else if (from === 'getCategories') {
             const answer = data.choices[0].message.content;
@@ -99,7 +118,9 @@ const generate = async (prompt, from) => {
                                 confirmButtonText: "סגור",
                                 cancelButtonText: "סגור",
                                 focusConfirm: false,
-                            });
+                            }).then(()=>{
+                                spiner.style.display = 'none';
+                            })
                             resolve();
                         }); // Close the second modal after showing the second recipe
                     });
