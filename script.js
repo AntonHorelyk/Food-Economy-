@@ -9,7 +9,6 @@ if (logged !== "true") {
 }
 
 function logout() {
-  alert("logout");
   localStorage.setItem("logged", false);
 }
 
