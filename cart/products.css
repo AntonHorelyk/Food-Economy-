@@ -3,6 +3,7 @@
     justify-items: center;
     gap: 1em;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-bottom: 2em;
 }
 
 .product {
@@ -59,6 +60,22 @@
     justify-content: center;
     gap: 1em;
     flex-wrap: wrap;
+    margin-bottom: 60px;
+}
+
+#total-price-container {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    padding: 15px 30px;
+    color: #fff;
+    background: linear-gradient(90deg, #fc4925, #f6a78fc4);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    overflow: hidden;
 }
 
 .buttonsCart {
@@ -580,6 +597,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
 
@@ -655,6 +673,65 @@ body {
 
 }
 
+.button-up {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(20, 20, 20);
+    border: none;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 0px 4px #e55235cf;
+    cursor: pointer;
+    transition-duration: 0.3s;
+    overflow: hidden;
+
+    position: fixed;
+    left: 0.5em;
+    bottom: 3.5em;
+    z-index: 5;
+  }
+  
+  .svgIcon {
+    width: 12px;
+    transition-duration: 0.3s;
+  }
+  
+  .svgIcon path {
+    fill: white;
+  }
+  
+  .button-up:hover {
+    width: 140px;
+    border-radius: 50px;
+    transition-duration: 0.3s;
+    background-color: #e55235cf;
+    align-items: center;
+  }
+  
+  .button-up:hover .svgIcon {
+    transition-duration: 0.3s;
+    transform: translateY(-200%);
+  }
+  
+  .button-up::before {
+    position: absolute;
+    bottom: -20px;
+    content: "בחזרה למעלה";
+    color: white;
+    font-size: 0px;
+  }
+  
+  .button-up:hover::before {
+    font-size: 13px;
+    opacity: 1;
+    bottom: unset;
+    transition-duration: 0.3s;
+  }
+  
+
 /* עיצוב לטאבלטים ומסכים בגודל בינוני */
 @media (max-width: 1024px) {
     #product-container {
@@ -702,4 +779,3 @@ body {
         top: 1em;
     }
 }
-
