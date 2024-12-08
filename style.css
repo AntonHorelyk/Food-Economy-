@@ -389,7 +389,10 @@ body {
     color: rgb(255, 255, 255);
 }
 
-/* General styles for the div */
+.features-div{
+    padding: 30px;
+}
+
 #features {
     display: flex;
     flex-wrap: wrap;
