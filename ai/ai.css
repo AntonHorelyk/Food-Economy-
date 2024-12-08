@@ -460,17 +460,17 @@ video{
 }
 
 .a-backToHome{
-    font-weight: bolder;
-    position: relative;
-    bottom: 14vh;
-    left: 10vw;
+    /* position: relative; */
+    bottom: 12vh;
+    /* left: 10vw; */
+    align-items: center;
 }
 
 @media (max-width: 1180px) {
     .a-backToHome{
         z-index: 100;
         position: relative;
-        bottom: 6vh;
+        /* bottom: 6vh; */
 
     }
     .loader{
